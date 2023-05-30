@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-24/booking-calendar/booking-calendar-in-page-builder",
+  "id": "pi-24/booking-calendar/booking-calendar-in-page-builder",
+  "title": "Show booking-calendar interaction type in page builder",
+  "description": "Summary",
+  "source": "@site/../pi-24/booking-calendar/booking-calendar-in-page-builder.md",
+  "sourceDirName": "pi-24/booking-calendar",
+  "slug": "/pi-24/booking-calendar/booking-calendar-in-page-builder",
+  "permalink": "/docs/pi-24/booking-calendar/booking-calendar-in-page-builder",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-24/booking-calendar/booking-calendar-in-page-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a developer I will setup AI service on the team environment",
+    "permalink": "/docs/pi-24/ai-qna/setup-services-in-k8s-environment"
+  },
+  "next": {
+    "title": "As a user(Primary OR Additional) connected to O365, Exchange, ICloud calendar, Temp and Confirm event should be created",
+    "permalink": "/docs/pi-24/booking-calendar/cal-event-o365-exchange-ical"
+  }
+}

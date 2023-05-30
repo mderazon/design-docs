@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/live-chat-teams/live-chat-teams-in-oncehub-account-settings-for-admin",
+  "id": "pi-17/live-chat-teams/live-chat-teams-in-oncehub-account-settings-for-admin",
+  "title": "As an admin I can see teams in OnceHub account settings",
+  "description": "Summary",
+  "source": "@site/../pi-17/live-chat-teams/live-chat-teams-in-oncehub-account-settings-for-admin.md",
+  "sourceDirName": "pi-17/live-chat-teams",
+  "slug": "/pi-17/live-chat-teams/live-chat-teams-in-oncehub-account-settings-for-admin",
+  "permalink": "/docs/pi-17/live-chat-teams/live-chat-teams-in-oncehub-account-settings-for-admin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/live-chat-teams/live-chat-teams-in-oncehub-account-settings-for-admin.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As an admin, I can add a user to a team from the add users flow. Also, when an account is deleted, everything related to teams must be deleted.",
+    "permalink": "/docs/pi-17/live-chat-teams/live-chat-teams-in-add-user"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-17/oh-dashboard/booking-completed-events"
+  }
+}

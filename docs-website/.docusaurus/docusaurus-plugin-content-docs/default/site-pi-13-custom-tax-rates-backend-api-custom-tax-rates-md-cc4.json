@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-13/custom-tax-rates/backend-api-custom-tax-rates",
+  "id": "pi-13/custom-tax-rates/backend-api-custom-tax-rates",
+  "title": "Feature name",
+  "description": "Collect automatic tax",
+  "source": "@site/../pi-13/custom-tax-rates/backend-api-custom-tax-rates.md",
+  "sourceDirName": "pi-13/custom-tax-rates",
+  "slug": "/pi-13/custom-tax-rates/backend-api-custom-tax-rates",
+  "permalink": "/docs/pi-13/custom-tax-rates/backend-api-custom-tax-rates",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-13/custom-tax-rates/backend-api-custom-tax-rates.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, Contact support in the in-app Help menu now brings me to Jira portal",
+    "permalink": "/docs/pi-13/cs-support-channel-changes"
+  },
+  "next": {
+    "title": "Feature name : Feature page: Optimize SO Team Setup",
+    "permalink": "/docs/pi-13/default-resource-pool-for-new-accounts/"
+  }
+}

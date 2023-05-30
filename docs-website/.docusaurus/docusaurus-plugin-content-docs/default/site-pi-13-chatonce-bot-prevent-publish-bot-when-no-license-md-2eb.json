@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-13/chatonce-bot/prevent-publish-bot-when-no-license",
+  "id": "pi-13/chatonce-bot/prevent-publish-bot-when-no-license",
+  "title": "Prevent bot to publish if user have 0 ChatOnce licenses.",
+  "description": "Summary",
+  "source": "@site/../pi-13/chatonce-bot/prevent-publish-bot-when-no-license.md",
+  "sourceDirName": "pi-13/chatonce-bot",
+  "slug": "/pi-13/chatonce-bot/prevent-publish-bot-when-no-license",
+  "permalink": "/docs/pi-13/chatonce-bot/prevent-publish-bot-when-no-license",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-13/chatonce-bot/prevent-publish-bot-when-no-license.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prevent bot to publish if schedule action in pending state.",
+    "permalink": "/docs/pi-13/chatonce-bot/chatonce-bot-schedule-action-state"
+  },
+  "next": {
+    "title": "As an admin, I can assign ChatOnce licenses while adding one or more users",
+    "permalink": "/docs/pi-13/chatonce-license-assignment-while-adding-users"
+  }
+}

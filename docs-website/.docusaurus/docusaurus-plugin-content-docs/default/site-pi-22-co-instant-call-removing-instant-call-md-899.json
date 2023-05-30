@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/co-instant-call/removing-instant-call",
+  "id": "pi-22/co-instant-call/removing-instant-call",
+  "title": "As a user, I can use my live-chat availability toggle for both Live-chat and Instant meetings.",
+  "description": "Summary",
+  "source": "@site/../pi-22/co-instant-call/removing-instant-call.md",
+  "sourceDirName": "pi-22/co-instant-call",
+  "slug": "/pi-22/co-instant-call/removing-instant-call",
+  "permalink": "/docs/pi-22/co-instant-call/removing-instant-call",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/co-instant-call/removing-instant-call.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As an admin, I can configure a webhook notification.",
+    "permalink": "/docs/pi-22/co-instant-call/instant-call-webhook"
+  },
+  "next": {
+    "title": "An Admin can export contacts to a CSV file",
+    "permalink": "/docs/pi-22/contacts-lobby-csv-export/"
+  }
+}

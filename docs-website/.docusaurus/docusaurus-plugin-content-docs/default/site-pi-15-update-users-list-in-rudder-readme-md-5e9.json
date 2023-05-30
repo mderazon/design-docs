@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/update-users-list-in-rudder/readme",
+  "id": "pi-15/update-users-list-in-rudder/readme",
+  "title": "Create and run a script to update a list of users in Rudder",
+  "description": "Summary",
+  "source": "@site/../pi-15/update-users-list-in-rudder/readme.md",
+  "sourceDirName": "pi-15/update-users-list-in-rudder",
+  "slug": "/pi-15/update-users-list-in-rudder/",
+  "permalink": "/docs/pi-15/update-users-list-in-rudder/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/update-users-list-in-rudder/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CRM response needs to be able to update OH contact information",
+    "permalink": "/docs/pi-15/update-oh-contact/"
+  },
+  "next": {
+    "title": "As a OH PM, I can track usage of UTM filters in Mixpanel",
+    "permalink": "/docs/pi-15/utm-tags-in-activity-stream/tracking-utm-tags-in-mixpanel"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-13/chatonce-website-level-targeting/audience-targeting-lobby",
+  "id": "pi-13/chatonce-website-level-targeting/audience-targeting-lobby",
+  "title": "New Audience targeting lobby",
+  "description": "Summary",
+  "source": "@site/../pi-13/chatonce-website-level-targeting/audience-targeting-lobby.md",
+  "sourceDirName": "pi-13/chatonce-website-level-targeting",
+  "slug": "/pi-13/chatonce-website-level-targeting/audience-targeting-lobby",
+  "permalink": "/docs/pi-13/chatonce-website-level-targeting/audience-targeting-lobby",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-13/chatonce-website-level-targeting/audience-targeting-lobby.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Separate Audience identification and Audience targeting",
+    "permalink": "/docs/pi-13/chatonce-website-level-targeting/audience-targeting-details"
+  },
+  "next": {
+    "title": "Update the audience lobby page.",
+    "permalink": "/docs/pi-13/chatonce-website-level-targeting/update-audience-lobby"
+  }
+}

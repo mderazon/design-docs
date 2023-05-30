@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/formonce/live-chat-request-access",
+  "id": "pi-20/formonce/live-chat-request-access",
+  "title": "As a User, I can see Live chat interaction under actions tab in the form builder that opens an early access request dialog",
+  "description": "Summary",
+  "source": "@site/../pi-20/formonce/live-chat-request-access.md",
+  "sourceDirName": "pi-20/formonce",
+  "slug": "/pi-20/formonce/live-chat-request-access",
+  "permalink": "/docs/pi-20/formonce/live-chat-request-access",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/formonce/live-chat-request-access.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, I can copy and share the form link",
+    "permalink": "/docs/pi-20/formonce/copy-share-standalone-form"
+  },
+  "next": {
+    "title": "As a user, I can create a standalone form",
+    "permalink": "/docs/pi-20/formonce/standalone-form-customer-side"
+  }
+}

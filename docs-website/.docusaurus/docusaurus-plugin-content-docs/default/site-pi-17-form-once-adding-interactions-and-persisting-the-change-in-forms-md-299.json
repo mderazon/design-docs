@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/form-once/adding-interactions-and-persisting-the-change-in-forms",
+  "id": "pi-17/form-once/adding-interactions-and-persisting-the-change-in-forms",
+  "title": "As a User, I can add interactions and save form conversation.",
+  "description": "Summary",
+  "source": "@site/../pi-17/form-once/adding-interactions-and-persisting-the-change-in-forms.md",
+  "sourceDirName": "pi-17/form-once",
+  "slug": "/pi-17/form-once/adding-interactions-and-persisting-the-change-in-forms",
+  "permalink": "/docs/pi-17/form-once/adding-interactions-and-persisting-the-change-in-forms",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/form-once/adding-interactions-and-persisting-the-change-in-forms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding FormOnce setup in the top menu dropdown",
+    "permalink": "/docs/pi-17/form-once/adding-formonce-in-top-setup-menu"
+  },
+  "next": {
+    "title": "As a User, I can create form from scratch.",
+    "permalink": "/docs/pi-17/form-once/create-form"
+  }
+}

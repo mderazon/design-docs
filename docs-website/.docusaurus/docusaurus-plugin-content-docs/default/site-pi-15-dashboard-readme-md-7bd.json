@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/dashboard/readme",
+  "id": "pi-15/dashboard/readme",
+  "title": "Creating dashboard that will show ChatOnce lead generation and engagement",
+  "description": "Summary",
+  "source": "@site/../pi-15/dashboard/readme.md",
+  "sourceDirName": "pi-15/dashboard",
+  "slug": "/pi-15/dashboard/",
+  "permalink": "/docs/pi-15/dashboard/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/dashboard/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a CSM, I am not able to access the Reports section of an account when using backend login with a Static Support code",
+    "permalink": "/docs/pi-15/csm-permission-changes/activity-stream-and-reports-section-using-backend-login"
+  },
+  "next": {
+    "title": "Bot-specific path",
+    "permalink": "/docs/pi-15/default-bot/default-bot-from-bot-specific-path"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/booking-calendars/block-and-confirm-meetings-for-chatonce",
+  "id": "pi-23/booking-calendars/block-and-confirm-meetings-for-chatonce",
+  "title": "Booking Calender",
+  "description": "Summary",
+  "source": "@site/../pi-23/booking-calendars/block-and-confirm-meetings-for-chatonce.md",
+  "sourceDirName": "pi-23/booking-calendars",
+  "slug": "/pi-23/booking-calendars/block-and-confirm-meetings-for-chatonce",
+  "permalink": "/docs/pi-23/booking-calendars/block-and-confirm-meetings-for-chatonce",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/booking-calendars/block-and-confirm-meetings-for-chatonce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Confirm the meeting with Meet and Zoom options for chat bots and forms",
+    "permalink": "/docs/pi-23/booking-calendar-vcs-bookings/booking-calendar-vcs-processing"
+  },
+  "next": {
+    "title": "As a customer I want to cancel my meeting",
+    "permalink": "/docs/pi-23/cancel-booking-calendar/booking-calendar-cancel-flow"
+  }
+}

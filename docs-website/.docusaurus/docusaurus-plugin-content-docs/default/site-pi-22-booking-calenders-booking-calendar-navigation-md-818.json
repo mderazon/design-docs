@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/booking-calenders/booking-calendar-navigation",
+  "id": "pi-22/booking-calenders/booking-calendar-navigation",
+  "title": "Booking Calendar",
+  "description": "Summary",
+  "source": "@site/../pi-22/booking-calenders/booking-calendar-navigation.md",
+  "sourceDirName": "pi-22/booking-calenders",
+  "slug": "/pi-22/booking-calenders/booking-calendar-navigation",
+  "permalink": "/docs/pi-22/booking-calenders/booking-calendar-navigation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/booking-calenders/booking-calendar-navigation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booking Calender",
+    "permalink": "/docs/pi-22/booking-calenders/booking-calendar-meeting-owner"
+  },
+  "next": {
+    "title": "Create a new booking calendar service",
+    "permalink": "/docs/pi-22/booking-calenders/booking-calendar-service"
+  }
+}

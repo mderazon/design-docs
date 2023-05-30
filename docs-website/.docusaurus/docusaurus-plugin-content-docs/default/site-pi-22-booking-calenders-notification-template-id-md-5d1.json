@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/booking-calenders/notification-template-id",
+  "id": "pi-22/booking-calenders/notification-template-id",
+  "title": "Save Customer Notification Workflow For Multiple Booking Calendars",
+  "description": "Summary",
+  "source": "@site/../pi-22/booking-calenders/notification-template-id.md",
+  "sourceDirName": "pi-22/booking-calenders",
+  "slug": "/pi-22/booking-calenders/notification-template-id",
+  "permalink": "/docs/pi-22/booking-calenders/notification-template-id",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/booking-calenders/notification-template-id.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Get, PUT, PATCH and DELETE APIs in booking calendar service",
+    "permalink": "/docs/pi-22/booking-calenders/new-apis-in-booking-calendar-service"
+  },
+  "next": {
+    "title": "Users can use the new Scheduling Action Booking calendar to select a booking calendar",
+    "permalink": "/docs/pi-22/booking-calenders/users-can-select-a-booking-calendar-from-within-the-scheduling-action"
+  }
+}

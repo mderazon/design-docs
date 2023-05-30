@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/resource-pool-with-round-robin/readme",
+  "id": "pi-12/resource-pool-with-round-robin/readme",
+  "title": "As a developer, i will add logic for resource pool scenarios in new time slot service.",
+  "description": "Summary",
+  "source": "@site/../pi-12/resource-pool-with-round-robin/readme.md",
+  "sourceDirName": "pi-12/resource-pool-with-round-robin",
+  "slug": "/pi-12/resource-pool-with-round-robin/",
+  "permalink": "/docs/pi-12/resource-pool-with-round-robin/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/resource-pool-with-round-robin/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Updating UI on Calendar connection page and email notification section",
+    "permalink": "/docs/pi-12/remove-io-ui/calendar-connection-and-email-noticfication-io-removal"
+  },
+  "next": {
+    "title": "S3 Attachment Upload From CF",
+    "permalink": "/docs/pi-12/s3-attachment-upload-from-cf/"
+  }
+}

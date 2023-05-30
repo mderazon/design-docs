@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/publish-bot-in-different-ways/quick-share-link-for-bots-and-forms",
+  "id": "pi-21/publish-bot-in-different-ways/quick-share-link-for-bots-and-forms",
+  "title": "As a user, I will see the default settings applied on bots/forms when accessed using a quick share link",
+  "description": "Summary",
+  "source": "@site/../pi-21/publish-bot-in-different-ways/quick-share-link-for-bots-and-forms.md",
+  "sourceDirName": "pi-21/publish-bot-in-different-ways",
+  "slug": "/pi-21/publish-bot-in-different-ways/quick-share-link-for-bots-and-forms",
+  "permalink": "/docs/pi-21/publish-bot-in-different-ways/quick-share-link-for-bots-and-forms",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/publish-bot-in-different-ways/quick-share-link-for-bots-and-forms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a developer I will make preview page dynamic with embed-setting.",
+    "permalink": "/docs/pi-21/publish-bot-in-different-ways/dynamic-preview-form"
+  },
+  "next": {
+    "title": "As a developer I remove the bot type and will make changes to the bot lobby and setup.",
+    "permalink": "/docs/pi-21/publish-bot-in-different-ways/remove-different-types-bot-create-dropdown"
+  }
+}

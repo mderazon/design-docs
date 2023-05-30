@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/decoupling-scheduling-action/readme",
+  "id": "pi-20/decoupling-scheduling-action/readme",
+  "title": "readme",
+  "description": "High level design of the new scheduling architecture, created to support future booking scenarios:",
+  "source": "@site/../pi-20/decoupling-scheduling-action/readme.md",
+  "sourceDirName": "pi-20/decoupling-scheduling-action",
+  "slug": "/pi-20/decoupling-scheduling-action/",
+  "permalink": "/docs/pi-20/decoupling-scheduling-action/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/decoupling-scheduling-action/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Save filters",
+    "permalink": "/docs/pi-20/contacts-lobby/save-contact-filters"
+  },
+  "next": {
+    "title": "As an admin I want to be able to set schedule action fields for the scheduling action.",
+    "permalink": "/docs/pi-20/decoupling-scheduling-action/booking-with-a-member/meeting-settings-to-schedule-action"
+  }
+}

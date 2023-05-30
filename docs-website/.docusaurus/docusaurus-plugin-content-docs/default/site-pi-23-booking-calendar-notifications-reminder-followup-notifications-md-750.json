@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/booking-calendar-notifications/reminder-followup-notifications",
+  "id": "pi-23/booking-calendar-notifications/reminder-followup-notifications",
+  "title": "Redminder & Followup notification",
+  "description": "Summary",
+  "source": "@site/../pi-23/booking-calendar-notifications/reminder-followup-notifications.md",
+  "sourceDirName": "pi-23/booking-calendar-notifications",
+  "slug": "/pi-23/booking-calendar-notifications/reminder-followup-notifications",
+  "permalink": "/docs/pi-23/booking-calendar-notifications/reminder-followup-notifications",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/booking-calendar-notifications/reminder-followup-notifications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booking Calendar Notifications",
+    "permalink": "/docs/pi-23/booking-calendar-notifications/calendar-event-notification-template"
+  },
+  "next": {
+    "title": "Booking Calendar VCS Options",
+    "permalink": "/docs/pi-23/booking-calendar-vcs-bookings/booking-caledar-vcs-bookings"
+  }
+}

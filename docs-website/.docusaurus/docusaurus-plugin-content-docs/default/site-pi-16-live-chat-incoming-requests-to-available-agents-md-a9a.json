@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/live-chat/incoming-requests-to-available-agents",
+  "id": "pi-16/live-chat/incoming-requests-to-available-agents",
+  "title": "As a user, I can see the incoming request only when I am available and if unavailable then no new request will show up.",
+  "description": "Summary",
+  "source": "@site/../pi-16/live-chat/incoming-requests-to-available-agents.md",
+  "sourceDirName": "pi-16/live-chat",
+  "slug": "/pi-16/live-chat/incoming-requests-to-available-agents",
+  "permalink": "/docs/pi-16/live-chat/incoming-requests-to-available-agents",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/live-chat/incoming-requests-to-available-agents.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can see abandoned conversation in the activity stream after 10 minutes.",
+    "permalink": "/docs/pi-16/live-chat/abandoned-live-chat-conversation-after-10min"
+  },
+  "next": {
+    "title": "As a visitor, I can book meetings during live-chat",
+    "permalink": "/docs/pi-16/live-chat/instant-scheduling/confirm-instant-schedule-by-visitor"
+  }
+}

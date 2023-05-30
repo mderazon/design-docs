@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/mark-activities-to-be-deleted-cronjob/mark-activities-to-be-deleted-cronjob",
+  "id": "pi-19/mark-activities-to-be-deleted-cronjob/mark-activities-to-be-deleted-cronjob",
+  "title": "Delete SO/CO/FO meetings after 42 days for Starter plan accounts",
+  "description": "Summary",
+  "source": "@site/../pi-19/mark-activities-to-be-deleted-cronjob/mark-activities-to-be-deleted-cronjob.md",
+  "sourceDirName": "pi-19/mark-activities-to-be-deleted-cronjob",
+  "slug": "/pi-19/mark-activities-to-be-deleted-cronjob/",
+  "permalink": "/docs/pi-19/mark-activities-to-be-deleted-cronjob/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/mark-activities-to-be-deleted-cronjob/mark-activities-to-be-deleted-cronjob.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "user can see the basic details, so that they can click and be taken to the lobby.",
+    "permalink": "/docs/pi-19/live-chat-webhook-notification-url/user-can-see-the-basic-details-so-that-they-can-click-and-be-taken-to-the-lobby"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-19/migrate-vantiv-cards-to-ba/comple-migration-to-billagain"
+  }
+}

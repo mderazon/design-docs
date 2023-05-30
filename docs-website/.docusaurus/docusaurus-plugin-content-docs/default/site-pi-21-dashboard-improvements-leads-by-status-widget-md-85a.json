@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/dashboard-improvements/leads-by-status-widget",
+  "id": "pi-21/dashboard-improvements/leads-by-status-widget",
+  "title": "Basic usability and UI improvements on the dashboard",
+  "description": "Summary",
+  "source": "@site/../pi-21/dashboard-improvements/leads-by-status-widget.md",
+  "sourceDirName": "pi-21/dashboard-improvements",
+  "slug": "/pi-21/dashboard-improvements/leads-by-status-widget",
+  "permalink": "/docs/pi-21/dashboard-improvements/leads-by-status-widget",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/dashboard-improvements/leads-by-status-widget.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contacts lobby optimizations",
+    "permalink": "/docs/pi-21/contacts-lobby-optimisations/"
+  },
+  "next": {
+    "title": "Basic usability and UI improvements on the dashboard",
+    "permalink": "/docs/pi-21/dashboard-improvements/time-to-engagement-widget-ui"
+  }
+}

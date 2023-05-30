@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/live-chat-empty-state/live-chat-empty-state",
+  "id": "pi-17/live-chat-empty-state/live-chat-empty-state",
+  "title": "As a user, i will see relevant empty state messages while visiting LiveChat Inbox",
+  "description": "Summary",
+  "source": "@site/../pi-17/live-chat-empty-state/live-chat-empty-state.md",
+  "sourceDirName": "pi-17/live-chat-empty-state",
+  "slug": "/pi-17/live-chat-empty-state/",
+  "permalink": "/docs/pi-17/live-chat-empty-state/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/live-chat-empty-state/live-chat-empty-state.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As an admin, I will see an error when I add more than 25 users while in the starter plan",
+    "permalink": "/docs/pi-17/limit-starter-account-user-creation/"
+  },
+  "next": {
+    "title": "Improve logic for Accept live chat toggle for chatonce",
+    "permalink": "/docs/pi-17/live-chat-polling-conditions/"
+  }
+}

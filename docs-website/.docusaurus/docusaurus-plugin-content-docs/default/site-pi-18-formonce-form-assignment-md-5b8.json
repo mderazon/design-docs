@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/formonce/form-assignment",
+  "id": "pi-18/formonce/form-assignment",
+  "title": "Editing assignment under forms",
+  "description": "Summary",
+  "source": "@site/../pi-18/formonce/form-assignment.md",
+  "sourceDirName": "pi-18/formonce",
+  "slug": "/pi-18/formonce/form-assignment",
+  "permalink": "/docs/pi-18/formonce/form-assignment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/formonce/form-assignment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding filters for FO activities",
+    "permalink": "/docs/pi-18/formonce/filters-for-formonce"
+  },
+  "next": {
+    "title": "Distinguish FormOnce activities in the Activity stream",
+    "permalink": "/docs/pi-18/formonce/formonce-activities-in-activitystream"
+  }
+}

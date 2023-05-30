@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/booking-calendar-vcs-bookings/booking-calendar-vcs-processing",
+  "id": "pi-23/booking-calendar-vcs-bookings/booking-calendar-vcs-processing",
+  "title": "Confirm the meeting with Meet and Zoom options for chat bots and forms",
+  "description": "Flow of processing of selected VCS option",
+  "source": "@site/../pi-23/booking-calendar-vcs-bookings/booking-calendar-vcs-processing.md",
+  "sourceDirName": "pi-23/booking-calendar-vcs-bookings",
+  "slug": "/pi-23/booking-calendar-vcs-bookings/booking-calendar-vcs-processing",
+  "permalink": "/docs/pi-23/booking-calendar-vcs-bookings/booking-calendar-vcs-processing",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/booking-calendar-vcs-bookings/booking-calendar-vcs-processing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booking Calendar VCS Options",
+    "permalink": "/docs/pi-23/booking-calendar-vcs-bookings/booking-caledar-vcs-bookings"
+  },
+  "next": {
+    "title": "Booking Calender",
+    "permalink": "/docs/pi-23/booking-calendars/block-and-confirm-meetings-for-chatonce"
+  }
+}

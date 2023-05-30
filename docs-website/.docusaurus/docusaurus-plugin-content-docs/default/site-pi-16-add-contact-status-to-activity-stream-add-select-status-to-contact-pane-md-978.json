@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/add-contact-status-to-activity-stream/add-select-status-to-contact-pane",
+  "id": "pi-16/add-contact-status-to-activity-stream/add-select-status-to-contact-pane",
+  "title": "add-select-status-to-contact-pane",
+  "description": "Manually set the status of a contact who has not yet been qualified.",
+  "source": "@site/../pi-16/add-contact-status-to-activity-stream/add-select-status-to-contact-pane.md",
+  "sourceDirName": "pi-16/add-contact-status-to-activity-stream",
+  "slug": "/pi-16/add-contact-status-to-activity-stream/add-select-status-to-contact-pane",
+  "permalink": "/docs/pi-16/add-contact-status-to-activity-stream/add-select-status-to-contact-pane",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/add-contact-status-to-activity-stream/add-select-status-to-contact-pane.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "add-contact-status-to-activity-stream",
+    "permalink": "/docs/pi-16/add-contact-status-to-activity-stream/"
+  },
+  "next": {
+    "title": "Add V2 Pricing Components to Update BillAgain Subscription API",
+    "permalink": "/docs/pi-16/add-v2-pricing-components-to-update-subscripton-api/add-v2-pricing-components-to-update-subscription-api"
+  }
+}

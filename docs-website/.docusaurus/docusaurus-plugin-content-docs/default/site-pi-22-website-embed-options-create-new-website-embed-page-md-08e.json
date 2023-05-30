@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/website-embed-options/create-new-website-embed-page",
+  "id": "pi-22/website-embed-options/create-new-website-embed-page",
+  "title": "As a website visitor, I can see new Website-Embed option in main left navigation",
+  "description": "Summary",
+  "source": "@site/../pi-22/website-embed-options/create-new-website-embed-page.md",
+  "sourceDirName": "pi-22/website-embed-options",
+  "slug": "/pi-22/website-embed-options/create-new-website-embed-page",
+  "permalink": "/docs/pi-22/website-embed-options/create-new-website-embed-page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/website-embed-options/create-new-website-embed-page.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, when I click the embed options, user has an easy flow from the lobby to the respective section.",
+    "permalink": "/docs/pi-22/website-embed-options/add-routing-in-embed-options"
+  },
+  "next": {
+    "title": "As a user, when I click on automatic reach out options, user has an easy flow from the lobby to the respective sections.(Move the Targeted chatbot settings section from chatonce to Oncehub)",
+    "permalink": "/docs/pi-22/website-embed-options/move-targeted-chatbot-settings-from-chatonce-to-oncehub"
+  }
+}

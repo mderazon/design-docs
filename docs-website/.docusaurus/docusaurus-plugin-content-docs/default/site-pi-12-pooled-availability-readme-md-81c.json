@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/pooled-availability/readme",
+  "id": "pi-12/pooled-availability/readme",
+  "title": "GetSchedulerTimesPooledObj",
+  "description": "Summary",
+  "source": "@site/../pi-12/pooled-availability/readme.md",
+  "sourceDirName": "pi-12/pooled-availability",
+  "slug": "/pi-12/pooled-availability/",
+  "permalink": "/docs/pi-12/pooled-availability/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/pooled-availability/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "When Account is in Soft/Hard Payment Failure or in Manual Paid, User will not be able to purchase new product or add/remove licenses.",
+    "permalink": "/docs/pi-12/payment-failure-redirection/co-so-purchase-now-redirection"
+  },
+  "next": {
+    "title": "User see the term \"Early access\" instead of Private beta for ChatOnce product",
+    "permalink": "/docs/pi-12/private-beta-text-change-to-early-access/private-beta-text-change-early-access"
+  }
+}

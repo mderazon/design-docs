@@ -1,0 +1,20 @@
+{
+  "unversionedId": "pi-11/account-level-features/disable-bcc-compliance-emails",
+  "id": "pi-11/account-level-features/disable-bcc-compliance-emails",
+  "title": "Disable BCC Compliance Emails field for certain accounts.",
+  "description": "Summary",
+  "source": "@site/../pi-11/account-level-features/disable-bcc-compliance-emails.md",
+  "sourceDirName": "pi-11/account-level-features",
+  "slug": "/pi-11/account-level-features/disable-bcc-compliance-emails",
+  "permalink": "/docs/pi-11/account-level-features/disable-bcc-compliance-emails",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/account-level-features/disable-bcc-compliance-emails.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Track Permanently Deleted Activities And Show Them In Analytics",
+    "permalink": "/docs/pi-11/analytics/tracking-deleted-activities"
+  }
+}

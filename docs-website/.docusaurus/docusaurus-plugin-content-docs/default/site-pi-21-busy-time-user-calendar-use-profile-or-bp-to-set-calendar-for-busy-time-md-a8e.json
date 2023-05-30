@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/busy-time-user-calendar/use-profile-or-bp-to-set-calendar-for-busy-time",
+  "id": "pi-21/busy-time-user-calendar/use-profile-or-bp-to-set-calendar-for-busy-time",
+  "title": "Use profile or booking page to set calendars for busy time.",
+  "description": "Summary",
+  "source": "@site/../pi-21/busy-time-user-calendar/use-profile-or-bp-to-set-calendar-for-busy-time.md",
+  "sourceDirName": "pi-21/busy-time-user-calendar",
+  "slug": "/pi-21/busy-time-user-calendar/use-profile-or-bp-to-set-calendar-for-busy-time",
+  "permalink": "/docs/pi-21/busy-time-user-calendar/use-profile-or-bp-to-set-calendar-for-busy-time",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/busy-time-user-calendar/use-profile-or-bp-to-set-calendar-for-busy-time.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Consider busy time for live chat as an optional setting.",
+    "permalink": "/docs/pi-21/busy-time-user-calendar/consider-busy-time-for-live-chat"
+  },
+  "next": {
+    "title": "As a user, I can accept an instant call.",
+    "permalink": "/docs/pi-21/co-instant-call/accept-instant-call-from-visitor"
+  }
+}

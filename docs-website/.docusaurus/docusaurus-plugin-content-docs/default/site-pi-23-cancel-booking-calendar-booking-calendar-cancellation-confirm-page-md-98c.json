@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/cancel-booking-calendar/booking-calendar-cancellation-confirm-page",
+  "id": "pi-23/cancel-booking-calendar/booking-calendar-cancellation-confirm-page",
+  "title": "Booking Calendar Confirm Meeting Cancellation",
+  "description": "Summary",
+  "source": "@site/../pi-23/cancel-booking-calendar/booking-calendar-cancellation-confirm-page.md",
+  "sourceDirName": "pi-23/cancel-booking-calendar",
+  "slug": "/pi-23/cancel-booking-calendar/booking-calendar-cancellation-confirm-page",
+  "permalink": "/docs/pi-23/cancel-booking-calendar/booking-calendar-cancellation-confirm-page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/cancel-booking-calendar/booking-calendar-cancellation-confirm-page.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a customer I want to cancel my meeting",
+    "permalink": "/docs/pi-23/cancel-booking-calendar/booking-calendar-cancel-flow"
+  },
+  "next": {
+    "title": "Cancel Booking Calendar Meeting",
+    "permalink": "/docs/pi-23/cancel-booking-calendar/cancel-booking-calendar-meeting"
+  }
+}

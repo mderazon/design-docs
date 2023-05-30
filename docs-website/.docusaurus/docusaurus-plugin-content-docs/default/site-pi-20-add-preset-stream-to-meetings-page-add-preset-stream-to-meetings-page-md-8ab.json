@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/add-preset-stream-to-meetings-page/add-preset-stream-to-meetings-page",
+  "id": "pi-20/add-preset-stream-to-meetings-page/add-preset-stream-to-meetings-page",
+  "title": "Create preset filters where I can find all of my account’s past meetings on a page where they are not mixed with other activities",
+  "description": "Summary",
+  "source": "@site/../pi-20/add-preset-stream-to-meetings-page/add-preset-stream-to-meetings-page.md",
+  "sourceDirName": "pi-20/add-preset-stream-to-meetings-page",
+  "slug": "/pi-20/add-preset-stream-to-meetings-page/",
+  "permalink": "/docs/pi-20/add-preset-stream-to-meetings-page/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/add-preset-stream-to-meetings-page/add-preset-stream-to-meetings-page.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create preset filters where I can find all of my account’s past live chats on a page where they are not mixed with other activities",
+    "permalink": "/docs/pi-20/add-preset-filter-to-livechat-page/"
+  },
+  "next": {
+    "title": "Adding UTM parmateres to booking api",
+    "permalink": "/docs/pi-20/add-utm-parmateres-to-booking-api/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/formonce/get-started-with-form-once",
+  "id": "pi-18/formonce/get-started-with-form-once",
+  "title": "At the time of signup, redirect user on formonce lobby when user click on Get-stared button of FO.",
+  "description": "Summary",
+  "source": "@site/../pi-18/formonce/get-started-with-form-once.md",
+  "sourceDirName": "pi-18/formonce",
+  "slug": "/pi-18/formonce/get-started-with-form-once",
+  "permalink": "/docs/pi-18/formonce/get-started-with-form-once",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/formonce/get-started-with-form-once.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Distinguish FormOnce activities in the Activity stream",
+    "permalink": "/docs/pi-18/formonce/formonce-activities-in-activitystream"
+  },
+  "next": {
+    "title": "As a User, I can preview a form",
+    "permalink": "/docs/pi-18/formonce/preview-form"
+  }
+}

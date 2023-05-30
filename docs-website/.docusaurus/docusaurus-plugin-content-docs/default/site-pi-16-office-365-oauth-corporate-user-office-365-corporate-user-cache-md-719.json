@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/office365-oauth-corporate-user/office365-corporate-user-cache",
+  "id": "pi-16/office365-oauth-corporate-user/office365-corporate-user-cache",
+  "title": "As a User, I can enable/disable my cache if I am connected to Corporate O365(New Users).",
+  "description": "Summary",
+  "source": "@site/../pi-16/office365-oauth-corporate-user/office365-corporate-user-cache.md",
+  "sourceDirName": "pi-16/office365-oauth-corporate-user",
+  "slug": "/pi-16/office365-oauth-corporate-user/office365-corporate-user-cache",
+  "permalink": "/docs/pi-16/office365-oauth-corporate-user/office365-corporate-user-cache",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/office365-oauth-corporate-user/office365-corporate-user-cache.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I should be able to use 2 way sync mechanism for my O365 oauth corporate calendar connection.",
+    "permalink": "/docs/pi-16/office365-oauth-corporate-user/office365-corporate-user-2waysync"
+  },
+  "next": {
+    "title": "Prefetch schedule timeslots",
+    "permalink": "/docs/pi-16/prefetch-timeslots/"
+  }
+}

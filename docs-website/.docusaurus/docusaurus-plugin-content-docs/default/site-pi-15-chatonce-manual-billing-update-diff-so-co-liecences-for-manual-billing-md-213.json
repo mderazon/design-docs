@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/chatonce-manual-billing/update-diff-so-co-liecences-for-manual-billing",
+  "id": "pi-15/chatonce-manual-billing/update-diff-so-co-liecences-for-manual-billing",
+  "title": "Update different number of ScheduleOnce and ChatOnce licenses as account is placed on manual billing using the CS procedure",
+  "description": "Summary",
+  "source": "@site/../pi-15/chatonce-manual-billing/update-diff-so-co-liecences-for-manual-billing.md",
+  "sourceDirName": "pi-15/chatonce-manual-billing",
+  "slug": "/pi-15/chatonce-manual-billing/update-diff-so-co-liecences-for-manual-billing",
+  "permalink": "/docs/pi-15/chatonce-manual-billing/update-diff-so-co-liecences-for-manual-billing",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/chatonce-manual-billing/update-diff-so-co-liecences-for-manual-billing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Allowing CS admin to manually billed ChatOnce enabled accounts",
+    "permalink": "/docs/pi-15/chatonce-manual-billing/"
+  },
+  "next": {
+    "title": "Installation of a package",
+    "permalink": "/docs/pi-15/crm-service/installation-of-package"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/form-once/adding-formonce-in-top-setup-menu",
+  "id": "pi-17/form-once/adding-formonce-in-top-setup-menu",
+  "title": "Adding FormOnce setup in the top menu dropdown",
+  "description": "Summary",
+  "source": "@site/../pi-17/form-once/adding-formonce-in-top-setup-menu.md",
+  "sourceDirName": "pi-17/form-once",
+  "slug": "/pi-17/form-once/adding-formonce-in-top-setup-menu",
+  "permalink": "/docs/pi-17/form-once/adding-formonce-in-top-setup-menu",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/form-once/adding-formonce-in-top-setup-menu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user signing up from browser 1, I should be able to verify my email in browser 2 without being asked to log in again",
+    "permalink": "/docs/pi-17/email-verification/"
+  },
+  "next": {
+    "title": "As a User, I can add interactions and save form conversation.",
+    "permalink": "/docs/pi-17/form-once/adding-interactions-and-persisting-the-change-in-forms"
+  }
+}

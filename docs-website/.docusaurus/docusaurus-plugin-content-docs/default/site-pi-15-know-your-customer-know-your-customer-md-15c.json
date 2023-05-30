@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/know-your-customer/know-your-customer",
+  "id": "pi-15/know-your-customer/know-your-customer",
+  "title": "Know your customer questions (onboarding)",
+  "description": "Summary",
+  "source": "@site/../pi-15/know-your-customer/know-your-customer.md",
+  "sourceDirName": "pi-15/know-your-customer",
+  "slug": "/pi-15/know-your-customer/",
+  "permalink": "/docs/pi-15/know-your-customer/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/know-your-customer/know-your-customer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User I will not see my calendar event details in the Date-specific availability tab.",
+    "permalink": "/docs/pi-15/hide-calendar-data-in-date-specific/hide-calendar-event-data-in-date-specific-availability-view"
+  },
+  "next": {
+    "title": "Accept live chat conversation from the admin side",
+    "permalink": "/docs/pi-15/live-chat/accept-live-chat-request"
+  }
+}

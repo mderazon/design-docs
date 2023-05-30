@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/submitonce/qualification-rules-for-multi-select",
+  "id": "pi-20/submitonce/qualification-rules-for-multi-select",
+  "title": "As a user I can setup multiselect matching in my qualification rules",
+  "description": "Summary",
+  "source": "@site/../pi-20/submitonce/qualification-rules-for-multi-select.md",
+  "sourceDirName": "pi-20/submitonce",
+  "slug": "/pi-20/submitonce/qualification-rules-for-multi-select",
+  "permalink": "/docs/pi-20/submitonce/qualification-rules-for-multi-select",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/submitonce/qualification-rules-for-multi-select.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a website visitor, they can close the lightbox popup bot and submit the form",
+    "permalink": "/docs/pi-20/submitonce/load-the-first-bot-from-qualification-rules-for-submit-once"
+  },
+  "next": {
+    "title": "As a user I can install the .js code snippet into my webform",
+    "permalink": "/docs/pi-20/submitonce/qualification-rules-for-numbers"
+  }
+}

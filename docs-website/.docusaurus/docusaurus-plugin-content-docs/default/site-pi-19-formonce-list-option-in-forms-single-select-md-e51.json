@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/formonce/list-option-in-forms-single-select",
+  "id": "pi-19/formonce/list-option-in-forms-single-select",
+  "title": "As a User, I can choose to send list options on a single select question.",
+  "description": "Summary",
+  "source": "@site/../pi-19/formonce/list-option-in-forms-single-select.md",
+  "sourceDirName": "pi-19/formonce",
+  "slug": "/pi-19/formonce/list-option-in-forms-single-select",
+  "permalink": "/docs/pi-19/formonce/list-option-in-forms-single-select",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/formonce/list-option-in-forms-single-select.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can rename and duplicate the form.",
+    "permalink": "/docs/pi-19/formonce/form-rename-and-duplicate"
+  },
+  "next": {
+    "title": "Enabling multi select questions to forms",
+    "permalink": "/docs/pi-19/formonce/multi-select-option"
+  }
+}

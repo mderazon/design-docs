@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/chatonce/select-time-slot-before-answering-fallback-questions-in-instant-scheduling",
+  "id": "pi-18/chatonce/select-time-slot-before-answering-fallback-questions-in-instant-scheduling",
+  "title": "As a Visitor, I can select time slot before answering fallback questions in instant schedule action.",
+  "description": "Summary",
+  "source": "@site/../pi-18/chatonce/select-time-slot-before-answering-fallback-questions-in-instant-scheduling.md",
+  "sourceDirName": "pi-18/chatonce",
+  "slug": "/pi-18/chatonce/select-time-slot-before-answering-fallback-questions-in-instant-scheduling",
+  "permalink": "/docs/pi-18/chatonce/select-time-slot-before-answering-fallback-questions-in-instant-scheduling",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/chatonce/select-time-slot-before-answering-fallback-questions-in-instant-scheduling.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As an Admin, I will be able to edit the fall back questions from the builder for LiveChat action",
+    "permalink": "/docs/pi-18/chatonce/livechat-action-fallback-question-builder"
+  },
+  "next": {
+    "title": "As a Visitor, I will not be asked for fallback questions before livechat handoff",
+    "permalink": "/docs/pi-18/chatonce/skip-fallback-before-livechat-handoff"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/live-chat-polling-conditions/live-chat-polling-conditions",
+  "id": "pi-17/live-chat-polling-conditions/live-chat-polling-conditions",
+  "title": "Improve logic for Accept live chat toggle for chatonce",
+  "description": "Summary",
+  "source": "@site/../pi-17/live-chat-polling-conditions/live-chat-polling-conditions.md",
+  "sourceDirName": "pi-17/live-chat-polling-conditions",
+  "slug": "/pi-17/live-chat-polling-conditions/",
+  "permalink": "/docs/pi-17/live-chat-polling-conditions/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/live-chat-polling-conditions/live-chat-polling-conditions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, i will see relevant empty state messages while visiting LiveChat Inbox",
+    "permalink": "/docs/pi-17/live-chat-empty-state/"
+  },
+  "next": {
+    "title": "As an admin, I can select a team to assign live chat to while setting up live chat",
+    "permalink": "/docs/pi-17/live-chat-teams/broadcast-live-chat-to-live-chat-team"
+  }
+}

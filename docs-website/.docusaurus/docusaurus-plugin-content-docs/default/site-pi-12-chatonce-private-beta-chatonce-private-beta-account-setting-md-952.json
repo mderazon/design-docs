@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/chatonce-private-beta/chatonce-private-beta-account-setting",
+  "id": "pi-12/chatonce-private-beta/chatonce-private-beta-account-setting",
+  "title": "Updating UI for CO product status on Account Setting Page",
+  "description": "Summary",
+  "source": "@site/../pi-12/chatonce-private-beta/chatonce-private-beta-account-setting.md",
+  "sourceDirName": "pi-12/chatonce-private-beta",
+  "slug": "/pi-12/chatonce-private-beta/chatonce-private-beta-account-setting",
+  "permalink": "/docs/pi-12/chatonce-private-beta/chatonce-private-beta-account-setting",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/chatonce-private-beta/chatonce-private-beta-account-setting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I will see the CO mascot instead of IO on 404 page, maintenance page, default BP background, error pages",
+    "permalink": "/docs/pi-12/chatonce-mascot/"
+  },
+  "next": {
+    "title": "Updating UI for CO product status on Products page",
+    "permalink": "/docs/pi-12/chatonce-private-beta/chatonce-private-beta-prodcuts-page"
+  }
+}

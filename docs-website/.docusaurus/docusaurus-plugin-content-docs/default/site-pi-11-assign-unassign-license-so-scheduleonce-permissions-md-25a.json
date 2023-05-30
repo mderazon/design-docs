@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/assign-unassign-license-so/scheduleonce-permissions",
+  "id": "pi-11/assign-unassign-license-so/scheduleonce-permissions",
+  "title": "As a User, I can manage ScheduleOnce permissions for users who do not have an assigned ScheduleOnce license",
+  "description": "Summary",
+  "source": "@site/../pi-11/assign-unassign-license-so/scheduleonce-permissions.md",
+  "sourceDirName": "pi-11/assign-unassign-license-so",
+  "slug": "/pi-11/assign-unassign-license-so/scheduleonce-permissions",
+  "permalink": "/docs/pi-11/assign-unassign-license-so/scheduleonce-permissions",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/assign-unassign-license-so/scheduleonce-permissions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Track Permanently Deleted Activities And Show Them In Analytics",
+    "permalink": "/docs/pi-11/analytics/tracking-deleted-activities"
+  },
+  "next": {
+    "title": "Transfer the BP’s to the first active admin on the account",
+    "permalink": "/docs/pi-11/assign-unassign-license-so/transfer-bp-to-earliest-admin"
+  }
+}

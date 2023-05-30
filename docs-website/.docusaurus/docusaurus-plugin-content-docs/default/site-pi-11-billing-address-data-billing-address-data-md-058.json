@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/billing-address-data/billing-address-data",
+  "id": "pi-11/billing-address-data/billing-address-data",
+  "title": "Console App to save missing Zip and Country data into Billagain and BillingService database.",
+  "description": "Summary",
+  "source": "@site/../pi-11/billing-address-data/billing-address-data.md",
+  "sourceDirName": "pi-11/billing-address-data",
+  "slug": "/pi-11/billing-address-data/",
+  "permalink": "/docs/pi-11/billing-address-data/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/billing-address-data/billing-address-data.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disable Booking Pages On License Unassignment For Last Admin",
+    "permalink": "/docs/pi-11/assign-unassign-license-so/unassign-license-for-last-admin"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-11/billing-address-data/update-address-fields"
+  }
+}

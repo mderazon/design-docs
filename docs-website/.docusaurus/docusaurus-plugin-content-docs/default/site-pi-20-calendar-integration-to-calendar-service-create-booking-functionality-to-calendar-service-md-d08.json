@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/calendar-integration-to-calendar-service/create-booking-functionality-to-calendar-service",
+  "id": "pi-20/calendar-integration-to-calendar-service/create-booking-functionality-to-calendar-service",
+  "title": "Moving remaining Calendar Integrations in Customer front to the calendar service",
+  "description": "Summary",
+  "source": "@site/../pi-20/calendar-integration-to-calendar-service/create-booking-functionality-to-calendar-service.md",
+  "sourceDirName": "pi-20/calendar-integration-to-calendar-service",
+  "slug": "/pi-20/calendar-integration-to-calendar-service/create-booking-functionality-to-calendar-service",
+  "permalink": "/docs/pi-20/calendar-integration-to-calendar-service/create-booking-functionality-to-calendar-service",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/calendar-integration-to-calendar-service/create-booking-functionality-to-calendar-service.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Removing hardcoded salt from AES encryption",
+    "permalink": "/docs/pi-20/aes-iv-encryption/enable-aes-iv-encyption"
+  },
+  "next": {
+    "title": "Move zapier watch callback endpoints to a callback-handlers service",
+    "permalink": "/docs/pi-20/callback-handlers/move-zapier-watch-end-points"
+  }
+}

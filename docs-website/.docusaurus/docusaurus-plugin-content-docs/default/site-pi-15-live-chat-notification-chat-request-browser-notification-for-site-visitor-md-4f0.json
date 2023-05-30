@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/live-chat-notification/chat-request-browser-notification-for-site-visitor",
+  "id": "pi-15/live-chat-notification/chat-request-browser-notification-for-site-visitor",
+  "title": "User receives browser push notifications for every new conversation request.",
+  "description": "Summary",
+  "source": "@site/../pi-15/live-chat-notification/chat-request-browser-notification-for-site-visitor.md",
+  "sourceDirName": "pi-15/live-chat-notification",
+  "slug": "/pi-15/live-chat-notification/chat-request-browser-notification-for-site-visitor",
+  "permalink": "/docs/pi-15/live-chat-notification/chat-request-browser-notification-for-site-visitor",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/live-chat-notification/chat-request-browser-notification-for-site-visitor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Visitor will be able to view agent joined when handed-off .",
+    "permalink": "/docs/pi-15/live-chat/widget-side-livechat-handoff"
+  },
+  "next": {
+    "title": "As an admin on a starter or paid OnceHub account, I will see User license count for both SO and CO on Users lobby page",
+    "permalink": "/docs/pi-15/multi-product-licensing-for-user-lobby/"
+  }
+}

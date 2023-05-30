@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/contacts-lobby/contact-lobby-filters",
+  "id": "pi-20/contacts-lobby/contact-lobby-filters",
+  "title": "Add filters for contact lobby page",
+  "description": "Summary",
+  "source": "@site/../pi-20/contacts-lobby/contact-lobby-filters.md",
+  "sourceDirName": "pi-20/contacts-lobby",
+  "slug": "/pi-20/contacts-lobby/contact-lobby-filters",
+  "permalink": "/docs/pi-20/contacts-lobby/contact-lobby-filters",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/contacts-lobby/contact-lobby-filters.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can see instant meeting interaction under actions tab in the bot and form builders that opens an early access request dialog",
+    "permalink": "/docs/pi-20/chatonce/instant-video-call"
+  },
+  "next": {
+    "title": "Create contact overlay pane containg contact details",
+    "permalink": "/docs/pi-20/contacts-lobby/create-contacts-lobby-details-page"
+  }
+}

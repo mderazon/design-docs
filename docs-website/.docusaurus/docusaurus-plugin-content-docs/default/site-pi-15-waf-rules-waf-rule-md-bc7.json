@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/waf-rules/waf-rule",
+  "id": "pi-15/waf-rules/waf-rule",
+  "title": "waf-rule",
+  "description": "Sprint 15.3",
+  "source": "@site/../pi-15/waf-rules/waf-rule.md",
+  "sourceDirName": "pi-15/waf-rules",
+  "slug": "/pi-15/waf-rules/waf-rule",
+  "permalink": "/docs/pi-15/waf-rules/waf-rule",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/waf-rules/waf-rule.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I should be able to receive notification errors via email and in notification center when there is a connection error for Zoom and GTM",
+    "permalink": "/docs/pi-15/video-conferencing-notification-errors/video-conferencing-error-emails-and-notifications-for-zoom-and-gtm"
+  },
+  "next": {
+    "title": "https://scheduleonce.atlassian.net/browse/ONCEHUB-41671",
+    "permalink": "/docs/pi-15/webex-video-conferencing/video-conferencing-refactoring"
+  }
+}

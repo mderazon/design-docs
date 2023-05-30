@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/starter-plan/update-starter-plan-illustrations",
+  "id": "pi-15/starter-plan/update-starter-plan-illustrations",
+  "title": "Feature name",
+  "description": "Phase 2 Starter plan - Make graphic changes to support Growth plan",
+  "source": "@site/../pi-15/starter-plan/update-starter-plan-illustrations.md",
+  "sourceDirName": "pi-15/starter-plan",
+  "slug": "/pi-15/starter-plan/update-starter-plan-illustrations",
+  "permalink": "/docs/pi-15/starter-plan/update-starter-plan-illustrations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/starter-plan/update-starter-plan-illustrations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-15/starter-plan/powered-by-oncehub-branding"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-15/starter-plan/upgrade-to-growth-banner"
+  }
+}

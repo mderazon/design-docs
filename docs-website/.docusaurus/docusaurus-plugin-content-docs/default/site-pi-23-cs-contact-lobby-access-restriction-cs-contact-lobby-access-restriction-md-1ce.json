@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/cs-contact-lobby-access-restriction/cs-contact-lobby-access-restriction",
+  "id": "pi-23/cs-contact-lobby-access-restriction/cs-contact-lobby-access-restriction",
+  "title": "Support user cannot access/view the contact lobby with a static support code",
+  "description": "Jira ticket:",
+  "source": "@site/../pi-23/cs-contact-lobby-access-restriction/cs-contact-lobby-access-restriction.md",
+  "sourceDirName": "pi-23/cs-contact-lobby-access-restriction",
+  "slug": "/pi-23/cs-contact-lobby-access-restriction/",
+  "permalink": "/docs/pi-23/cs-contact-lobby-access-restriction/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/cs-contact-lobby-access-restriction/cs-contact-lobby-access-restriction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-23/create-default-page-on-signup/"
+  },
+  "next": {
+    "title": "Custom Utility",
+    "permalink": "/docs/pi-23/custom-utilities/deleted-account-card-info-blocking-active-accounts-migration-having-same-token"
+  }
+}

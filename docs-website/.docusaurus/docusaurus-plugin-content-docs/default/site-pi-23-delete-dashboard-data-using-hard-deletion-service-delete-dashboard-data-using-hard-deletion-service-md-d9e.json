@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/delete-dashboard-data-using-hard-deletion-service/delete-dashboard-data-using-hard-deletion-service",
+  "id": "pi-23/delete-dashboard-data-using-hard-deletion-service/delete-dashboard-data-using-hard-deletion-service",
+  "title": "Delete Dashboard data using hard deletion service",
+  "description": "Jira Ticket's :",
+  "source": "@site/../pi-23/delete-dashboard-data-using-hard-deletion-service/delete-dashboard-data-using-hard-deletion-service.md",
+  "sourceDirName": "pi-23/delete-dashboard-data-using-hard-deletion-service",
+  "slug": "/pi-23/delete-dashboard-data-using-hard-deletion-service/",
+  "permalink": "/docs/pi-23/delete-dashboard-data-using-hard-deletion-service/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/delete-dashboard-data-using-hard-deletion-service/delete-dashboard-data-using-hard-deletion-service.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom Utility",
+    "permalink": "/docs/pi-23/custom-utilities/migration-of-pre-2014-accounts"
+  },
+  "next": {
+    "title": "Show booking calendar activities in the detail section and contact pane",
+    "permalink": "/docs/pi-23/display-booking-calendar-meeting-in-activity-stream/booking-calendar-activities-in-the-detail-section-and-contact-pane"
+  }
+}

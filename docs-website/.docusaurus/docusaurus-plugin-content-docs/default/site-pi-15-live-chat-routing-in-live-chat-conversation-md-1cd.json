@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/live-chat/routing-in-live-chat-conversation",
+  "id": "pi-15/live-chat/routing-in-live-chat-conversation",
+  "title": "Routing in ive chat conversation.",
+  "description": "Summary",
+  "source": "@site/../pi-15/live-chat/routing-in-live-chat-conversation.md",
+  "sourceDirName": "pi-15/live-chat",
+  "slug": "/pi-15/live-chat/routing-in-live-chat-conversation",
+  "permalink": "/docs/pi-15/live-chat/routing-in-live-chat-conversation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/live-chat/routing-in-live-chat-conversation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Read and unread state of conversation.",
+    "permalink": "/docs/pi-15/live-chat/read-and-unread-state-of-conversation"
+  },
+  "next": {
+    "title": "Timed out/inactive conversation in activity stream.",
+    "permalink": "/docs/pi-15/live-chat/timed-out-or-inactive-conversation-in-activity-stream"
+  }
+}

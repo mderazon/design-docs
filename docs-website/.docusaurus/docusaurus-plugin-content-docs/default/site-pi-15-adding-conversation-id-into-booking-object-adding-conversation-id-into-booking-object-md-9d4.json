@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/adding-conversation-id-into-booking-object/adding-conversation-id-into-booking-object",
+  "id": "pi-15/adding-conversation-id-into-booking-object/adding-conversation-id-into-booking-object",
+  "title": "Embed the Conversation id into the booking object in the Webhook payload",
+  "description": "Jira ticket: ONCEHUB-42411",
+  "source": "@site/../pi-15/adding-conversation-id-into-booking-object/adding-conversation-id-into-booking-object.md",
+  "sourceDirName": "pi-15/adding-conversation-id-into-booking-object",
+  "slug": "/pi-15/adding-conversation-id-into-booking-object/",
+  "permalink": "/docs/pi-15/adding-conversation-id-into-booking-object/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/adding-conversation-id-into-booking-object/adding-conversation-id-into-booking-object.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add Zapier for ChatOnce system events to allow Google Analytics via Zapier",
+    "permalink": "/docs/pi-15/add-zapier-for-chatonce/add-zapier-for-co"
+  },
+  "next": {
+    "title": "BillAgain subscription API - instant Downgrade support for active accounts",
+    "permalink": "/docs/pi-15/billagain-subscription-api-instant-downgrade/"
+  }
+}

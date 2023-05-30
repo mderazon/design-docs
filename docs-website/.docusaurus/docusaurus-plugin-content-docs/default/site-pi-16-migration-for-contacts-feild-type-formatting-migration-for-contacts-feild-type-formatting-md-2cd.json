@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/migration-for-contacts-feild-type-formatting/migration-for-contacts-feild-type-formatting",
+  "id": "pi-16/migration-for-contacts-feild-type-formatting/migration-for-contacts-feild-type-formatting",
+  "title": "Feature name : Changes to the contact api - migration script for existing customers",
+  "description": "Summary",
+  "source": "@site/../pi-16/migration-for-contacts-feild-type-formatting/migration-for-contacts-feild-type-formatting.md",
+  "sourceDirName": "pi-16/migration-for-contacts-feild-type-formatting",
+  "slug": "/pi-16/migration-for-contacts-feild-type-formatting/",
+  "permalink": "/docs/pi-16/migration-for-contacts-feild-type-formatting/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/migration-for-contacts-feild-type-formatting/migration-for-contacts-feild-type-formatting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a Visitor, I can see the typing indicator when agent is typing something.",
+    "permalink": "/docs/pi-16/live-chat/visitor-typing-indicator"
+  },
+  "next": {
+    "title": "As a User, I should be able to use 2 way sync mechanism for my O365 oauth corporate calendar connection.",
+    "permalink": "/docs/pi-16/office365-oauth-corporate-user/office365-corporate-user-2waysync"
+  }
+}

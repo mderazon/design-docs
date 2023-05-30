@@ -1,0 +1,20 @@
+{
+  "name": "design-docs",
+  "version": "1.0.0",
+  "description": "A repo for technical design documents",
+  "private": true,
+  "scripts": {
+    "prettier": "prettier --check \"**/*.{ts,js,css,scss,md,html}\"",
+    "fix:prettier": "prettier --write \"**/*.{ts,js,css,scss,md,html}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mderazon/design-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/mderazon/design-docs#readme",
+  "dependencies": {
+    "prettier": "^2.0.5"
+  }
+}

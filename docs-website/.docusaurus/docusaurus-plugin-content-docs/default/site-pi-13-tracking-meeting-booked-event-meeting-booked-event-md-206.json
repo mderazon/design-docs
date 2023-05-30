@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-13/tracking-meeting-booked-event/meeting-booked-event",
+  "id": "pi-13/tracking-meeting-booked-event/meeting-booked-event",
+  "title": "meeting-booked-event",
+  "description": "Tracking of booking scheduled event coming via ScheduleOnce",
+  "source": "@site/../pi-13/tracking-meeting-booked-event/meeting-booked-event.md",
+  "sourceDirName": "pi-13/tracking-meeting-booked-event",
+  "slug": "/pi-13/tracking-meeting-booked-event/meeting-booked-event",
+  "permalink": "/docs/pi-13/tracking-meeting-booked-event/meeting-booked-event",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-13/tracking-meeting-booked-event/meeting-booked-event.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name : Sync future SO meetings with O365 via Oauth",
+    "permalink": "/docs/pi-13/sync-future-scheduleonce-meetings/"
+  },
+  "next": {
+    "title": "Feature name : 2 way sync should work for already connected accounts via O365[OAuth]",
+    "permalink": "/docs/pi-13/two-way-sync-for-already-connected-accounts-o365"
+  }
+}

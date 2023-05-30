@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/chatonce-audiences-lobby/chatonce-audience-identification-edit",
+  "id": "pi-11/chatonce-audiences-lobby/chatonce-audience-identification-edit",
+  "title": "Edit Audience.",
+  "description": "Summary",
+  "source": "@site/../pi-11/chatonce-audiences-lobby/chatonce-audience-identification-edit.md",
+  "sourceDirName": "pi-11/chatonce-audiences-lobby",
+  "slug": "/pi-11/chatonce-audiences-lobby/chatonce-audience-identification-edit",
+  "permalink": "/docs/pi-11/chatonce-audiences-lobby/chatonce-audience-identification-edit",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/chatonce-audiences-lobby/chatonce-audience-identification-edit.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add conditions in audience identification",
+    "permalink": "/docs/pi-11/chatonce-audiences-lobby/chatonce-audience-identification-condition"
+  },
+  "next": {
+    "title": "Adding Audiences page and navigate",
+    "permalink": "/docs/pi-11/chatonce-audiences-lobby/chatonce-audiences-list-action"
+  }
+}

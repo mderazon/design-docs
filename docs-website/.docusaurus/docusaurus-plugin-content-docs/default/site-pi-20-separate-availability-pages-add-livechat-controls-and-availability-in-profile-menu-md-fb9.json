@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/separate-availability-pages/add-livechat-controls-and-availability-in-profile-menu",
+  "id": "pi-20/separate-availability-pages/add-livechat-controls-and-availability-in-profile-menu",
+  "title": "Add livechat controls and availability in profile menu",
+  "description": "Summary",
+  "source": "@site/../pi-20/separate-availability-pages/add-livechat-controls-and-availability-in-profile-menu.md",
+  "sourceDirName": "pi-20/separate-availability-pages",
+  "slug": "/pi-20/separate-availability-pages/add-livechat-controls-and-availability-in-profile-menu",
+  "permalink": "/docs/pi-20/separate-availability-pages/add-livechat-controls-and-availability-in-profile-menu",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/separate-availability-pages/add-livechat-controls-and-availability-in-profile-menu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Remove conflicting filters from previous activity stream implementation for new live-chat page",
+    "permalink": "/docs/pi-20/remove-old-activity-filters-from-livechat-page/"
+  },
+  "next": {
+    "title": "Booking availability compatible with live chat availability changes.",
+    "permalink": "/docs/pi-20/separate-availability-pages/alter-existing-profile-availability-for-livechat-engagement"
+  }
+}

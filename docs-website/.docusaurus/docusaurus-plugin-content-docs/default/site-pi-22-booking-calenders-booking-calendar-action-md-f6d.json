@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/booking-calenders/booking-calendar-action",
+  "id": "pi-22/booking-calenders/booking-calendar-action",
+  "title": "Booking Calendar Action",
+  "description": "Summary",
+  "source": "@site/../pi-22/booking-calenders/booking-calendar-action.md",
+  "sourceDirName": "pi-22/booking-calenders",
+  "slug": "/pi-22/booking-calenders/booking-calendar-action",
+  "permalink": "/docs/pi-22/booking-calenders/booking-calendar-action",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/booking-calenders/booking-calendar-action.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "All Pages are deleted when an account is deleted",
+    "permalink": "/docs/pi-22/account-deletion-service-chatonce/delete-pages-from-account"
+  },
+  "next": {
+    "title": "Booking Calendar",
+    "permalink": "/docs/pi-22/booking-calenders/booking-calendar-availability-api"
+  }
+}

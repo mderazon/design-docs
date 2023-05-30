@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/use-recaptcha-on-customer-frontend/recaptcha-on-customer-frontend",
+  "id": "pi-22/use-recaptcha-on-customer-frontend/recaptcha-on-customer-frontend",
+  "title": "Dynamically embed Captcha solution on customer front for booking pages",
+  "description": "Summary",
+  "source": "@site/../pi-22/use-recaptcha-on-customer-frontend/recaptcha-on-customer-frontend.md",
+  "sourceDirName": "pi-22/use-recaptcha-on-customer-frontend",
+  "slug": "/pi-22/use-recaptcha-on-customer-frontend/recaptcha-on-customer-frontend",
+  "permalink": "/docs/pi-22/use-recaptcha-on-customer-frontend/recaptcha-on-customer-frontend",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/use-recaptcha-on-customer-frontend/recaptcha-on-customer-frontend.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Admin should be able to enable and disable the Captcha solution for their booking pages",
+    "permalink": "/docs/pi-22/use-recaptcha-on-customer-frontend/admin-can-enable-disable-captcha"
+  },
+  "next": {
+    "title": "Server side validation to reverify the cloudflare reverification token",
+    "permalink": "/docs/pi-22/use-recaptcha-on-customer-frontend/recaptcha-validation-on-server-side"
+  }
+}

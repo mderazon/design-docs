@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/booking-calendar/use-future-meetings-table",
+  "id": "pi-23/booking-calendar/use-future-meetings-table",
+  "title": "Booking Calendar",
+  "description": "Summary",
+  "source": "@site/../pi-23/booking-calendar/use-future-meetings-table.md",
+  "sourceDirName": "pi-23/booking-calendar",
+  "slug": "/pi-23/booking-calendar/use-future-meetings-table",
+  "permalink": "/docs/pi-23/booking-calendar/use-future-meetings-table",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/booking-calendar/use-future-meetings-table.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-23/booking-calendar/delete-temp-booking"
+  },
+  "next": {
+    "title": "booking-calendar-activity-cron",
+    "permalink": "/docs/pi-23/booking-calendar-activity-cron/"
+  }
+}

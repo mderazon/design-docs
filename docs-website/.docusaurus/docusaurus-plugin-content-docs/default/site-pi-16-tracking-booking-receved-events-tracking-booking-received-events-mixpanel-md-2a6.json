@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/tracking-booking-receved-events/tracking-booking-received-events-mixpanel",
+  "id": "pi-16/tracking-booking-receved-events/tracking-booking-received-events-mixpanel",
+  "title": "Tracking only booking received events for ScheduleOnce and ChatOnce",
+  "description": "Jira ticket: ONCEHUB-44591",
+  "source": "@site/../pi-16/tracking-booking-receved-events/tracking-booking-received-events-mixpanel.md",
+  "sourceDirName": "pi-16/tracking-booking-receved-events",
+  "slug": "/pi-16/tracking-booking-receved-events/tracking-booking-received-events-mixpanel",
+  "permalink": "/docs/pi-16/tracking-booking-receved-events/tracking-booking-received-events-mixpanel",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/tracking-booking-receved-events/tracking-booking-received-events-mixpanel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cache reaching out interaction on cdn",
+    "permalink": "/docs/pi-16/standalone-bot-link/welcome-interaction-cache"
+  },
+  "next": {
+    "title": "Adding booking pages to user level",
+    "permalink": "/docs/pi-17/add-booking-page-to-user-level/"
+  }
+}

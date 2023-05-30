@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-14/submitonce/submitonce-schedule-confirm",
+  "id": "pi-14/submitonce/submitonce-schedule-confirm",
+  "title": "Schedule confirm : As a visitor, I can book a meeting from the schedule action",
+  "description": "Summary",
+  "source": "@site/../pi-14/submitonce/submitonce-schedule-confirm.md",
+  "sourceDirName": "pi-14/submitonce",
+  "slug": "/pi-14/submitonce/submitonce-schedule-confirm",
+  "permalink": "/docs/pi-14/submitonce/submitonce-schedule-confirm",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-14/submitonce/submitonce-schedule-confirm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Schedule display : As a visitor, I can see the time slot",
+    "permalink": "/docs/pi-14/submitonce/submitonce-schedule-action"
+  },
+  "next": {
+    "title": "Submitonce customer side infrastructure",
+    "permalink": "/docs/pi-14/submitonce/submitonce-schema"
+  }
+}

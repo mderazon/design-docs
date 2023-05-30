@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/live-chat-webhook-notification-url/notification-of-incoming-live-chats-on-my-messaging-app",
+  "id": "pi-19/live-chat-webhook-notification-url/notification-of-incoming-live-chats-on-my-messaging-app",
+  "title": "notification of incoming live chats on my messaging app.",
+  "description": "Summary",
+  "source": "@site/../pi-19/live-chat-webhook-notification-url/notification-of-incoming-live-chats-on-my-messaging-app.md",
+  "sourceDirName": "pi-19/live-chat-webhook-notification-url",
+  "slug": "/pi-19/live-chat-webhook-notification-url/notification-of-incoming-live-chats-on-my-messaging-app",
+  "permalink": "/docs/pi-19/live-chat-webhook-notification-url/notification-of-incoming-live-chats-on-my-messaging-app",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/live-chat-webhook-notification-url/notification-of-incoming-live-chats-on-my-messaging-app.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a product manager I need to see when a livechat is missed when a team is available to take the livechat.",
+    "permalink": "/docs/pi-19/live-chat-timed-out-event/"
+  },
+  "next": {
+    "title": "User will be notified according to the profile availability for live chat.",
+    "permalink": "/docs/pi-19/live-chat-webhook-notification-url/notify-user-according-to-profile-availability"
+  }
+}

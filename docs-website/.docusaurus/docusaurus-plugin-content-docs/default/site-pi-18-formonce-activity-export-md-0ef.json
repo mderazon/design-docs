@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/formonce/activity-export",
+  "id": "pi-18/formonce/activity-export",
+  "title": "Export FormOnce submissions data from the Activity stream",
+  "description": "Summary",
+  "source": "@site/../pi-18/formonce/activity-export.md",
+  "sourceDirName": "pi-18/formonce",
+  "slug": "/pi-18/formonce/activity-export",
+  "permalink": "/docs/pi-18/formonce/activity-export",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/formonce/activity-export.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can edit the form theme color in the form builder",
+    "permalink": "/docs/pi-18/form-theme-color/edit-form-color"
+  },
+  "next": {
+    "title": "Add first interaction of form to azure cdn and load it in the form",
+    "permalink": "/docs/pi-18/formonce/add-first-interaction-to-azure-cdn"
+  }
+}

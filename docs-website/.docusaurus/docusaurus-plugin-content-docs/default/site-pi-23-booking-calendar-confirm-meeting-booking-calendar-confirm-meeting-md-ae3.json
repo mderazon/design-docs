@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/booking-calendar-confirm-meeting/booking-calendar-confirm-meeting",
+  "id": "pi-23/booking-calendar-confirm-meeting/booking-calendar-confirm-meeting",
+  "title": "Booking Calendar Confirm Meeting",
+  "description": "Create new API for booking confirmation",
+  "source": "@site/../pi-23/booking-calendar-confirm-meeting/booking-calendar-confirm-meeting.md",
+  "sourceDirName": "pi-23/booking-calendar-confirm-meeting",
+  "slug": "/pi-23/booking-calendar-confirm-meeting/",
+  "permalink": "/docs/pi-23/booking-calendar-confirm-meeting/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/booking-calendar-confirm-meeting/booking-calendar-confirm-meeting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a visitor I can schedule a meeting using booking calendar",
+    "permalink": "/docs/pi-23/booking-calendar-avoid-creation-orphan-contact/update-conversation-on-contact-engagement"
+  },
+  "next": {
+    "title": "Booking Calendar Meeting confirm calendar event",
+    "permalink": "/docs/pi-23/booking-calendar-confirm-meeting/booking-calendar-confirm-calendar-event"
+  }
+}

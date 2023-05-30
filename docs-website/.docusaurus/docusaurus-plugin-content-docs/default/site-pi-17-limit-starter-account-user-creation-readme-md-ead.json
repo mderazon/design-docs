@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/limit-starter-account-user-creation/readme",
+  "id": "pi-17/limit-starter-account-user-creation/readme",
+  "title": "As an admin, I will see an error when I add more than 25 users while in the starter plan",
+  "description": "Summary",
+  "source": "@site/../pi-17/limit-starter-account-user-creation/readme.md",
+  "sourceDirName": "pi-17/limit-starter-account-user-creation",
+  "slug": "/pi-17/limit-starter-account-user-creation/",
+  "permalink": "/docs/pi-17/limit-starter-account-user-creation/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/limit-starter-account-user-creation/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Smart forms are now visible for an account in forms lobby",
+    "permalink": "/docs/pi-17/form-once/smart-forms-are-now-visible-in-forms-lobby"
+  },
+  "next": {
+    "title": "As a user, i will see relevant empty state messages while visiting LiveChat Inbox",
+    "permalink": "/docs/pi-17/live-chat-empty-state/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/live-chat/live-chat-user-side-unread-message-alert",
+  "id": "pi-15/live-chat/live-chat-user-side-unread-message-alert",
+  "title": "The user can get unread message alert when receiving new messages.",
+  "description": "Summary",
+  "source": "@site/../pi-15/live-chat/live-chat-user-side-unread-message-alert.md",
+  "sourceDirName": "pi-15/live-chat",
+  "slug": "/pi-15/live-chat/live-chat-user-side-unread-message-alert",
+  "permalink": "/docs/pi-15/live-chat/live-chat-user-side-unread-message-alert",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/live-chat/live-chat-user-side-unread-message-alert.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The user can seamlessly receive new messages.",
+    "permalink": "/docs/pi-15/live-chat/live-chat-seamlessly-receive-new-messages"
+  },
+  "next": {
+    "title": "Read and unread state of conversation.",
+    "permalink": "/docs/pi-15/live-chat/read-and-unread-state-of-conversation"
+  }
+}

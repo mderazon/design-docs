@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-24/contact-page/restrict-member-user-access-all-contacts",
+  "id": "pi-24/contact-page/restrict-member-user-access-all-contacts",
+  "title": "Restrict member user from accessing all contacts",
+  "description": "Summary",
+  "source": "@site/../pi-24/contact-page/restrict-member-user-access-all-contacts.md",
+  "sourceDirName": "pi-24/contact-page",
+  "slug": "/pi-24/contact-page/restrict-member-user-access-all-contacts",
+  "permalink": "/docs/pi-24/contact-page/restrict-member-user-access-all-contacts",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-24/contact-page/restrict-member-user-access-all-contacts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, I can see the AI action in the bot builder",
+    "permalink": "/docs/pi-24/chatonce-ai-feature/new-ai-interaction-in-bot-builder"
+  },
+  "next": {
+    "title": "Improve CF Loading On Forms",
+    "permalink": "/docs/pi-24/formonce-improvements/improve-cf-loading-on-forms"
+  }
+}

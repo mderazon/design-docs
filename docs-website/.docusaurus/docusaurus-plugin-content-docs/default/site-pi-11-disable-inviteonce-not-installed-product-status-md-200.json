@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/disable-inviteonce/not-installed-product-status",
+  "id": "pi-11/disable-inviteonce/not-installed-product-status",
+  "title": "Adding product status 'Not Installed'",
+  "description": "Summary",
+  "source": "@site/../pi-11/disable-inviteonce/not-installed-product-status.md",
+  "sourceDirName": "pi-11/disable-inviteonce",
+  "slug": "/pi-11/disable-inviteonce/not-installed-product-status",
+  "permalink": "/docs/pi-11/disable-inviteonce/not-installed-product-status",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/disable-inviteonce/not-installed-product-status.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disabling InviteOnce access",
+    "permalink": "/docs/pi-11/disable-inviteonce/disabling-inviteonce-access"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-11/enable-avs-us/enable-avs"
+  }
+}

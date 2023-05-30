@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/live-chat/initiate-live-chat-with-live-chat-action",
+  "id": "pi-15/live-chat/initiate-live-chat-with-live-chat-action",
+  "title": "Initiate live chat from the livechat action",
+  "description": "Summary",
+  "source": "@site/../pi-15/live-chat/initiate-live-chat-with-live-chat-action.md",
+  "sourceDirName": "pi-15/live-chat",
+  "slug": "/pi-15/live-chat/initiate-live-chat-with-live-chat-action",
+  "permalink": "/docs/pi-15/live-chat/initiate-live-chat-with-live-chat-action",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/live-chat/initiate-live-chat-with-live-chat-action.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a visitor, live chat conversation can be initiated",
+    "permalink": "/docs/pi-15/live-chat/initiate-live-chat-conversation"
+  },
+  "next": {
+    "title": "The user will see the closed conversation in activity stream with live chat transcript.",
+    "permalink": "/docs/pi-15/live-chat/live-chat-closed-conv-in-activity-stream"
+  }
+}

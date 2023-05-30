@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/standalone-page/standalone-page-3dot-menu",
+  "id": "pi-21/standalone-page/standalone-page-3dot-menu",
+  "title": "As a user, I am able to access the 3 dot menu for pages",
+  "description": "Summary",
+  "source": "@site/../pi-21/standalone-page/standalone-page-3dot-menu.md",
+  "sourceDirName": "pi-21/standalone-page",
+  "slug": "/pi-21/standalone-page/standalone-page-3dot-menu",
+  "permalink": "/docs/pi-21/standalone-page/standalone-page-3dot-menu",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/standalone-page/standalone-page-3dot-menu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-21/standalone-page/page-link-editable"
+  },
+  "next": {
+    "title": "As a user, I am able to preview the dynamic page design based on the configurations",
+    "permalink": "/docs/pi-21/standalone-page/standalone-page-configuration"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/create-time-slots/document",
+  "id": "pi-12/create-time-slots/document",
+  "title": "As a developer, i will create Time slot from new common availability",
+  "description": "Summary",
+  "source": "@site/../pi-12/create-time-slots/document.md",
+  "sourceDirName": "pi-12/create-time-slots",
+  "slug": "/pi-12/create-time-slots/document",
+  "permalink": "/docs/pi-12/create-time-slots/document",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/create-time-slots/document.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conversation transcript dynamic field",
+    "permalink": "/docs/pi-12/conversation-transcipt-dynamic-field/"
+  },
+  "next": {
+    "title": "Simplifying the PR creation process for releases",
+    "permalink": "/docs/pi-12/creating-release-prs/document"
+  }
+}

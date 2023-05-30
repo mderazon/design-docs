@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/preset-default-values-and-publish-bot-whenever-created-from-template/preset-default-values-and-publish-bot-whenever-created-from-template",
+  "id": "pi-23/preset-default-values-and-publish-bot-whenever-created-from-template/preset-default-values-and-publish-bot-whenever-created-from-template",
+  "title": "Preset default values for all required fields and publish automatically whenever created from a template.",
+  "description": "Summary",
+  "source": "@site/../pi-23/preset-default-values-and-publish-bot-whenever-created-from-template/preset-default-values-and-publish-bot-whenever-created-from-template.md",
+  "sourceDirName": "pi-23/preset-default-values-and-publish-bot-whenever-created-from-template",
+  "slug": "/pi-23/preset-default-values-and-publish-bot-whenever-created-from-template/",
+  "permalink": "/docs/pi-23/preset-default-values-and-publish-bot-whenever-created-from-template/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/preset-default-values-and-publish-bot-whenever-created-from-template/preset-default-values-and-publish-bot-whenever-created-from-template.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oh-dashboard performance improvements",
+    "permalink": "/docs/pi-23/oh-dashboard/dashboard-performance-improvement"
+  },
+  "next": {
+    "title": "Remove unwanted cookies from standalone bots and forms",
+    "permalink": "/docs/pi-23/remove-unwanted-cookies-for-standalone-bots-and-forms/"
+  }
+}

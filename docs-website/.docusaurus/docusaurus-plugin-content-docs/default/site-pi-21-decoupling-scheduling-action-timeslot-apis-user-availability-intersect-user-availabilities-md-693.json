@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/intersect-user-availabilities",
+  "id": "pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/intersect-user-availabilities",
+  "title": "Availability-calculator project",
+  "description": "Summary",
+  "source": "@site/../pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/intersect-user-availabilities.md",
+  "sourceDirName": "pi-21/decoupling-scheduling-action/timeslot-apis/user-availability",
+  "slug": "/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/intersect-user-availabilities",
+  "permalink": "/docs/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/intersect-user-availabilities",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/intersect-user-availabilities.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create an API to get users for team (pooled availability)",
+    "permalink": "/docs/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/get-users-for-team"
+  },
+  "next": {
+    "title": "Create an API to get users for team (Round robin)",
+    "permalink": "/docs/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/users-for-team-round-robin"
+  }
+}

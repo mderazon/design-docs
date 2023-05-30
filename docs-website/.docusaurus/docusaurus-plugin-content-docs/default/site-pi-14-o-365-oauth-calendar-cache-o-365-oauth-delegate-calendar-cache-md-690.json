@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-14/o365-oauth-calendar-cache/o365-oauth-delegate-calendar-cache",
+  "id": "pi-14/o365-oauth-calendar-cache/o365-oauth-delegate-calendar-cache",
+  "title": "As a corporate O365 User, I should be able to use cache functionality",
+  "description": "Summary",
+  "source": "@site/../pi-14/o365-oauth-calendar-cache/o365-oauth-delegate-calendar-cache.md",
+  "sourceDirName": "pi-14/o365-oauth-calendar-cache",
+  "slug": "/pi-14/o365-oauth-calendar-cache/o365-oauth-delegate-calendar-cache",
+  "permalink": "/docs/pi-14/o365-oauth-calendar-cache/o365-oauth-delegate-calendar-cache",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-14/o365-oauth-calendar-cache/o365-oauth-delegate-calendar-cache.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can enable/disable my cache if I am connected to O365[OAuth].",
+    "permalink": "/docs/pi-14/o365-oauth-calendar-cache/enable-disable-o365-oauth-calendar-cache"
+  },
+  "next": {
+    "title": "As a corporate O365 User, I should be able to use 2 way sync functionality",
+    "permalink": "/docs/pi-14/o365-oauth-calendar-cache/o365-oauth-delegate-calendar-watch"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/standalone-page/create-new-standalone-page",
+  "id": "pi-21/standalone-page/create-new-standalone-page",
+  "title": "As a user, I can create new acceleration page from the lobby",
+  "description": "Summary",
+  "source": "@site/../pi-21/standalone-page/create-new-standalone-page.md",
+  "sourceDirName": "pi-21/standalone-page",
+  "slug": "/pi-21/standalone-page/create-new-standalone-page",
+  "permalink": "/docs/pi-21/standalone-page/create-new-standalone-page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/standalone-page/create-new-standalone-page.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Templates for Standalone pages",
+    "permalink": "/docs/pi-21/standalone-page/acceleration-page-templates"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-21/standalone-page/page-link-editable"
+  }
+}

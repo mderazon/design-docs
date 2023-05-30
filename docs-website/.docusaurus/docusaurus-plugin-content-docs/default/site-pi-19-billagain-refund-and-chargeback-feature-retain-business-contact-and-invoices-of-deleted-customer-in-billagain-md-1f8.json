@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/billagain-refund-and-chargeback-feature/retain-business-contact-and-invoices-of-deleted-customer-in-billagain",
+  "id": "pi-19/billagain-refund-and-chargeback-feature/retain-business-contact-and-invoices-of-deleted-customer-in-billagain",
+  "title": "Refunds and Chargebacks",
+  "description": "Summary",
+  "source": "@site/../pi-19/billagain-refund-and-chargeback-feature/retain-business-contact-and-invoices-of-deleted-customer-in-billagain.md",
+  "sourceDirName": "pi-19/billagain-refund-and-chargeback-feature",
+  "slug": "/pi-19/billagain-refund-and-chargeback-feature/retain-business-contact-and-invoices-of-deleted-customer-in-billagain",
+  "permalink": "/docs/pi-19/billagain-refund-and-chargeback-feature/retain-business-contact-and-invoices-of-deleted-customer-in-billagain",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/billagain-refund-and-chargeback-feature/retain-business-contact-and-invoices-of-deleted-customer-in-billagain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Refunds and Chargebacks",
+    "permalink": "/docs/pi-19/billagain-refund-and-chargeback-feature/refunds-ui-billagain"
+  },
+  "next": {
+    "title": "Refunds and Chargebacks",
+    "permalink": "/docs/pi-19/billagain-refund-and-chargeback-feature/tax-calculation-for-refund-ui"
+  }
+}

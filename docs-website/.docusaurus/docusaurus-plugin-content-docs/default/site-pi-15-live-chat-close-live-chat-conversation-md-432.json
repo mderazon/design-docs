@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/live-chat/close-live-chat-conversation",
+  "id": "pi-15/live-chat/close-live-chat-conversation",
+  "title": "Close live-chat conversation from the admin side.",
+  "description": "Summary",
+  "source": "@site/../pi-15/live-chat/close-live-chat-conversation.md",
+  "sourceDirName": "pi-15/live-chat",
+  "slug": "/pi-15/live-chat/close-live-chat-conversation",
+  "permalink": "/docs/pi-15/live-chat/close-live-chat-conversation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/live-chat/close-live-chat-conversation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding live chat action to bot conversation",
+    "permalink": "/docs/pi-15/live-chat/add-live-chat-interaction-in-conversation"
+  },
+  "next": {
+    "title": "As a visitor, live chat conversation can be initiated",
+    "permalink": "/docs/pi-15/live-chat/initiate-live-chat-conversation"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/chatonce-contact-field-automatically-selected-for-email-and-phone/chatonce-contact-field-automatically-selected-for-email-and-phone",
+  "id": "pi-19/chatonce-contact-field-automatically-selected-for-email-and-phone/chatonce-contact-field-automatically-selected-for-email-and-phone",
+  "title": "As a User, I will see contact fields automatically selected in email and phone number questions on bot builder",
+  "description": "Summary",
+  "source": "@site/../pi-19/chatonce-contact-field-automatically-selected-for-email-and-phone/chatonce-contact-field-automatically-selected-for-email-and-phone.md",
+  "sourceDirName": "pi-19/chatonce-contact-field-automatically-selected-for-email-and-phone",
+  "slug": "/pi-19/chatonce-contact-field-automatically-selected-for-email-and-phone/",
+  "permalink": "/docs/pi-19/chatonce-contact-field-automatically-selected-for-email-and-phone/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/chatonce-contact-field-automatically-selected-for-email-and-phone/chatonce-contact-field-automatically-selected-for-email-and-phone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I will see contact fields automatically selected in email and phone number questions on form",
+    "permalink": "/docs/pi-19/chatonce/co-contact-field-automatically-selected-for-email-and-phone"
+  },
+  "next": {
+    "title": "Contact-pane for livechat user",
+    "permalink": "/docs/pi-19/contact-pane-for-livechat-user/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/crm-intergration-chatbot/crm-integration-chatbot",
+  "id": "pi-16/crm-intergration-chatbot/crm-integration-chatbot",
+  "title": "As a user I can add a CRM action in my bot flow",
+  "description": "Summary",
+  "source": "@site/../pi-16/crm-intergration-chatbot/crm-integration-chatbot.md",
+  "sourceDirName": "pi-16/crm-intergration-chatbot",
+  "slug": "/pi-16/crm-intergration-chatbot/crm-integration-chatbot",
+  "permalink": "/docs/pi-16/crm-intergration-chatbot/crm-integration-chatbot",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/crm-intergration-chatbot/crm-integration-chatbot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user I can add a CRM action in my bot flow using schedule action",
+    "permalink": "/docs/pi-16/crm-intergration-chatbot/crm-integration-chatbot-schedule-action"
+  },
+  "next": {
+    "title": "Authentication of APIs",
+    "permalink": "/docs/pi-16/crm-service/authentication-of-apis"
+  }
+}

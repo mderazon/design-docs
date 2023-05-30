@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/remove-multiple-websites-from-co/manage-the-privacy-settings-for-all-the-bots-and-forms",
+  "id": "pi-18/remove-multiple-websites-from-co/manage-the-privacy-settings-for-all-the-bots-and-forms",
+  "title": "As a User, I can manage the privacy settings for all the bots and forms on my account.",
+  "description": "Summary",
+  "source": "@site/../pi-18/remove-multiple-websites-from-co/manage-the-privacy-settings-for-all-the-bots-and-forms.md",
+  "sourceDirName": "pi-18/remove-multiple-websites-from-co",
+  "slug": "/pi-18/remove-multiple-websites-from-co/manage-the-privacy-settings-for-all-the-bots-and-forms",
+  "permalink": "/docs/pi-18/remove-multiple-websites-from-co/manage-the-privacy-settings-for-all-the-bots-and-forms",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/remove-multiple-websites-from-co/manage-the-privacy-settings-for-all-the-bots-and-forms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, all the users on my account will have the same current selected website",
+    "permalink": "/docs/pi-18/remove-multiple-websites-from-co/all-users-of-the-account-have-same-selected-website"
+  },
+  "next": {
+    "title": "As a visitor, I will have only one analytics cookie, one contact cookie and one session cookie when visiting a website that has OnceHub bots installed",
+    "permalink": "/docs/pi-18/remove-multiple-websites-from-co/one-analytic-contact-session-cookie-for-targeted-and-popup-bots"
+  }
+}

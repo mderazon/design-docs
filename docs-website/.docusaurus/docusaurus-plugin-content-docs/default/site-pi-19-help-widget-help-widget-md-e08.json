@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/help-widget/help-widget",
+  "id": "pi-19/help-widget/help-widget",
+  "title": "Help-Widget",
+  "description": "Summary",
+  "source": "@site/../pi-19/help-widget/help-widget.md",
+  "sourceDirName": "pi-19/help-widget",
+  "slug": "/pi-19/help-widget/",
+  "permalink": "/docs/pi-19/help-widget/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/help-widget/help-widget.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-19/handle-automatic-deletion-of-paid-accounts/stop-9.1-accounts-from-deletion"
+  },
+  "next": {
+    "title": "As a customer I can see the new layout applied on the customer front of standalone bots",
+    "permalink": "/docs/pi-19/inbound-link-customization-abilities/display-modern-layout-on-customer-front"
+  }
+}

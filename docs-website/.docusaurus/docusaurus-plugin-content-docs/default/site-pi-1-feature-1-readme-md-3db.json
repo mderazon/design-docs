@@ -1,0 +1,20 @@
+{
+  "unversionedId": "pi-1/feature-1/readme",
+  "id": "pi-1/feature-1/readme",
+  "title": "Feature name",
+  "description": "Playlists",
+  "source": "@site/../pi-1/feature-1/readme.md",
+  "sourceDirName": "pi-1/feature-1",
+  "slug": "/pi-1/feature-1/",
+  "permalink": "/docs/pi-1/feature-1/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-1/feature-1/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-1/feature-2/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/booking-calendar-customer-front/booking-calendar-user-availability-page",
+  "id": "pi-23/booking-calendar-customer-front/booking-calendar-user-availability-page",
+  "title": "As a user I can select a date and time in a standalone booking calendar",
+  "description": "Summary",
+  "source": "@site/../pi-23/booking-calendar-customer-front/booking-calendar-user-availability-page.md",
+  "sourceDirName": "pi-23/booking-calendar-customer-front",
+  "slug": "/pi-23/booking-calendar-customer-front/booking-calendar-user-availability-page",
+  "permalink": "/docs/pi-23/booking-calendar-customer-front/booking-calendar-user-availability-page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/booking-calendar-customer-front/booking-calendar-user-availability-page.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booking Calendar Status",
+    "permalink": "/docs/pi-23/booking-calendar-customer-front/booking-calendar-status"
+  },
+  "next": {
+    "title": "As a user I can copy the booking calendar link from the three dot menu in the booking calendar link",
+    "permalink": "/docs/pi-23/booking-calendar-customer-front/share-booking-calendar-link"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/calculate-final-timeslots",
+  "id": "pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/calculate-final-timeslots",
+  "title": "API to get final timeslots for single user and pooled availability team.",
+  "description": "Summary",
+  "source": "@site/../pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/calculate-final-timeslots.md",
+  "sourceDirName": "pi-21/decoupling-scheduling-action/timeslot-apis/user-availability",
+  "slug": "/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/calculate-final-timeslots",
+  "permalink": "/docs/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/calculate-final-timeslots",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/calculate-final-timeslots.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Time slot calculation flow",
+    "permalink": "/docs/pi-21/decoupling-scheduling-action/new-timeslot-calculation-flow"
+  },
+  "next": {
+    "title": "API to get final timeslots.",
+    "permalink": "/docs/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/final-timeslots"
+  }
+}

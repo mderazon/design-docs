@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/website-embed-options/move-targeted-chatbot-settings-from-chatonce-to-oncehub",
+  "id": "pi-22/website-embed-options/move-targeted-chatbot-settings-from-chatonce-to-oncehub",
+  "title": "As a user, when I click on automatic reach out options, user has an easy flow from the lobby to the respective sections.(Move the Targeted chatbot settings section from chatonce to Oncehub)",
+  "description": "Summary",
+  "source": "@site/../pi-22/website-embed-options/move-targeted-chatbot-settings-from-chatonce-to-oncehub.md",
+  "sourceDirName": "pi-22/website-embed-options",
+  "slug": "/pi-22/website-embed-options/move-targeted-chatbot-settings-from-chatonce-to-oncehub",
+  "permalink": "/docs/pi-22/website-embed-options/move-targeted-chatbot-settings-from-chatonce-to-oncehub",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/website-embed-options/move-targeted-chatbot-settings-from-chatonce-to-oncehub.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a website visitor, I can see new Website-Embed option in main left navigation",
+    "permalink": "/docs/pi-22/website-embed-options/create-new-website-embed-page"
+  },
+  "next": {
+    "title": "Find a contact in Zapier by Contact ID or Contact Email",
+    "permalink": "/docs/pi-22/zapier-find-contact-action/"
+  }
+}

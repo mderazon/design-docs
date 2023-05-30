@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-24/browser-locale-date-format-display/browser-locale-new-date-format-display-in-chatbot",
+  "id": "pi-24/browser-locale-date-format-display/browser-locale-new-date-format-display-in-chatbot",
+  "title": "As a Visitor, I will see date format in the chatbot based on the browser locale",
+  "description": "Summary",
+  "source": "@site/../pi-24/browser-locale-date-format-display/browser-locale-new-date-format-display-in-chatbot.md",
+  "sourceDirName": "pi-24/browser-locale-date-format-display",
+  "slug": "/pi-24/browser-locale-date-format-display/browser-locale-new-date-format-display-in-chatbot",
+  "permalink": "/docs/pi-24/browser-locale-date-format-display/browser-locale-new-date-format-display-in-chatbot",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-24/browser-locale-date-format-display/browser-locale-new-date-format-display-in-chatbot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user I can see pages with a booking calendar embedded in them in the Pages lobby",
+    "permalink": "/docs/pi-24/booking-calendar-with-pages/show-booking-calendar-details-in-pages-loby"
+  },
+  "next": {
+    "title": "As a user, I can see the AI action in the bot builder",
+    "permalink": "/docs/pi-24/chatonce-ai-feature/new-ai-interaction-in-bot-builder"
+  }
+}

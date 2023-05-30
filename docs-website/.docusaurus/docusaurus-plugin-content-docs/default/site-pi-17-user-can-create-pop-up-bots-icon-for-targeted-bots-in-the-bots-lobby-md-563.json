@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/user-can-create-pop-up-bots/icon-for-targeted-bots-in-the-bots-lobby",
+  "id": "pi-17/user-can-create-pop-up-bots/icon-for-targeted-bots-in-the-bots-lobby",
+  "title": "As an Admin, I can see the icon for targeted bots in the bots lobby.",
+  "description": "Summary",
+  "source": "@site/../pi-17/user-can-create-pop-up-bots/icon-for-targeted-bots-in-the-bots-lobby.md",
+  "sourceDirName": "pi-17/user-can-create-pop-up-bots",
+  "slug": "/pi-17/user-can-create-pop-up-bots/icon-for-targeted-bots-in-the-bots-lobby",
+  "permalink": "/docs/pi-17/user-can-create-pop-up-bots/icon-for-targeted-bots-in-the-bots-lobby",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/user-can-create-pop-up-bots/icon-for-targeted-bots-in-the-bots-lobby.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "upgrade-to-growth-at-zero-dollar-clientside-changes",
+    "permalink": "/docs/pi-17/upgrade-to-growth-at-zero-dollar/upgrade-to-growth-at-zero-dollar-clientside-changes"
+  },
+  "next": {
+    "title": "As a User, I can choose to create a pop-up bot or a targeted bot.",
+    "permalink": "/docs/pi-17/user-can-create-pop-up-bots/user-can-choose-to-create-popup-or-targeted-bot"
+  }
+}

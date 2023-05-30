@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-24/booking-calendar/instant-pause-for-growth-accounts/backend-api-support-instant-pause",
+  "id": "pi-24/booking-calendar/instant-pause-for-growth-accounts/backend-api-support-instant-pause",
+  "title": "Feature name",
+  "description": "Allow instant pause for growth accounts using backend API",
+  "source": "@site/../pi-24/booking-calendar/instant-pause-for-growth-accounts/backend-api-support-instant-pause.md",
+  "sourceDirName": "pi-24/booking-calendar/instant-pause-for-growth-accounts",
+  "slug": "/pi-24/booking-calendar/instant-pause-for-growth-accounts/backend-api-support-instant-pause",
+  "permalink": "/docs/pi-24/booking-calendar/instant-pause-for-growth-accounts/backend-api-support-instant-pause",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-24/booking-calendar/instant-pause-for-growth-accounts/backend-api-support-instant-pause.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Display remaining VCS options in Chatbot, Forms,as per the Virtual conferencing option connected to by the meeting host",
+    "permalink": "/docs/pi-24/booking-calendar/display-teams-webex-gtm-option"
+  },
+  "next": {
+    "title": "Reflect booking calender list",
+    "permalink": "/docs/pi-24/booking-calendar/reflect-booking-calender-list"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "pi-1",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Feature name",
+            "href": "/docs/pi-1/feature-1/",
+            "docId": "pi-1/feature-1/readme"
+          },
+          {
+            "type": "link",
+            "label": "Feature name",
+            "href": "/docs/pi-1/feature-2/",
+            "docId": "pi-1/feature-2/readme"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "pi-2",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "feature-3",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Feature name",
+                "href": "/docs/pi-2/feature-3/part-1",
+                "docId": "pi-2/feature-3/part-1"
+              },
+              {
+                "type": "link",
+                "label": "Feature name",
+                "href": "/docs/pi-2/feature-3/part-2",
+                "docId": "pi-2/feature-3/part-2"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "feature-4",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Feature name",
+                "href": "/docs/pi-2/feature-4/feature",
+                "docId": "pi-2/feature-4/feature"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "pi-1/feature-1/readme": {
+      "id": "pi-1/feature-1/readme",
+      "title": "Feature name",
+      "description": "Playlists",
+      "sidebar": "tutorialSidebar"
+    },
+    "pi-1/feature-2/readme": {
+      "id": "pi-1/feature-2/readme",
+      "title": "Feature name",
+      "description": "Manage photo album",
+      "sidebar": "tutorialSidebar"
+    },
+    "pi-2/feature-3/part-1": {
+      "id": "pi-2/feature-3/part-1",
+      "title": "Feature name",
+      "description": "Give your feature a name",
+      "sidebar": "tutorialSidebar"
+    },
+    "pi-2/feature-3/part-2": {
+      "id": "pi-2/feature-3/part-2",
+      "title": "Feature name",
+      "description": "Give your feature a name",
+      "sidebar": "tutorialSidebar"
+    },
+    "pi-2/feature-4/feature": {
+      "id": "pi-2/feature-4/feature",
+      "title": "Feature name",
+      "description": "Give your feature a name",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

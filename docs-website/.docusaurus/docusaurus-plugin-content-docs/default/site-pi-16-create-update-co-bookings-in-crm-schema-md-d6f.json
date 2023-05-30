@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/create-update-co-bookings-in-crm/schema",
+  "id": "pi-16/create-update-co-bookings-in-crm/schema",
+  "title": "schema",
+  "description": "Schema for BookingEventModel",
+  "source": "@site/../pi-16/create-update-co-bookings-in-crm/schema.md",
+  "sourceDirName": "pi-16/create-update-co-bookings-in-crm",
+  "slug": "/pi-16/create-update-co-bookings-in-crm/schema",
+  "permalink": "/docs/pi-16/create-update-co-bookings-in-crm/schema",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/create-update-co-bookings-in-crm/schema.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a OH developer, I will push the bookings originating from CO, coming from the meeting processor to Kafka(producer)",
+    "permalink": "/docs/pi-16/create-update-co-bookings-in-crm/add-co-bookings-in-kafka"
+  },
+  "next": {
+    "title": "As a user I can add a CRM action in my bot flow using schedule action",
+    "permalink": "/docs/pi-16/crm-intergration-chatbot/crm-integration-chatbot-schedule-action"
+  }
+}

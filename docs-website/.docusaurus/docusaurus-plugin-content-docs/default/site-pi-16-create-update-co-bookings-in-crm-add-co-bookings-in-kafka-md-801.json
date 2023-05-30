@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/create-update-co-bookings-in-crm/add-co-bookings-in-kafka",
+  "id": "pi-16/create-update-co-bookings-in-crm/add-co-bookings-in-kafka",
+  "title": "As a OH developer, I will push the bookings originating from CO, coming from the meeting processor to Kafka(producer)",
+  "description": "Summary",
+  "source": "@site/../pi-16/create-update-co-bookings-in-crm/add-co-bookings-in-kafka.md",
+  "sourceDirName": "pi-16/create-update-co-bookings-in-crm",
+  "slug": "/pi-16/create-update-co-bookings-in-crm/add-co-bookings-in-kafka",
+  "permalink": "/docs/pi-16/create-update-co-bookings-in-crm/add-co-bookings-in-kafka",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/create-update-co-bookings-in-crm/add-co-bookings-in-kafka.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "simplify-routing-and-clear-routing-options",
+    "permalink": "/docs/pi-16/clear-routing-rules/simplify-routing-and-clear-routing-options"
+  },
+  "next": {
+    "title": "schema",
+    "permalink": "/docs/pi-16/create-update-co-bookings-in-crm/schema"
+  }
+}

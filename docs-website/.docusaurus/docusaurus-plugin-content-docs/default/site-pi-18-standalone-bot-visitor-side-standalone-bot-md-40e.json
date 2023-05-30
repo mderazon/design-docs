@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/standalone-bot/visitor-side-standalone-bot",
+  "id": "pi-18/standalone-bot/visitor-side-standalone-bot",
+  "title": "Visitor can see the updated design on standalone bot as set by the user",
+  "description": "Summary",
+  "source": "@site/../pi-18/standalone-bot/visitor-side-standalone-bot.md",
+  "sourceDirName": "pi-18/standalone-bot",
+  "slug": "/pi-18/standalone-bot/visitor-side-standalone-bot",
+  "permalink": "/docs/pi-18/standalone-bot/visitor-side-standalone-bot",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/standalone-bot/visitor-side-standalone-bot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User will be able to see publish section for standalone bots.",
+    "permalink": "/docs/pi-18/standalone-bot/standalone-bot-publish"
+  },
+  "next": {
+    "title": "Tracking Activation Events for Calendar connection",
+    "permalink": "/docs/pi-18/tracking-activation-events/tracking-calendar-activation-events"
+  }
+}

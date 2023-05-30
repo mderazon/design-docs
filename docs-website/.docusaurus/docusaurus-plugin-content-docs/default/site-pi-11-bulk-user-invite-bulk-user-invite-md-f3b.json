@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/bulk-user-invite/bulk-user-invite",
+  "id": "pi-11/bulk-user-invite/bulk-user-invite",
+  "title": "Bulk User Invite",
+  "description": "[https://scheduleonce.atlassian.net/browse/ONCEHUB-31264]",
+  "source": "@site/../pi-11/bulk-user-invite/bulk-user-invite.md",
+  "sourceDirName": "pi-11/bulk-user-invite",
+  "slug": "/pi-11/bulk-user-invite/",
+  "permalink": "/docs/pi-11/bulk-user-invite/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/bulk-user-invite/bulk-user-invite.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can add new dynamic fields to the notifications editor from 'Booking page data'",
+    "permalink": "/docs/pi-11/bp-public-dynamic-field/"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-11/cache-meeting-processor/cmp-basic-structure"
+  }
+}

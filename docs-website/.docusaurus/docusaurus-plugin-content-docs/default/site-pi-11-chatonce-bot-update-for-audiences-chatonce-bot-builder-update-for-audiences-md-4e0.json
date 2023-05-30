@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/chatonce-bot-update-for-audiences/chatonce-bot-builder-update-for-audiences",
+  "id": "pi-11/chatonce-bot-update-for-audiences/chatonce-bot-builder-update-for-audiences",
+  "title": "Updating bot builder for Audiences and Assignment changes.",
+  "description": "Summary",
+  "source": "@site/../pi-11/chatonce-bot-update-for-audiences/chatonce-bot-builder-update-for-audiences.md",
+  "sourceDirName": "pi-11/chatonce-bot-update-for-audiences",
+  "slug": "/pi-11/chatonce-bot-update-for-audiences/chatonce-bot-builder-update-for-audiences",
+  "permalink": "/docs/pi-11/chatonce-bot-update-for-audiences/chatonce-bot-builder-update-for-audiences",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/chatonce-bot-update-for-audiences/chatonce-bot-builder-update-for-audiences.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create new Audiences page",
+    "permalink": "/docs/pi-11/chatonce-audiences-lobby/chatonce-new-audience"
+  },
+  "next": {
+    "title": "Updating bot lobby for audience changes",
+    "permalink": "/docs/pi-11/chatonce-bot-update-for-audiences/chatonce-bot-lobby-update-for-audiences"
+  }
+}

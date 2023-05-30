@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/formonce/select-default-country-when-mapped-to-country-contact-field",
+  "id": "pi-19/formonce/select-default-country-when-mapped-to-country-contact-field",
+  "title": "As a visitor, my country will be selected by default whenever I am asked to select country on the smart form.",
+  "description": "Summary",
+  "source": "@site/../pi-19/formonce/select-default-country-when-mapped-to-country-contact-field.md",
+  "sourceDirName": "pi-19/formonce",
+  "slug": "/pi-19/formonce/select-default-country-when-mapped-to-country-contact-field",
+  "permalink": "/docs/pi-19/formonce/select-default-country-when-mapped-to-country-contact-field",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/formonce/select-default-country-when-mapped-to-country-contact-field.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I cannot remove all interactions from a published form.",
+    "permalink": "/docs/pi-19/formonce/restrict-removing-all-interactions-in-a-published-form"
+  },
+  "next": {
+    "title": "As a visitor, I will see the single select options as a list if the user has set them to be so.",
+    "permalink": "/docs/pi-19/formonce/single-select-options-as-a-list-on-visitor-side"
+  }
+}

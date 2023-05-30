@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/avengers-lc-ui-changes/avengers-lc-ui-changes",
+  "id": "pi-16/avengers-lc-ui-changes/avengers-lc-ui-changes",
+  "title": "New messaging in bot builder and routing option and beta tag in bot builder and live chat inbox.",
+  "description": "Summary",
+  "source": "@site/../pi-16/avengers-lc-ui-changes/avengers-lc-ui-changes.md",
+  "sourceDirName": "pi-16/avengers-lc-ui-changes",
+  "slug": "/pi-16/avengers-lc-ui-changes/",
+  "permalink": "/docs/pi-16/avengers-lc-ui-changes/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/avengers-lc-ui-changes/avengers-lc-ui-changes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add V2 Pricing Components to Update BillAgain Subscription API",
+    "permalink": "/docs/pi-16/add-v2-pricing-components-to-update-subscripton-api/add-v2-pricing-components-to-update-subscription-api"
+  },
+  "next": {
+    "title": "User will see the template name pre-filled in the name field when creating a bot or audience from a template",
+    "permalink": "/docs/pi-16/bot-builder-usability-improvements/prefill-template-name"
+  }
+}

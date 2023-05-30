@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/aes-iv-encryption/enable-aes-iv-encyption",
+  "id": "pi-20/aes-iv-encryption/enable-aes-iv-encyption",
+  "title": "Removing hardcoded salt from AES encryption",
+  "description": "Jira ticket Update AES encryption in WebApp, CS-API and Windows Services",
+  "source": "@site/../pi-20/aes-iv-encryption/enable-aes-iv-encyption.md",
+  "sourceDirName": "pi-20/aes-iv-encryption",
+  "slug": "/pi-20/aes-iv-encryption/enable-aes-iv-encyption",
+  "permalink": "/docs/pi-20/aes-iv-encryption/enable-aes-iv-encyption",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/aes-iv-encryption/enable-aes-iv-encyption.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding UTM parmateres to booking api",
+    "permalink": "/docs/pi-20/add-utm-parmateres-to-booking-api/"
+  },
+  "next": {
+    "title": "Moving remaining Calendar Integrations in Customer front to the calendar service",
+    "permalink": "/docs/pi-20/calendar-integration-to-calendar-service/create-booking-functionality-to-calendar-service"
+  }
+}

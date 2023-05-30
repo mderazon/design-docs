@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/billing-address-data/update-address-fields",
+  "id": "pi-11/billing-address-data/update-address-fields",
+  "title": "Feature name",
+  "description": "Get the name, zip, address data for PayPal going forward, and start storing address data (in Postgres)",
+  "source": "@site/../pi-11/billing-address-data/update-address-fields.md",
+  "sourceDirName": "pi-11/billing-address-data",
+  "slug": "/pi-11/billing-address-data/update-address-fields",
+  "permalink": "/docs/pi-11/billing-address-data/update-address-fields",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/billing-address-data/update-address-fields.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Console App to save missing Zip and Country data into Billagain and BillingService database.",
+    "permalink": "/docs/pi-11/billing-address-data/"
+  },
+  "next": {
+    "title": "As a User, I can add new dynamic fields to the notifications editor from 'Booking page data'",
+    "permalink": "/docs/pi-11/bp-public-dynamic-field/"
+  }
+}

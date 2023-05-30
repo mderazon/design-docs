@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/oh-dashboard/new-landing-page-on-signin",
+  "id": "pi-18/oh-dashboard/new-landing-page-on-signin",
+  "title": "Dashboard",
+  "description": "Summary",
+  "source": "@site/../pi-18/oh-dashboard/new-landing-page-on-signin.md",
+  "sourceDirName": "pi-18/oh-dashboard",
+  "slug": "/pi-18/oh-dashboard/new-landing-page-on-signin",
+  "permalink": "/docs/pi-18/oh-dashboard/new-landing-page-on-signin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/oh-dashboard/new-landing-page-on-signin.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/docs/pi-18/oh-dashboard/leads-in-status-graph"
+  },
+  "next": {
+    "title": "As an admin, if I delete a User from my account they will also be removed from all teams they were included in",
+    "permalink": "/docs/pi-18/remove-deleted-user-from-all-teams/"
+  }
+}

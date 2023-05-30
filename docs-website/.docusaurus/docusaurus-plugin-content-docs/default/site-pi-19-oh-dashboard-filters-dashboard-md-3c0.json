@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/oh-dashboard/filters-dashboard",
+  "id": "pi-19/oh-dashboard/filters-dashboard",
+  "title": "Dashboard",
+  "description": "Summary",
+  "source": "@site/../pi-19/oh-dashboard/filters-dashboard.md",
+  "sourceDirName": "pi-19/oh-dashboard",
+  "slug": "/pi-19/oh-dashboard/filters-dashboard",
+  "permalink": "/docs/pi-19/oh-dashboard/filters-dashboard",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/oh-dashboard/filters-dashboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/docs/pi-19/oh-dashboard/empty-dashboard"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/docs/pi-19/oh-dashboard/lead-conversion-rate"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/starter-plan/upgrade-to-growth-banner",
+  "id": "pi-15/starter-plan/upgrade-to-growth-banner",
+  "title": "Feature name",
+  "description": "Remove Upgrade to Growth banner from the checkout flow",
+  "source": "@site/../pi-15/starter-plan/upgrade-to-growth-banner.md",
+  "sourceDirName": "pi-15/starter-plan",
+  "slug": "/pi-15/starter-plan/upgrade-to-growth-banner",
+  "permalink": "/docs/pi-15/starter-plan/upgrade-to-growth-banner",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/starter-plan/upgrade-to-growth-banner.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-15/starter-plan/update-starter-plan-illustrations"
+  },
+  "next": {
+    "title": "Implement SAGA pattern in Sbo-frontend",
+    "permalink": "/docs/pi-15/submitonce/saga-pattern/saga-pattern-implementation"
+  }
+}

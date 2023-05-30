@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-24/booking-calendar-customer-front/booking-calendar-once-ui-select-dropdown",
+  "id": "pi-24/booking-calendar-customer-front/booking-calendar-once-ui-select-dropdown",
+  "title": "Booking calendar react once UI select dropdown",
+  "description": "Summary",
+  "source": "@site/../pi-24/booking-calendar-customer-front/booking-calendar-once-ui-select-dropdown.md",
+  "sourceDirName": "pi-24/booking-calendar-customer-front",
+  "slug": "/pi-24/booking-calendar-customer-front/booking-calendar-once-ui-select-dropdown",
+  "permalink": "/docs/pi-24/booking-calendar-customer-front/booking-calendar-once-ui-select-dropdown",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-24/booking-calendar-customer-front/booking-calendar-once-ui-select-dropdown.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reflect booking calender list",
+    "permalink": "/docs/pi-24/booking-calendar/reflect-booking-calender-list"
+  },
+  "next": {
+    "title": "As a user I can input my details, select the virtual conferencing option I wish to use and confirm the booking",
+    "permalink": "/docs/pi-24/booking-calendar-customer-front/booking-calendar-schedule-form"
+  }
+}

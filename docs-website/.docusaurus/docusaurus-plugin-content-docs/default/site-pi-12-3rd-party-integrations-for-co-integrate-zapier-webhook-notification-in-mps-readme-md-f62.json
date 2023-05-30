@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/3rd-party-integrations-for-co/integrate-zapier-webhook-notification-in-mps/readme",
+  "id": "pi-12/3rd-party-integrations-for-co/integrate-zapier-webhook-notification-in-mps/readme",
+  "title": "Integrate zapier, webhook and notification queue processing in meeting processor service",
+  "description": "Summary",
+  "source": "@site/../pi-12/3rd-party-integrations-for-co/integrate-zapier-webhook-notification-in-mps/readme.md",
+  "sourceDirName": "pi-12/3rd-party-integrations-for-co/integrate-zapier-webhook-notification-in-mps",
+  "slug": "/pi-12/3rd-party-integrations-for-co/integrate-zapier-webhook-notification-in-mps/",
+  "permalink": "/docs/pi-12/3rd-party-integrations-for-co/integrate-zapier-webhook-notification-in-mps/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/3rd-party-integrations-for-co/integrate-zapier-webhook-notification-in-mps/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrate Kafka with Meeting Processing Service and bookings api",
+    "permalink": "/docs/pi-12/3rd-party-integrations-for-co/integrate-kafka/"
+  },
+  "next": {
+    "title": "Migrate 7.9/8.9 accounts with pending downgrade or license removal",
+    "permalink": "/docs/pi-12/acount-migration-pending-downgrade/account-migration-pending-downgrade"
+  }
+}

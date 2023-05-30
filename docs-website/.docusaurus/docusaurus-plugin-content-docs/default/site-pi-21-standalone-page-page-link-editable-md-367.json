@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/standalone-page/page-link-editable",
+  "id": "pi-21/standalone-page/page-link-editable",
+  "title": "Feature name",
+  "description": "As a marketing or sales professional I can edit the URL of my standalone page to something that is more human readable",
+  "source": "@site/../pi-21/standalone-page/page-link-editable.md",
+  "sourceDirName": "pi-21/standalone-page",
+  "slug": "/pi-21/standalone-page/page-link-editable",
+  "permalink": "/docs/pi-21/standalone-page/page-link-editable",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/standalone-page/page-link-editable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, I can create new acceleration page from the lobby",
+    "permalink": "/docs/pi-21/standalone-page/create-new-standalone-page"
+  },
+  "next": {
+    "title": "As a user, I am able to access the 3 dot menu for pages",
+    "permalink": "/docs/pi-21/standalone-page/standalone-page-3dot-menu"
+  }
+}

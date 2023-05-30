@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/inbound-link-customization-abilities/display-modern-layout-on-customer-front",
+  "id": "pi-19/inbound-link-customization-abilities/display-modern-layout-on-customer-front",
+  "title": "As a customer I can see the new layout applied on the customer front of standalone bots",
+  "description": "Summary",
+  "source": "@site/../pi-19/inbound-link-customization-abilities/display-modern-layout-on-customer-front.md",
+  "sourceDirName": "pi-19/inbound-link-customization-abilities",
+  "slug": "/pi-19/inbound-link-customization-abilities/display-modern-layout-on-customer-front",
+  "permalink": "/docs/pi-19/inbound-link-customization-abilities/display-modern-layout-on-customer-front",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/inbound-link-customization-abilities/display-modern-layout-on-customer-front.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Help-Widget",
+    "permalink": "/docs/pi-19/help-widget/"
+  },
+  "next": {
+    "title": "As a user I can update the settings for the new layout of standalone bots in my account",
+    "permalink": "/docs/pi-19/inbound-link-customization-abilities/update-settings-for-new-layout-of-standalone-bots"
+  }
+}

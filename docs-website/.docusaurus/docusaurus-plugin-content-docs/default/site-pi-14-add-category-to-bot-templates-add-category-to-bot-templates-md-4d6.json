@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-14/add-category-to-bot-templates/add-category-to-bot-templates",
+  "id": "pi-14/add-category-to-bot-templates/add-category-to-bot-templates",
+  "title": "Bot template category.",
+  "description": "Summary",
+  "source": "@site/../pi-14/add-category-to-bot-templates/add-category-to-bot-templates.md",
+  "sourceDirName": "pi-14/add-category-to-bot-templates",
+  "slug": "/pi-14/add-category-to-bot-templates/",
+  "permalink": "/docs/pi-14/add-category-to-bot-templates/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-14/add-category-to-bot-templates/add-category-to-bot-templates.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a PM, I will be able to monitor usage of activity export and reports.",
+    "permalink": "/docs/pi-14/activity-export/monitoring"
+  },
+  "next": {
+    "title": "Industry lobby",
+    "permalink": "/docs/pi-14/add-category-to-bot-templates/industry-lobby"
+  }
+}

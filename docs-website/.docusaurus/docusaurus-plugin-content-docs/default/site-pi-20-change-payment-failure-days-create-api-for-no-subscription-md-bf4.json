@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/change-payment-failure-days/create-api-for-no-subscription",
+  "id": "pi-20/change-payment-failure-days/create-api-for-no-subscription",
+  "title": "As a Growth user on payment failure, I will see updated text in the email notifications, pop-ups and app banners",
+  "description": "Summary",
+  "source": "@site/../pi-20/change-payment-failure-days/create-api-for-no-subscription.md",
+  "sourceDirName": "pi-20/change-payment-failure-days",
+  "slug": "/pi-20/change-payment-failure-days/create-api-for-no-subscription",
+  "permalink": "/docs/pi-20/change-payment-failure-days/create-api-for-no-subscription",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/change-payment-failure-days/create-api-for-no-subscription.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Move zapier watch callback endpoints to a callback-handlers service",
+    "permalink": "/docs/pi-20/callback-handlers/move-zapier-watch-end-points"
+  },
+  "next": {
+    "title": "As a Growth user on payment failure, I will update payment failure status till 14 days instead of 30 days",
+    "permalink": "/docs/pi-20/change-payment-failure-days/growth-plan-payment-failure-14-days-instead-of-30"
+  }
+}

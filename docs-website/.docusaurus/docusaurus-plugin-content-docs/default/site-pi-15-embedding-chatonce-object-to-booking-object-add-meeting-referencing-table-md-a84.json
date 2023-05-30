@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/embedding-chatonce-object-to-booking-object/add-meeting-referencing-table",
+  "id": "pi-15/embedding-chatonce-object-to-booking-object/add-meeting-referencing-table",
+  "title": "Add Meeting Referencing table",
+  "description": "https://scheduleonce.atlassian.net/browse/ONCEHUB-43583",
+  "source": "@site/../pi-15/embedding-chatonce-object-to-booking-object/add-meeting-referencing-table.md",
+  "sourceDirName": "pi-15/embedding-chatonce-object-to-booking-object",
+  "slug": "/pi-15/embedding-chatonce-object-to-booking-object/add-meeting-referencing-table",
+  "permalink": "/docs/pi-15/embedding-chatonce-object-to-booking-object/add-meeting-referencing-table",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/embedding-chatonce-object-to-booking-object/add-meeting-referencing-table.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embed Conversation in Zapier Payload for Booking life cycle events.",
+    "permalink": "/docs/pi-15/embed-conversation-in-zapier-for-booking-life-cycle-triggers/embed-conversation-in-zapier-payload"
+  },
+  "next": {
+    "title": "Oncehub API - Architecture design to add multi-product (e.g. chatonce) object into booking object in the booking API response",
+    "permalink": "/docs/pi-15/embedding-chatonce-object-to-booking-object/embed-chatonce-object-to-oncehub-api"
+  }
+}

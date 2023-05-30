@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/remove-io-ui/calendar-connection-and-email-noticfication-io-removal",
+  "id": "pi-12/remove-io-ui/calendar-connection-and-email-noticfication-io-removal",
+  "title": "Updating UI on Calendar connection page and email notification section",
+  "description": "Summary",
+  "source": "@site/../pi-12/remove-io-ui/calendar-connection-and-email-noticfication-io-removal.md",
+  "sourceDirName": "pi-12/remove-io-ui",
+  "slug": "/pi-12/remove-io-ui/calendar-connection-and-email-noticfication-io-removal",
+  "permalink": "/docs/pi-12/remove-io-ui/calendar-connection-and-email-noticfication-io-removal",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/remove-io-ui/calendar-connection-and-email-noticfication-io-removal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a CS manager, I can remove ChatOnce from an account based on the User’s request",
+    "permalink": "/docs/pi-12/remove-chatonce-through-admin-cs/"
+  },
+  "next": {
+    "title": "As a developer, i will add logic for resource pool scenarios in new time slot service.",
+    "permalink": "/docs/pi-12/resource-pool-with-round-robin/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/publish-bot-in-different-ways/rename-publish-to-share",
+  "id": "pi-21/publish-bot-in-different-ways/rename-publish-to-share",
+  "title": "As a Developer, I will rename the Publish tab and see updated UI for bot publishing options",
+  "description": "Summary",
+  "source": "@site/../pi-21/publish-bot-in-different-ways/rename-publish-to-share.md",
+  "sourceDirName": "pi-21/publish-bot-in-different-ways",
+  "slug": "/pi-21/publish-bot-in-different-ways/rename-publish-to-share",
+  "permalink": "/docs/pi-21/publish-bot-in-different-ways/rename-publish-to-share",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/publish-bot-in-different-ways/rename-publish-to-share.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a developer I remove the bot type and will make changes to the bot lobby and setup.",
+    "permalink": "/docs/pi-21/publish-bot-in-different-ways/remove-different-types-bot-create-dropdown"
+  },
+  "next": {
+    "title": "As a developer, I will add share Tab and create new design setting for bots",
+    "permalink": "/docs/pi-21/publish-bot-in-different-ways/share-tab-with-new-design-setting"
+  }
+}

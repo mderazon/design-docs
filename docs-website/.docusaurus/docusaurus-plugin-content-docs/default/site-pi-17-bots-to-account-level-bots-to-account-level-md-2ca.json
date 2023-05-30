@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/bots-to-account-level/bots-to-account-level",
+  "id": "pi-17/bots-to-account-level/bots-to-account-level",
+  "title": "As an admin, I can see all the bots on my account on the bots lobby.",
+  "description": "Summary",
+  "source": "@site/../pi-17/bots-to-account-level/bots-to-account-level.md",
+  "sourceDirName": "pi-17/bots-to-account-level",
+  "slug": "/pi-17/bots-to-account-level/",
+  "permalink": "/docs/pi-17/bots-to-account-level/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/bots-to-account-level/bots-to-account-level.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a website visitor I can see the bot displaying in a popup form",
+    "permalink": "/docs/pi-17/bot-launch-as-popup/show-bot-in-popup"
+  },
+  "next": {
+    "title": "As a User, I can edit the privacy settings under configure.",
+    "permalink": "/docs/pi-17/bots-to-account-level/add-privacy-setting-under-bot-configure"
+  }
+}

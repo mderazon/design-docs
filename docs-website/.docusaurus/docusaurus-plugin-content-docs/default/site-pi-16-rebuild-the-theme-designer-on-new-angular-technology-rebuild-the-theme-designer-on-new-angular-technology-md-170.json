@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/rebuild-the-theme-designer-on-new-angular-technology/rebuild-the-theme-designer-on-new-angular-technology",
+  "id": "pi-16/rebuild-the-theme-designer-on-new-angular-technology/rebuild-the-theme-designer-on-new-angular-technology",
+  "title": "Rebuild the theme designer on new Angular technology",
+  "description": "Jira ticket: ONCEHUB-44595",
+  "source": "@site/../pi-16/rebuild-the-theme-designer-on-new-angular-technology/rebuild-the-theme-designer-on-new-angular-technology.md",
+  "sourceDirName": "pi-16/rebuild-the-theme-designer-on-new-angular-technology",
+  "slug": "/pi-16/rebuild-the-theme-designer-on-new-angular-technology/",
+  "permalink": "/docs/pi-16/rebuild-the-theme-designer-on-new-angular-technology/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/rebuild-the-theme-designer-on-new-angular-technology/rebuild-the-theme-designer-on-new-angular-technology.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prefetch schedule timeslots",
+    "permalink": "/docs/pi-16/prefetch-timeslots/"
+  },
+  "next": {
+    "title": "Separate Scheduleonce legacy code and angular 2+ code for user front",
+    "permalink": "/docs/pi-16/seperate-so-front-from-orig-so-build/separate-so-front-build-from-orig"
+  }
+}

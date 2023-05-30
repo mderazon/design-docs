@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/live-chat-teams/route-to-interactions-using-live-chat-team",
+  "id": "pi-18/live-chat-teams/route-to-interactions-using-live-chat-team",
+  "title": "Route to interactions based on rules using Live chat team’s availability as a condition",
+  "description": "Summary",
+  "source": "@site/../pi-18/live-chat-teams/route-to-interactions-using-live-chat-team.md",
+  "sourceDirName": "pi-18/live-chat-teams",
+  "slug": "/pi-18/live-chat-teams/route-to-interactions-using-live-chat-team",
+  "permalink": "/docs/pi-18/live-chat-teams/route-to-interactions-using-live-chat-team",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/live-chat-teams/route-to-interactions-using-live-chat-team.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Live Chat teams events tracking",
+    "permalink": "/docs/pi-18/live-chat-teams/live-chat-teams-event-tracking"
+  },
+  "next": {
+    "title": "Make a Test Booking Improvements",
+    "permalink": "/docs/pi-18/make-test-booking-improvements/make-a-test-booking-improvements"
+  }
+}

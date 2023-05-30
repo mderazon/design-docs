@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-13/contact-field-and-booking-form/get-delete-a-single-contact-via-api",
+  "id": "pi-13/contact-field-and-booking-form/get-delete-a-single-contact-via-api",
+  "title": "GET and DELETE a single contact via API",
+  "description": "Summary",
+  "source": "@site/../pi-13/contact-field-and-booking-form/get-delete-a-single-contact-via-api.md",
+  "sourceDirName": "pi-13/contact-field-and-booking-form",
+  "slug": "/pi-13/contact-field-and-booking-form/get-delete-a-single-contact-via-api",
+  "permalink": "/docs/pi-13/contact-field-and-booking-form/get-delete-a-single-contact-via-api",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-13/contact-field-and-booking-form/get-delete-a-single-contact-via-api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "\"Template settings\" menu item in the audience dropdown to configure audiences to be templates",
+    "permalink": "/docs/pi-13/configure-audience-to-be-templates/"
+  },
+  "next": {
+    "title": "Update the field mapping of booking form",
+    "permalink": "/docs/pi-13/contact-field-and-booking-form/update-field-mapping"
+  }
+}

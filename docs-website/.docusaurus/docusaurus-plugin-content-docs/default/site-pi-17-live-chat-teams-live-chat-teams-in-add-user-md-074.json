@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/live-chat-teams/live-chat-teams-in-add-user",
+  "id": "pi-17/live-chat-teams/live-chat-teams-in-add-user",
+  "title": "As an admin, I can add a user to a team from the add users flow. Also, when an account is deleted, everything related to teams must be deleted.",
+  "description": "Summary",
+  "source": "@site/../pi-17/live-chat-teams/live-chat-teams-in-add-user.md",
+  "sourceDirName": "pi-17/live-chat-teams",
+  "slug": "/pi-17/live-chat-teams/live-chat-teams-in-add-user",
+  "permalink": "/docs/pi-17/live-chat-teams/live-chat-teams-in-add-user",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/live-chat-teams/live-chat-teams-in-add-user.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As an admin I can see a list of all Live chat teams on my account",
+    "permalink": "/docs/pi-17/live-chat-teams/list-all-live-chat-teams-on-my-account"
+  },
+  "next": {
+    "title": "As an admin I can see teams in OnceHub account settings",
+    "permalink": "/docs/pi-17/live-chat-teams/live-chat-teams-in-oncehub-account-settings-for-admin"
+  }
+}

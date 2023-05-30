@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/chatonce-bot-update-for-audiences/chatonce-sidebar-assignment-update-for-audiences",
+  "id": "pi-11/chatonce-bot-update-for-audiences/chatonce-sidebar-assignment-update-for-audiences",
+  "title": "Updating Privacy navigation and text updation in Assignment section",
+  "description": "Summary",
+  "source": "@site/../pi-11/chatonce-bot-update-for-audiences/chatonce-sidebar-assignment-update-for-audiences.md",
+  "sourceDirName": "pi-11/chatonce-bot-update-for-audiences",
+  "slug": "/pi-11/chatonce-bot-update-for-audiences/chatonce-sidebar-assignment-update-for-audiences",
+  "permalink": "/docs/pi-11/chatonce-bot-update-for-audiences/chatonce-sidebar-assignment-update-for-audiences",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/chatonce-bot-update-for-audiences/chatonce-sidebar-assignment-update-for-audiences.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Updating bot lobby for audience changes",
+    "permalink": "/docs/pi-11/chatonce-bot-update-for-audiences/chatonce-bot-lobby-update-for-audiences"
+  },
+  "next": {
+    "title": "Multithreading on customer side",
+    "permalink": "/docs/pi-11/chatonce-multithreading/customer-side-multi-threading"
+  }
+}

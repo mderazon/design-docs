@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/encrypt-dotnet-connectionstrings/encrypt-configuration-file",
+  "id": "pi-12/encrypt-dotnet-connectionstrings/encrypt-configuration-file",
+  "title": "Encrypt configuration file for dotnet application",
+  "description": "Summary",
+  "source": "@site/../pi-12/encrypt-dotnet-connectionstrings/encrypt-configuration-file.md",
+  "sourceDirName": "pi-12/encrypt-dotnet-connectionstrings",
+  "slug": "/pi-12/encrypt-dotnet-connectionstrings/encrypt-configuration-file",
+  "permalink": "/docs/pi-12/encrypt-dotnet-connectionstrings/encrypt-configuration-file",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/encrypt-dotnet-connectionstrings/encrypt-configuration-file.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disable Booking Page on unassigning the SO license instead of transfering to Admin.",
+    "permalink": "/docs/pi-12/disabled-bp-on-unassigning-license/"
+  },
+  "next": {
+    "title": "Integrate new .Net core CF to make bookings and confirm from CO widget.",
+    "permalink": "/docs/pi-12/integrate-dot-net-core-cf-for-chatonce/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/remove-multiple-websites-from-co/remove-multiple-websites-from-co",
+  "id": "pi-18/remove-multiple-websites-from-co/remove-multiple-websites-from-co",
+  "title": "As a User, I cannot add a new website in ChatOnce",
+  "description": "Summary",
+  "source": "@site/../pi-18/remove-multiple-websites-from-co/remove-multiple-websites-from-co.md",
+  "sourceDirName": "pi-18/remove-multiple-websites-from-co",
+  "slug": "/pi-18/remove-multiple-websites-from-co/",
+  "permalink": "/docs/pi-18/remove-multiple-websites-from-co/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/remove-multiple-websites-from-co/remove-multiple-websites-from-co.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As an admin, if I delete a User from my account they will also be removed from all teams they were included in",
+    "permalink": "/docs/pi-18/remove-deleted-user-from-all-teams/"
+  },
+  "next": {
+    "title": "As a User, all the users on my account will have the same current selected website",
+    "permalink": "/docs/pi-18/remove-multiple-websites-from-co/all-users-of-the-account-have-same-selected-website"
+  }
+}

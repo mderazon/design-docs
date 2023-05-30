@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations/standalone-form-with-all-types-of-interactions-in-new-architecture",
+  "id": "pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations/standalone-form-with-all-types-of-interactions-in-new-architecture",
+  "title": "As a visitor I can access Form with all types of interactions",
+  "description": "Summary",
+  "source": "@site/../pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations/standalone-form-with-all-types-of-interactions-in-new-architecture.md",
+  "sourceDirName": "pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations",
+  "slug": "/pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations/standalone-form-with-all-types-of-interactions-in-new-architecture",
+  "permalink": "/docs/pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations/standalone-form-with-all-types-of-interactions-in-new-architecture",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations/standalone-form-with-all-types-of-interactions-in-new-architecture.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a visitor I can access Standalone Bot with new architecture",
+    "permalink": "/docs/pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations/stadnalone-bot-with-all-types-of-interactions"
+  },
+  "next": {
+    "title": "As a visitor I can access Targeted bot based on Audience targeting and Identification rules",
+    "permalink": "/docs/pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations/target-bot-targeting-rules"
+  }
+}

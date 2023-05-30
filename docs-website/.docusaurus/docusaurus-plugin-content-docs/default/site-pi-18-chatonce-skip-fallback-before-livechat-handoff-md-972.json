@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/chatonce/skip-fallback-before-livechat-handoff",
+  "id": "pi-18/chatonce/skip-fallback-before-livechat-handoff",
+  "title": "As a Visitor, I will not be asked for fallback questions before livechat handoff",
+  "description": "Summary",
+  "source": "@site/../pi-18/chatonce/skip-fallback-before-livechat-handoff.md",
+  "sourceDirName": "pi-18/chatonce",
+  "slug": "/pi-18/chatonce/skip-fallback-before-livechat-handoff",
+  "permalink": "/docs/pi-18/chatonce/skip-fallback-before-livechat-handoff",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/chatonce/skip-fallback-before-livechat-handoff.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a Visitor, I can select time slot before answering fallback questions in instant schedule action.",
+    "permalink": "/docs/pi-18/chatonce/select-time-slot-before-answering-fallback-questions-in-instant-scheduling"
+  },
+  "next": {
+    "title": "Embed AccountID in track events in Mixpanel and Customer.io",
+    "permalink": "/docs/pi-18/embed-account-id-in-rudder-track/"
+  }
+}

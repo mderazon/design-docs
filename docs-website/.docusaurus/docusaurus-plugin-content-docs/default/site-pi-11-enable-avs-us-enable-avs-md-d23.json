@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/enable-avs-us/enable-avs",
+  "id": "pi-11/enable-avs-us/enable-avs",
+  "title": "Feature name",
+  "description": "Include Country field for AVS verification and enable AVS only for US",
+  "source": "@site/../pi-11/enable-avs-us/enable-avs.md",
+  "sourceDirName": "pi-11/enable-avs-us",
+  "slug": "/pi-11/enable-avs-us/enable-avs",
+  "permalink": "/docs/pi-11/enable-avs-us/enable-avs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/enable-avs-us/enable-avs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding product status 'Not Installed'",
+    "permalink": "/docs/pi-11/disable-inviteonce/not-installed-product-status"
+  },
+  "next": {
+    "title": "Displaying Enable actions Pop ups like licence assignment, Fair usage policy, buy licence",
+    "permalink": "/docs/pi-11/enable-bp-popups/"
+  }
+}

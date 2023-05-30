@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/live-chat/live-chat-seamlessly-receive-new-messages",
+  "id": "pi-15/live-chat/live-chat-seamlessly-receive-new-messages",
+  "title": "The user can seamlessly receive new messages.",
+  "description": "Summary",
+  "source": "@site/../pi-15/live-chat/live-chat-seamlessly-receive-new-messages.md",
+  "sourceDirName": "pi-15/live-chat",
+  "slug": "/pi-15/live-chat/live-chat-seamlessly-receive-new-messages",
+  "permalink": "/docs/pi-15/live-chat/live-chat-seamlessly-receive-new-messages",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/live-chat/live-chat-seamlessly-receive-new-messages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Live chat permission and rules",
+    "permalink": "/docs/pi-15/live-chat/live-chat-permissions-and-rules"
+  },
+  "next": {
+    "title": "The user can get unread message alert when receiving new messages.",
+    "permalink": "/docs/pi-15/live-chat/live-chat-user-side-unread-message-alert"
+  }
+}

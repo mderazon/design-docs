@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/migrate-vantiv-cards-to-ba/create-customer-in-billagain",
+  "id": "pi-19/migrate-vantiv-cards-to-ba/create-customer-in-billagain",
+  "title": "Feature name",
+  "description": "Migrate Vantiv cards to BillAgain",
+  "source": "@site/../pi-19/migrate-vantiv-cards-to-ba/create-customer-in-billagain.md",
+  "sourceDirName": "pi-19/migrate-vantiv-cards-to-ba",
+  "slug": "/pi-19/migrate-vantiv-cards-to-ba/create-customer-in-billagain",
+  "permalink": "/docs/pi-19/migrate-vantiv-cards-to-ba/create-customer-in-billagain",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/migrate-vantiv-cards-to-ba/create-customer-in-billagain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-19/migrate-vantiv-cards-to-ba/comple-migration-to-billagain"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-19/migrate-vantiv-cards-to-ba/decrypt-vantiv-csv"
+  }
+}

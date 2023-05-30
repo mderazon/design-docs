@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/starter-plan/three-user-for-account-have-starter-plan",
+  "id": "pi-19/starter-plan/three-user-for-account-have-starter-plan",
+  "title": "As a New User for starter plan, I will have max 3 users and 3 schedule meeting and 3 live chat licenses.",
+  "description": "Summary",
+  "source": "@site/../pi-19/starter-plan/three-user-for-account-have-starter-plan.md",
+  "sourceDirName": "pi-19/starter-plan",
+  "slug": "/pi-19/starter-plan/three-user-for-account-have-starter-plan",
+  "permalink": "/docs/pi-19/starter-plan/three-user-for-account-have-starter-plan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/starter-plan/three-user-for-account-have-starter-plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a New User on the starter plan I can only have 1 enabled booking page per scheduled meeting license",
+    "permalink": "/docs/pi-19/starter-plan/one-bookingpage-per-license"
+  },
+  "next": {
+    "title": "Make an update to the existing delete account flow for paid growth accounts.",
+    "permalink": "/docs/pi-19/update-to-the-existing-delete-account-flow/account-delete"
+  }
+}

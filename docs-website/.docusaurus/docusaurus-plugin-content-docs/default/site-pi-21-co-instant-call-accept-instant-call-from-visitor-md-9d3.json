@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/co-instant-call/accept-instant-call-from-visitor",
+  "id": "pi-21/co-instant-call/accept-instant-call-from-visitor",
+  "title": "As a user, I can accept an instant call.",
+  "description": "Summary",
+  "source": "@site/../pi-21/co-instant-call/accept-instant-call-from-visitor.md",
+  "sourceDirName": "pi-21/co-instant-call",
+  "slug": "/pi-21/co-instant-call/accept-instant-call-from-visitor",
+  "permalink": "/docs/pi-21/co-instant-call/accept-instant-call-from-visitor",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/co-instant-call/accept-instant-call-from-visitor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Use profile or booking page to set calendars for busy time.",
+    "permalink": "/docs/pi-21/busy-time-user-calendar/use-profile-or-bp-to-set-calendar-for-busy-time"
+  },
+  "next": {
+    "title": "As a user I can add an Instant Call action to a Bot",
+    "permalink": "/docs/pi-21/co-instant-call/add-instant-call-action-in-bot"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-14/prevent-pii-from-rudder-except-customerio/readme",
+  "id": "pi-14/prevent-pii-from-rudder-except-customerio/readme",
+  "title": "Create custom transformers to prevent PII going from Rudder",
+  "description": "Summary",
+  "source": "@site/../pi-14/prevent-pii-from-rudder-except-customerio/readme.md",
+  "sourceDirName": "pi-14/prevent-pii-from-rudder-except-customerio",
+  "slug": "/pi-14/prevent-pii-from-rudder-except-customerio/",
+  "permalink": "/docs/pi-14/prevent-pii-from-rudder-except-customerio/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-14/prevent-pii-from-rudder-except-customerio/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update logic to have licenses prepopulated on the secure checkout page",
+    "permalink": "/docs/pi-14/prepopulate-licenses-on-secure-checkout/"
+  },
+  "next": {
+    "title": "While upgrading from Solo to Teams Plan, User cannot publish a bot if he has 0 SO licences and have Schedule Action in his bot.",
+    "permalink": "/docs/pi-14/publish-bot-with-schedule-action/cannot-publish-bot-without-so-licences-and-so-schedule-action"
+  }
+}

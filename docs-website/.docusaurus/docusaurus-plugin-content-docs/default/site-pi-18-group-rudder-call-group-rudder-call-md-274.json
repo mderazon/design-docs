@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/group-rudder-call/group-rudder-call",
+  "id": "pi-18/group-rudder-call/group-rudder-call",
+  "title": "Add group calls on Sign-up to group users from the same account",
+  "description": "Jira ticket: ONCEHUB-49338",
+  "source": "@site/../pi-18/group-rudder-call/group-rudder-call.md",
+  "sourceDirName": "pi-18/group-rudder-call",
+  "slug": "/pi-18/group-rudder-call/",
+  "permalink": "/docs/pi-18/group-rudder-call/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/group-rudder-call/group-rudder-call.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can toggle the formonce title",
+    "permalink": "/docs/pi-18/formonce/toggle-formonce-title"
+  },
+  "next": {
+    "title": "Identify affiliate accounts using referral code in user traits",
+    "permalink": "/docs/pi-18/identify-affiliate-accounts-via-referral-code/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/delete-inactive-starter-accounts/tracking-daily-account-activity-and-account-deletion",
+  "id": "pi-17/delete-inactive-starter-accounts/tracking-daily-account-activity-and-account-deletion",
+  "title": "Tracking for inactive accounts",
+  "description": "Summary",
+  "source": "@site/../pi-17/delete-inactive-starter-accounts/tracking-daily-account-activity-and-account-deletion.md",
+  "sourceDirName": "pi-17/delete-inactive-starter-accounts",
+  "slug": "/pi-17/delete-inactive-starter-accounts/tracking-daily-account-activity-and-account-deletion",
+  "permalink": "/docs/pi-17/delete-inactive-starter-accounts/tracking-daily-account-activity-and-account-deletion",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/delete-inactive-starter-accounts/tracking-daily-account-activity-and-account-deletion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name : Delete inactive Starter accounts",
+    "permalink": "/docs/pi-17/delete-inactive-starter-accounts/delete-inactive-starter-accounts-migration"
+  },
+  "next": {
+    "title": "As a user signing up from browser 1, I should be able to verify my email in browser 2 without being asked to log in again",
+    "permalink": "/docs/pi-17/email-verification/"
+  }
+}

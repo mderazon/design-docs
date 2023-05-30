@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/delete-inactive-starter-accounts/delete-inactive-starter-accounts",
+  "id": "pi-17/delete-inactive-starter-accounts/delete-inactive-starter-accounts",
+  "title": "Feature name : Delete inactive Starter accounts (6 months)",
+  "description": "Summary",
+  "source": "@site/../pi-17/delete-inactive-starter-accounts/delete-inactive-starter-accounts.md",
+  "sourceDirName": "pi-17/delete-inactive-starter-accounts",
+  "slug": "/pi-17/delete-inactive-starter-accounts/",
+  "permalink": "/docs/pi-17/delete-inactive-starter-accounts/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/delete-inactive-starter-accounts/delete-inactive-starter-accounts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sync conversation and triggering cycle when a conversation ends",
+    "permalink": "/docs/pi-17/crm-service/push-conversation-to-cyclr"
+  },
+  "next": {
+    "title": "Feature name : Delete inactive Starter accounts",
+    "permalink": "/docs/pi-17/delete-inactive-starter-accounts/delete-inactive-starter-accounts-migration"
+  }
+}

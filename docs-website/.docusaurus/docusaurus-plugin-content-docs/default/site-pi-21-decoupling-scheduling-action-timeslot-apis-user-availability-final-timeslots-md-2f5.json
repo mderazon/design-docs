@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/final-timeslots",
+  "id": "pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/final-timeslots",
+  "title": "API to get final timeslots.",
+  "description": "Summary",
+  "source": "@site/../pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/final-timeslots.md",
+  "sourceDirName": "pi-21/decoupling-scheduling-action/timeslot-apis/user-availability",
+  "slug": "/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/final-timeslots",
+  "permalink": "/docs/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/final-timeslots",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/final-timeslots.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API to get final timeslots for single user and pooled availability team.",
+    "permalink": "/docs/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/calculate-final-timeslots"
+  },
+  "next": {
+    "title": "Create an API to get users for team (pooled availability)",
+    "permalink": "/docs/pi-21/decoupling-scheduling-action/timeslot-apis/user-availability/get-users-for-team"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/starter-plan/growth-account-unlimited-booking-pages",
+  "id": "pi-19/starter-plan/growth-account-unlimited-booking-pages",
+  "title": "As a Growth Account user, the number of enabled booking pages is not limited.",
+  "description": "Summary",
+  "source": "@site/../pi-19/starter-plan/growth-account-unlimited-booking-pages.md",
+  "sourceDirName": "pi-19/starter-plan",
+  "slug": "/pi-19/starter-plan/growth-account-unlimited-booking-pages",
+  "permalink": "/docs/pi-19/starter-plan/growth-account-unlimited-booking-pages",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/starter-plan/growth-account-unlimited-booking-pages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding testUser trait to user traits on Mixpanel for Internal Testing User",
+    "permalink": "/docs/pi-19/refactor-kyc-api-for-internal-testing-user/adding-testuser-trait-for-testinguser"
+  },
+  "next": {
+    "title": "As an existing starter account, I will have as many LC and SM licenses as users",
+    "permalink": "/docs/pi-19/starter-plan/minimum-three-licenses-for-existing-starter-accounts"
+  }
+}

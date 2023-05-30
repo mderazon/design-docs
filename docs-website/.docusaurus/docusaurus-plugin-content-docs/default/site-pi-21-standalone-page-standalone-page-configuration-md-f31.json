@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/standalone-page/standalone-page-configuration",
+  "id": "pi-21/standalone-page/standalone-page-configuration",
+  "title": "As a user, I am able to preview the dynamic page design based on the configurations",
+  "description": "Summary",
+  "source": "@site/../pi-21/standalone-page/standalone-page-configuration.md",
+  "sourceDirName": "pi-21/standalone-page",
+  "slug": "/pi-21/standalone-page/standalone-page-configuration",
+  "permalink": "/docs/pi-21/standalone-page/standalone-page-configuration",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/standalone-page/standalone-page-configuration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, I am able to access the 3 dot menu for pages",
+    "permalink": "/docs/pi-21/standalone-page/standalone-page-3dot-menu"
+  },
+  "next": {
+    "title": "As a user, I will see a new acceleration page option in the main menu and I am able to access the page lobby",
+    "permalink": "/docs/pi-21/standalone-page/standalone-page-menu-and-page-loby"
+  }
+}

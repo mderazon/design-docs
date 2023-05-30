@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/dashboard-improvements/ui-updates",
+  "id": "pi-21/dashboard-improvements/ui-updates",
+  "title": "UI updates to the Dashboard",
+  "description": "Summary",
+  "source": "@site/../pi-21/dashboard-improvements/ui-updates.md",
+  "sourceDirName": "pi-21/dashboard-improvements",
+  "slug": "/pi-21/dashboard-improvements/ui-updates",
+  "permalink": "/docs/pi-21/dashboard-improvements/ui-updates",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/dashboard-improvements/ui-updates.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic usability and UI improvements on the dashboard",
+    "permalink": "/docs/pi-21/dashboard-improvements/time-to-engagement-widget"
+  },
+  "next": {
+    "title": "Time slot calculation flow",
+    "permalink": "/docs/pi-21/decoupling-scheduling-action/new-timeslot-calculation-flow"
+  }
+}

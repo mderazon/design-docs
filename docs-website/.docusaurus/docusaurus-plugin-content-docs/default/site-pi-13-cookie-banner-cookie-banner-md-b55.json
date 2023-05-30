@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-13/cookie-banner/cookie-banner",
+  "id": "pi-13/cookie-banner/cookie-banner",
+  "title": "cookie-banner",
+  "description": "Users will be able to see cookie banner on Sign-in/Sign-up page",
+  "source": "@site/../pi-13/cookie-banner/cookie-banner.md",
+  "sourceDirName": "pi-13/cookie-banner",
+  "slug": "/pi-13/cookie-banner/",
+  "permalink": "/docs/pi-13/cookie-banner/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-13/cookie-banner/cookie-banner.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update the field mapping of booking form",
+    "permalink": "/docs/pi-13/contact-field-and-booking-form/update-field-mapping"
+  },
+  "next": {
+    "title": "User can create an Audience from a template",
+    "permalink": "/docs/pi-13/create-audience-from-template/"
+  }
+}

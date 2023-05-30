@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/formonce/formonce-activities-in-activitystream",
+  "id": "pi-18/formonce/formonce-activities-in-activitystream",
+  "title": "Distinguish FormOnce activities in the Activity stream",
+  "description": "Summary",
+  "source": "@site/../pi-18/formonce/formonce-activities-in-activitystream.md",
+  "sourceDirName": "pi-18/formonce",
+  "slug": "/pi-18/formonce/formonce-activities-in-activitystream",
+  "permalink": "/docs/pi-18/formonce/formonce-activities-in-activitystream",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/formonce/formonce-activities-in-activitystream.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Editing assignment under forms",
+    "permalink": "/docs/pi-18/formonce/form-assignment"
+  },
+  "next": {
+    "title": "At the time of signup, redirect user on formonce lobby when user click on Get-stared button of FO.",
+    "permalink": "/docs/pi-18/formonce/get-started-with-form-once"
+  }
+}

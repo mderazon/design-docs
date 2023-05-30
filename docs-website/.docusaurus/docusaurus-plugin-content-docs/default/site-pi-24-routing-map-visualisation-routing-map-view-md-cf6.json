@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-24/routing-map-visualisation/routing-map-view",
+  "id": "pi-24/routing-map-visualisation/routing-map-view",
+  "title": "Chatbot Routing Map View",
+  "description": "Summary",
+  "source": "@site/../pi-24/routing-map-visualisation/routing-map-view.md",
+  "sourceDirName": "pi-24/routing-map-visualisation",
+  "slug": "/pi-24/routing-map-visualisation/routing-map-view",
+  "permalink": "/docs/pi-24/routing-map-visualisation/routing-map-view",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-24/routing-map-visualisation/routing-map-view.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user I can create and edit new booking calendar from the Pages builder by following the “create a booking calendar” link",
+    "permalink": "/docs/pi-24/pages/create-edit-bkc-from-page-builder"
+  },
+  "next": {
+    "title": "Integrating Userflow With Oncehub",
+    "permalink": "/docs/pi-24/userflow-integration/"
+  }
+}

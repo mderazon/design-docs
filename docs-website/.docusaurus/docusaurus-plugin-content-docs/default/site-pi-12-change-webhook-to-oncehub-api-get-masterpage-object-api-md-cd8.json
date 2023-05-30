@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/change-webhook-to-oncehub-api/get-masterpage-object-api",
+  "id": "pi-12/change-webhook-to-oncehub-api/get-masterpage-object-api",
+  "title": "Create GET Method for fetching master page list/ Event types list/ Bookings for an account",
+  "description": "Summary",
+  "source": "@site/../pi-12/change-webhook-to-oncehub-api/get-masterpage-object-api.md",
+  "sourceDirName": "pi-12/change-webhook-to-oncehub-api",
+  "slug": "/pi-12/change-webhook-to-oncehub-api/get-masterpage-object-api",
+  "permalink": "/docs/pi-12/change-webhook-to-oncehub-api/get-masterpage-object-api",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/change-webhook-to-oncehub-api/get-masterpage-object-api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changing the Webhook service to OnceHub api service",
+    "permalink": "/docs/pi-12/change-webhook-to-oncehub-api/"
+  },
+  "next": {
+    "title": "Chatonce Audience analytics",
+    "permalink": "/docs/pi-12/chatonce-audience-analytics/"
+  }
+}

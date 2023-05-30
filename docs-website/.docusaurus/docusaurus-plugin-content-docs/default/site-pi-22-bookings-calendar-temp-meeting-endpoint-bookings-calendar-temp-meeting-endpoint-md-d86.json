@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/bookings-calendar-temp-meeting-endpoint/bookings-calendar-temp-meeting-endpoint",
+  "id": "pi-22/bookings-calendar-temp-meeting-endpoint/bookings-calendar-temp-meeting-endpoint",
+  "title": "Temp Booking EndPoint",
+  "description": "Create API for temp booking including double booking and race conditions",
+  "source": "@site/../pi-22/bookings-calendar-temp-meeting-endpoint/bookings-calendar-temp-meeting-endpoint.md",
+  "sourceDirName": "pi-22/bookings-calendar-temp-meeting-endpoint",
+  "slug": "/pi-22/bookings-calendar-temp-meeting-endpoint/",
+  "permalink": "/docs/pi-22/bookings-calendar-temp-meeting-endpoint/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/bookings-calendar-temp-meeting-endpoint/bookings-calendar-temp-meeting-endpoint.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Users can use the new Scheduling Action Booking calendar to select a booking calendar",
+    "permalink": "/docs/pi-22/booking-calenders/users-can-select-a-booking-calendar-from-within-the-scheduling-action"
+  },
+  "next": {
+    "title": "Calendar Service Optimization",
+    "permalink": "/docs/pi-22/calendar-service-optimization/"
+  }
+}

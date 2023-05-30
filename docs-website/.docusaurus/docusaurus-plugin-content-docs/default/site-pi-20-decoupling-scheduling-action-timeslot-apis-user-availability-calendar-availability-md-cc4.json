@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/decoupling-scheduling-action/timeslot-apis/user-availability/calendar-availability",
+  "id": "pi-20/decoupling-scheduling-action/timeslot-apis/user-availability/calendar-availability",
+  "title": "API to get user's date specific and recurring availability.",
+  "description": "Summary",
+  "source": "@site/../pi-20/decoupling-scheduling-action/timeslot-apis/user-availability/calendar-availability.md",
+  "sourceDirName": "pi-20/decoupling-scheduling-action/timeslot-apis/user-availability",
+  "slug": "/pi-20/decoupling-scheduling-action/timeslot-apis/user-availability/calendar-availability",
+  "permalink": "/docs/pi-20/decoupling-scheduling-action/timeslot-apis/user-availability/calendar-availability",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/decoupling-scheduling-action/timeslot-apis/user-availability/calendar-availability.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Availability-proxy project",
+    "permalink": "/docs/pi-20/decoupling-scheduling-action/timeslot-apis/user-availability/availability-proxy"
+  },
+  "next": {
+    "title": "API to get user's date specific and recurring availability.",
+    "permalink": "/docs/pi-20/decoupling-scheduling-action/timeslot-apis/user-availability/meeting-table-availability"
+  }
+}

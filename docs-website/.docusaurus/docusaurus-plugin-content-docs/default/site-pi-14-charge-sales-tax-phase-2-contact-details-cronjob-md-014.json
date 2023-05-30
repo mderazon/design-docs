@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-14/charge-sales-tax-phase2/contact-details-cronjob",
+  "id": "pi-14/charge-sales-tax-phase2/contact-details-cronjob",
+  "title": "Feature name",
+  "description": "Collect automatic tax from existing bill again users - Phase 2 (Sales tax).",
+  "source": "@site/../pi-14/charge-sales-tax-phase2/contact-details-cronjob.md",
+  "sourceDirName": "pi-14/charge-sales-tax-phase2",
+  "slug": "/pi-14/charge-sales-tax-phase2/contact-details-cronjob",
+  "permalink": "/docs/pi-14/charge-sales-tax-phase2/contact-details-cronjob",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-14/charge-sales-tax-phase2/contact-details-cronjob.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-14/backend-page-to-delete-contacts/"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-14/chatonce-licenses-unassinment/"
+  }
+}

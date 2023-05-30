@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/add-livechat-to-forms/live-chat-action-in-form-builder",
+  "id": "pi-21/add-livechat-to-forms/live-chat-action-in-form-builder",
+  "title": "As a User, I can add a live chat action into my form, from the form builder.",
+  "description": "Summary",
+  "source": "@site/../pi-21/add-livechat-to-forms/live-chat-action-in-form-builder.md",
+  "sourceDirName": "pi-21/add-livechat-to-forms",
+  "slug": "/pi-21/add-livechat-to-forms/live-chat-action-in-form-builder",
+  "permalink": "/docs/pi-21/add-livechat-to-forms/live-chat-action-in-form-builder",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/add-livechat-to-forms/live-chat-action-in-form-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I will see improvements to email transcripts for forms & bots including a link to live chat history",
+    "permalink": "/docs/pi-21/add-livechat-to-forms/improve-email-transcripts"
+  },
+  "next": {
+    "title": "As a User, I will be able to see the form and live chat interaction within one report in the activity stream.",
+    "permalink": "/docs/pi-21/add-livechat-to-forms/live-chat-interaction-activity-stream"
+  }
+}

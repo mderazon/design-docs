@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/multiple-line-text-area/multiple-lines-text",
+  "id": "pi-23/multiple-line-text-area/multiple-lines-text",
+  "title": "While on live chat conversation, break response into multiple lines.",
+  "description": "Summary",
+  "source": "@site/../pi-23/multiple-line-text-area/multiple-lines-text.md",
+  "sourceDirName": "pi-23/multiple-line-text-area",
+  "slug": "/pi-23/multiple-line-text-area/multiple-lines-text",
+  "permalink": "/docs/pi-23/multiple-line-text-area/multiple-lines-text",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/multiple-line-text-area/multiple-lines-text.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "While on live chat conversation, break response into multiple lines.",
+    "permalink": "/docs/pi-23/multiple-line-text-area/multiline-text-for-visitors"
+  },
+  "next": {
+    "title": "Preset default values for all required fields and publish automatically whenever created from a template.",
+    "permalink": "/docs/pi-23/number-type-interaction-in-forms/"
+  }
+}

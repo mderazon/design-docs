@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/booking-calendar-customer-front/back-button-delete-temp-meeting",
+  "id": "pi-23/booking-calendar-customer-front/back-button-delete-temp-meeting",
+  "title": "As a customer I can go back after I have confirmed my date and time",
+  "description": "Summary",
+  "source": "@site/../pi-23/booking-calendar-customer-front/back-button-delete-temp-meeting.md",
+  "sourceDirName": "pi-23/booking-calendar-customer-front",
+  "slug": "/pi-23/booking-calendar-customer-front/back-button-delete-temp-meeting",
+  "permalink": "/docs/pi-23/booking-calendar-customer-front/back-button-delete-temp-meeting",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/booking-calendar-customer-front/back-button-delete-temp-meeting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booking Calendar Meeting confirm calendar event",
+    "permalink": "/docs/pi-23/booking-calendar-confirm-meeting/booking-calendar-confirm-calendar-event"
+  },
+  "next": {
+    "title": "Booking Calendar Status",
+    "permalink": "/docs/pi-23/booking-calendar-customer-front/booking-calendar-status"
+  }
+}

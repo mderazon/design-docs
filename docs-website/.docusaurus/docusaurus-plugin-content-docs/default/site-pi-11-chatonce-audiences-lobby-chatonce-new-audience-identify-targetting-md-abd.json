@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/chatonce-audiences-lobby/chatonce-new-audience-identify-targetting",
+  "id": "pi-11/chatonce-audiences-lobby/chatonce-new-audience-identify-targetting",
+  "title": "Create identification and targeting section tab",
+  "description": "Summary",
+  "source": "@site/../pi-11/chatonce-audiences-lobby/chatonce-new-audience-identify-targetting.md",
+  "sourceDirName": "pi-11/chatonce-audiences-lobby",
+  "slug": "/pi-11/chatonce-audiences-lobby/chatonce-new-audience-identify-targetting",
+  "permalink": "/docs/pi-11/chatonce-audiences-lobby/chatonce-new-audience-identify-targetting",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/chatonce-audiences-lobby/chatonce-new-audience-identify-targetting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create rule conditions and adding Bots on targeting rules.",
+    "permalink": "/docs/pi-11/chatonce-audiences-lobby/chatonce-audiences-rule-condition"
+  },
+  "next": {
+    "title": "Create new Audiences page",
+    "permalink": "/docs/pi-11/chatonce-audiences-lobby/chatonce-new-audience"
+  }
+}

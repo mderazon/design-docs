@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-14/default-bot/create-default-bot",
+  "id": "pi-14/default-bot/create-default-bot",
+  "title": "Default Bot Setup",
+  "description": "Summary",
+  "source": "@site/../pi-14/default-bot/create-default-bot.md",
+  "sourceDirName": "pi-14/default-bot",
+  "slug": "/pi-14/default-bot/create-default-bot",
+  "permalink": "/docs/pi-14/default-bot/create-default-bot",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-14/default-bot/create-default-bot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Complete initial setup during signup",
+    "permalink": "/docs/pi-14/complete-initial-setup-while-signup/"
+  },
+  "next": {
+    "title": "User will have a direct bot link, so that bots can be trigger based on website visitor clicks.",
+    "permalink": "/docs/pi-14/direct-bot-link/"
+  }
+}

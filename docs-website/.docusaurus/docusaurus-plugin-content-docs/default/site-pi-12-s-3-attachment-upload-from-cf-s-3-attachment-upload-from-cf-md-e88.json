@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/s3-attachment-upload-from-cf/s3-attachment-upload-from-cf",
+  "id": "pi-12/s3-attachment-upload-from-cf/s3-attachment-upload-from-cf",
+  "title": "S3 Attachment Upload From CF",
+  "description": "Summary",
+  "source": "@site/../pi-12/s3-attachment-upload-from-cf/s3-attachment-upload-from-cf.md",
+  "sourceDirName": "pi-12/s3-attachment-upload-from-cf",
+  "slug": "/pi-12/s3-attachment-upload-from-cf/",
+  "permalink": "/docs/pi-12/s3-attachment-upload-from-cf/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/s3-attachment-upload-from-cf/s3-attachment-upload-from-cf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a developer, i will add logic for resource pool scenarios in new time slot service.",
+    "permalink": "/docs/pi-12/resource-pool-with-round-robin/"
+  },
+  "next": {
+    "title": "Add Schedule action dynamic bookings.",
+    "permalink": "/docs/pi-12/schedule-action-dynamic-bookings-chatonce/schedule-action-dynamic-bookings"
+  }
+}

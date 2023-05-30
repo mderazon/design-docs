@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/refactoring-co-fo-navigation-menu/refactoring-co-fo-navigation-menu",
+  "id": "pi-20/refactoring-co-fo-navigation-menu/refactoring-co-fo-navigation-menu",
+  "title": "Navigating to ChatOnce or FormOnce, I see only items applicable to that product in the menu",
+  "description": "Summary",
+  "source": "@site/../pi-20/refactoring-co-fo-navigation-menu/refactoring-co-fo-navigation-menu.md",
+  "sourceDirName": "pi-20/refactoring-co-fo-navigation-menu",
+  "slug": "/pi-20/refactoring-co-fo-navigation-menu/",
+  "permalink": "/docs/pi-20/refactoring-co-fo-navigation-menu/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/refactoring-co-fo-navigation-menu/refactoring-co-fo-navigation-menu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/docs/pi-20/oh-dashboard/outer-top-navigation-bar"
+  },
+  "next": {
+    "title": "Remove conflicting filters from previous activity stream implementation for new live-chat page",
+    "permalink": "/docs/pi-20/remove-old-activity-filters-from-livechat-page/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/video-conferencing-notification-errors/video-conferencing-error-emails-and-notifications-for-zoom-and-gtm",
+  "id": "pi-15/video-conferencing-notification-errors/video-conferencing-error-emails-and-notifications-for-zoom-and-gtm",
+  "title": "As a User, I should be able to receive notification errors via email and in notification center when there is a connection error for Zoom and GTM",
+  "description": "Summary",
+  "source": "@site/../pi-15/video-conferencing-notification-errors/video-conferencing-error-emails-and-notifications-for-zoom-and-gtm.md",
+  "sourceDirName": "pi-15/video-conferencing-notification-errors",
+  "slug": "/pi-15/video-conferencing-notification-errors/video-conferencing-error-emails-and-notifications-for-zoom-and-gtm",
+  "permalink": "/docs/pi-15/video-conferencing-notification-errors/video-conferencing-error-emails-and-notifications-for-zoom-and-gtm",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/video-conferencing-notification-errors/video-conferencing-error-emails-and-notifications-for-zoom-and-gtm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Display UTM tags for SO on Activity stream.",
+    "permalink": "/docs/pi-15/utm-tags-in-activity-stream/utm-tags-so-booking-in-activity-stream"
+  },
+  "next": {
+    "title": "waf-rule",
+    "permalink": "/docs/pi-15/waf-rules/waf-rule"
+  }
+}

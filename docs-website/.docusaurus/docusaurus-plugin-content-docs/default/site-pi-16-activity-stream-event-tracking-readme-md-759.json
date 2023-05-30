@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/activity-stream-event-tracking/readme",
+  "id": "pi-16/activity-stream-event-tracking/readme",
+  "title": "Activity stream marketing banner event tracking",
+  "description": "Summary",
+  "source": "@site/../pi-16/activity-stream-event-tracking/readme.md",
+  "sourceDirName": "pi-16/activity-stream-event-tracking",
+  "slug": "/pi-16/activity-stream-event-tracking/",
+  "permalink": "/docs/pi-16/activity-stream-event-tracking/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/activity-stream-event-tracking/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "account-service-sync-account",
+    "permalink": "/docs/pi-16/account-service/account-service-sync-account"
+  },
+  "next": {
+    "title": "add-contact-status-interaction-action",
+    "permalink": "/docs/pi-16/add-contact-status-contact-field/add-contact-status-interaction-action"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/cancel-booking-calendar/cancel-booking-calendar-meeting",
+  "id": "pi-23/cancel-booking-calendar/cancel-booking-calendar-meeting",
+  "title": "Cancel Booking Calendar Meeting",
+  "description": "Summary",
+  "source": "@site/../pi-23/cancel-booking-calendar/cancel-booking-calendar-meeting.md",
+  "sourceDirName": "pi-23/cancel-booking-calendar",
+  "slug": "/pi-23/cancel-booking-calendar/cancel-booking-calendar-meeting",
+  "permalink": "/docs/pi-23/cancel-booking-calendar/cancel-booking-calendar-meeting",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/cancel-booking-calendar/cancel-booking-calendar-meeting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booking Calendar Confirm Meeting Cancellation",
+    "permalink": "/docs/pi-23/cancel-booking-calendar/booking-calendar-cancellation-confirm-page"
+  },
+  "next": {
+    "title": "As a user I can see number of visitors in dashboard",
+    "permalink": "/docs/pi-23/chatonce-avoid-creation-of-orphan-contacts-and-conversations/dashboard-visitor-seen-numbers"
+  }
+}

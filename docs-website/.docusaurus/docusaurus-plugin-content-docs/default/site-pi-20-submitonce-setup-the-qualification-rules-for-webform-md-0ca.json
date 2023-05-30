@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/submitonce/setup-the-qualification-rules-for-webform",
+  "id": "pi-20/submitonce/setup-the-qualification-rules-for-webform",
+  "title": "As a user I can install the .js code snippet into my webform",
+  "description": "Summary",
+  "source": "@site/../pi-20/submitonce/setup-the-qualification-rules-for-webform.md",
+  "sourceDirName": "pi-20/submitonce",
+  "slug": "/pi-20/submitonce/setup-the-qualification-rules-for-webform",
+  "permalink": "/docs/pi-20/submitonce/setup-the-qualification-rules-for-webform",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/submitonce/setup-the-qualification-rules-for-webform.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user I can install the .js code snippet into my webform",
+    "permalink": "/docs/pi-20/submitonce/qualification-rules-for-strings"
+  },
+  "next": {
+    "title": "As a visitor,I will be redirected when live chat lightbox is triggered from forms and has a redirection URl in end interaction.",
+    "permalink": "/docs/pi-21/add-livechat-to-forms/allow-user-to-redirect-if-lightbox-is-triggered-from-form-and-has-redirection-in-end-conversation"
+  }
+}

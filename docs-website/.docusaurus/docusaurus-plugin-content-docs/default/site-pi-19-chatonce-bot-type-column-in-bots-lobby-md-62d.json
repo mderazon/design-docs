@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/chatonce/bot-type-column-in-bots-lobby",
+  "id": "pi-19/chatonce/bot-type-column-in-bots-lobby",
+  "title": "As a user, I can see the bot type indicated for each bot in the bots lobby page.",
+  "description": "Summary",
+  "source": "@site/../pi-19/chatonce/bot-type-column-in-bots-lobby.md",
+  "sourceDirName": "pi-19/chatonce",
+  "slug": "/pi-19/chatonce/bot-type-column-in-bots-lobby",
+  "permalink": "/docs/pi-19/chatonce/bot-type-column-in-bots-lobby",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/chatonce/bot-type-column-in-bots-lobby.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User, won't see the changes not saved pop-up when deleting an a newly added and updated interaction in a bot or form",
+    "permalink": "/docs/pi-19/changes-not-save-popup-skip-when-delete-interaction/show-delete-interaction-popup-in-bot"
+  },
+  "next": {
+    "title": "As a User, I will see contact fields automatically selected in email and phone number questions on form",
+    "permalink": "/docs/pi-19/chatonce/co-contact-field-automatically-selected-for-email-and-phone"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/commom-availability/readme",
+  "id": "pi-12/commom-availability/readme",
+  "title": "As a developer, I will move the logic of panel service in order to find common availability in time slot service.",
+  "description": "Summary",
+  "source": "@site/../pi-12/commom-availability/readme.md",
+  "sourceDirName": "pi-12/commom-availability",
+  "slug": "/pi-12/commom-availability/",
+  "permalink": "/docs/pi-12/commom-availability/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/commom-availability/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support chatonce widget with first party cookie consent",
+    "permalink": "/docs/pi-12/chatonce-widget-cookies/"
+  },
+  "next": {
+    "title": "Updating UI on Start Page, User Profile Page and Products Page for CO Product",
+    "permalink": "/docs/pi-12/consistent-ui-chatonce-private-beta/consitent-ui-for-chatonce-private-beta"
+  }
+}

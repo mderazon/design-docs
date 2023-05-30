@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-14/reduce-friction-on-checkout-flow/improve-messaging-on-the-purchase-confirmation-page-for-solo-upgrade",
+  "id": "pi-14/reduce-friction-on-checkout-flow/improve-messaging-on-the-purchase-confirmation-page-for-solo-upgrade",
+  "title": "Feature name",
+  "description": "Reduce friction on checkout flow",
+  "source": "@site/../pi-14/reduce-friction-on-checkout-flow/improve-messaging-on-the-purchase-confirmation-page-for-solo-upgrade.md",
+  "sourceDirName": "pi-14/reduce-friction-on-checkout-flow",
+  "slug": "/pi-14/reduce-friction-on-checkout-flow/improve-messaging-on-the-purchase-confirmation-page-for-solo-upgrade",
+  "permalink": "/docs/pi-14/reduce-friction-on-checkout-flow/improve-messaging-on-the-purchase-confirmation-page-for-solo-upgrade",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-14/reduce-friction-on-checkout-flow/improve-messaging-on-the-purchase-confirmation-page-for-solo-upgrade.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User will see appropriate error messages when they add scheduling to their bot and ScheduleOnce License is not available on their account.",
+    "permalink": "/docs/pi-14/publish-bot-with-schedule-action/error-message-when-no-so-licenses-in-schedule-action-for-members"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-14/remove-calendar-sync-for-reminders/integrate-splitio-for-user-based-toggle"
+  }
+}

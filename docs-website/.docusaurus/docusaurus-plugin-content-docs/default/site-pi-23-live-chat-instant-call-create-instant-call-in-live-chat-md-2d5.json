@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/live-chat-instant-call/create-instant-call-in-live-chat",
+  "id": "pi-23/live-chat-instant-call/create-instant-call-in-live-chat",
+  "title": "Create Instant Call in Live Chat",
+  "description": "Summary",
+  "source": "@site/../pi-23/live-chat-instant-call/create-instant-call-in-live-chat.md",
+  "sourceDirName": "pi-23/live-chat-instant-call",
+  "slug": "/pi-23/live-chat-instant-call/create-instant-call-in-live-chat",
+  "permalink": "/docs/pi-23/live-chat-instant-call/create-instant-call-in-live-chat",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/live-chat-instant-call/create-instant-call-in-live-chat.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Send Instant meetings engagement events to Mixpanel",
+    "permalink": "/docs/pi-23/instant-meetings-engagement-mixpanel-events/"
+  },
+  "next": {
+    "title": "While on an active chat or call, ring new incoming sound once",
+    "permalink": "/docs/pi-23/live-chat-instant-call/incoming-ringing-sound-once"
+  }
+}

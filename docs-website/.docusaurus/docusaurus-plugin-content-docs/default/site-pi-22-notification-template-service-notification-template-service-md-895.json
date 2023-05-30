@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/notification-template-service/notification-template-service",
+  "id": "pi-22/notification-template-service/notification-template-service",
+  "title": "Create a new notification template service",
+  "description": "Summary",
+  "source": "@site/../pi-22/notification-template-service/notification-template-service.md",
+  "sourceDirName": "pi-22/notification-template-service",
+  "slug": "/pi-22/notification-template-service/",
+  "permalink": "/docs/pi-22/notification-template-service/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/notification-template-service/notification-template-service.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-22/non-paid-account-deletion/update-last-interaction-date"
+  },
+  "next": {
+    "title": "As a user I can select whether to send email or SMS customer notifications to send within the notifications builder",
+    "permalink": "/docs/pi-22/notification-template-service/customer-notifications-builder"
+  }
+}

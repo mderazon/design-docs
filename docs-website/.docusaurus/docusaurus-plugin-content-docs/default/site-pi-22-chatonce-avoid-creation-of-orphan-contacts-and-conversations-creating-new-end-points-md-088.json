@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/creating-new-end-points",
+  "id": "pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/creating-new-end-points",
+  "title": "As a developer write and call different API to get bot based on toggle",
+  "description": "Summary",
+  "source": "@site/../pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/creating-new-end-points.md",
+  "sourceDirName": "pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations",
+  "slug": "/pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/creating-new-end-points",
+  "permalink": "/docs/pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/creating-new-end-points",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/creating-new-end-points.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a visitor my contact will be created when I will be responding the first time.",
+    "permalink": "/docs/pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/contact-cookie-creation-after-visitor-first-interaction"
+  },
+  "next": {
+    "title": "As a new visitor I can see no contact created based on cookies and refresh case will work",
+    "permalink": "/docs/pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/no-contact-cookie-creation-on-bot-open"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/contacts-lobby-csv-export/contacts-lobby-csv-export",
+  "id": "pi-22/contacts-lobby-csv-export/contacts-lobby-csv-export",
+  "title": "An Admin can export contacts to a CSV file",
+  "description": "Jira ticket As an admin, I can export (filtered and ordered) contact to a CSV file",
+  "source": "@site/../pi-22/contacts-lobby-csv-export/contacts-lobby-csv-export.md",
+  "sourceDirName": "pi-22/contacts-lobby-csv-export",
+  "slug": "/pi-22/contacts-lobby-csv-export/",
+  "permalink": "/docs/pi-22/contacts-lobby-csv-export/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/contacts-lobby-csv-export/contacts-lobby-csv-export.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, I can use my live-chat availability toggle for both Live-chat and Instant meetings.",
+    "permalink": "/docs/pi-22/co-instant-call/removing-instant-call"
+  },
+  "next": {
+    "title": "Dashboard filter on bots and forms",
+    "permalink": "/docs/pi-22/dashboard-filters/booking-complete-event"
+  }
+}

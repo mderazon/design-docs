@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/live-chat/show-banner-for-accept-chat-toggle-off",
+  "id": "pi-16/live-chat/show-banner-for-accept-chat-toggle-off",
+  "title": "The User can see a banner informing him/her about the Accept chat toggle button is currently in Off state.",
+  "description": "Summary",
+  "source": "@site/../pi-16/live-chat/show-banner-for-accept-chat-toggle-off.md",
+  "sourceDirName": "pi-16/live-chat",
+  "slug": "/pi-16/live-chat/show-banner-for-accept-chat-toggle-off",
+  "permalink": "/docs/pi-16/live-chat/show-banner-for-accept-chat-toggle-off",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/live-chat/show-banner-for-accept-chat-toggle-off.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a visitor, when no agents are available then the hand off message will be sent immediately without waiting for timeout",
+    "permalink": "/docs/pi-16/live-chat/send-handoff-message-immediately-if-agents-are-unavailable"
+  },
+  "next": {
+    "title": "The User can see a banner informing him/her about browser notifications being disabled.",
+    "permalink": "/docs/pi-16/live-chat/show-banner-for-disbaled-browser-notifications"
+  }
+}

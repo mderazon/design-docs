@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/users-cancel-their-subscription-and-still-keep-the-account/users-cancel-their-subscription-and-still-keep-the-account",
+  "id": "pi-18/users-cancel-their-subscription-and-still-keep-the-account/users-cancel-their-subscription-and-still-keep-the-account",
+  "title": "users-cancel-their-subscription-and-still-keep-the-account",
+  "description": "As a Growth user, i can remove my engagement license without contacting support",
+  "source": "@site/../pi-18/users-cancel-their-subscription-and-still-keep-the-account/users-cancel-their-subscription-and-still-keep-the-account.md",
+  "sourceDirName": "pi-18/users-cancel-their-subscription-and-still-keep-the-account",
+  "slug": "/pi-18/users-cancel-their-subscription-and-still-keep-the-account/",
+  "permalink": "/docs/pi-18/users-cancel-their-subscription-and-still-keep-the-account/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/users-cancel-their-subscription-and-still-keep-the-account/users-cancel-their-subscription-and-still-keep-the-account.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can duplicate a pop-up bot.",
+    "permalink": "/docs/pi-18/user-can-create-pop-up-bots/user-can-duplicate-pop-up-bots"
+  },
+  "next": {
+    "title": "Refacor the existing retry logic in webhook-service to retry exponentially",
+    "permalink": "/docs/pi-18/webhook-service/refactor-retry-logic"
+  }
+}

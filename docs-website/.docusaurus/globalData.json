@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "pi-1/feature-1/readme",
+          "docs": [
+            {
+              "id": "pi-1/feature-1/readme",
+              "path": "/docs/pi-1/feature-1/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pi-1/feature-2/readme",
+              "path": "/docs/pi-1/feature-2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pi-2/feature-3/part-1",
+              "path": "/docs/pi-2/feature-3/part-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pi-2/feature-3/part-2",
+              "path": "/docs/pi-2/feature-3/part-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pi-2/feature-4/feature",
+              "path": "/docs/pi-2/feature-4/feature",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/pi-1/feature-1/",
+                "label": "Feature name"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

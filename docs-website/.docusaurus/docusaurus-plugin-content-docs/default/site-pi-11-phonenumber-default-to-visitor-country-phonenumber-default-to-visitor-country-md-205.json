@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/phonenumber-default-to-visitor-country/phonenumber-default-to-visitor-country",
+  "id": "pi-11/phonenumber-default-to-visitor-country/phonenumber-default-to-visitor-country",
+  "title": "Phone Number should default to the visitor's country",
+  "description": "The phone number question in the ChatOnce widget should always default to the country the website visitor is from so that the visitor doesn't need to select the country.",
+  "source": "@site/../pi-11/phonenumber-default-to-visitor-country/phonenumber-default-to-visitor-country.md",
+  "sourceDirName": "pi-11/phonenumber-default-to-visitor-country",
+  "slug": "/pi-11/phonenumber-default-to-visitor-country/",
+  "permalink": "/docs/pi-11/phonenumber-default-to-visitor-country/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/phonenumber-default-to-visitor-country/phonenumber-default-to-visitor-country.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Moving SO APIs behind Gateway - CalendarConnection Controller",
+    "permalink": "/docs/pi-11/moving-so-apis-behind-gateway/calendar-connection"
+  },
+  "next": {
+    "title": "Refactor CreateEvent API In Reassginment Process",
+    "permalink": "/docs/pi-11/refactor-calendar-events/refactor-createevent-in-reassignment-process"
+  }
+}

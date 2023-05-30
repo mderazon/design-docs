@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-13/record-sms-for-compliance/record-sms-for-compliance",
+  "id": "pi-13/record-sms-for-compliance/record-sms-for-compliance",
+  "title": "Feature name",
+  "description": "As a user, I will be able to see updated tooltip text and will receive SMS compliance email whenever customer SMS notification is sent when BCC compliance email is set.",
+  "source": "@site/../pi-13/record-sms-for-compliance/record-sms-for-compliance.md",
+  "sourceDirName": "pi-13/record-sms-for-compliance",
+  "slug": "/pi-13/record-sms-for-compliance/",
+  "permalink": "/docs/pi-13/record-sms-for-compliance/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-13/record-sms-for-compliance/record-sms-for-compliance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name : [O365 via OAuth] Reconnect calendar and see busy time cache being built",
+    "permalink": "/docs/pi-13/reconnect-o365oauth-calendar-using-new-cache-architecture"
+  },
+  "next": {
+    "title": "Feature name: Option to add user to resource pools during invitation",
+    "permalink": "/docs/pi-13/resourcepool-in-user-invitation"
+  }
+}

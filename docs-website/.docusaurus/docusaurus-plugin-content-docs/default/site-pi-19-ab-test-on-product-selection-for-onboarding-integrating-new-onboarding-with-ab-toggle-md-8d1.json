@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/ab-test-on-product-selection-for-onboarding/integrating-new-onboarding-with-ab-toggle",
+  "id": "pi-19/ab-test-on-product-selection-for-onboarding/integrating-new-onboarding-with-ab-toggle",
+  "title": "As a new OH user busy with signup, I experience a new flow focusing on engagement methods at the product selection step, so that the structure between engagement options and products are more clear",
+  "description": "Summary",
+  "source": "@site/../pi-19/ab-test-on-product-selection-for-onboarding/integrating-new-onboarding-with-ab-toggle.md",
+  "sourceDirName": "pi-19/ab-test-on-product-selection-for-onboarding",
+  "slug": "/pi-19/ab-test-on-product-selection-for-onboarding/integrating-new-onboarding-with-ab-toggle",
+  "permalink": "/docs/pi-19/ab-test-on-product-selection-for-onboarding/integrating-new-onboarding-with-ab-toggle",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/ab-test-on-product-selection-for-onboarding/integrating-new-onboarding-with-ab-toggle.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Refacor the existing retry logic in webhook-service to retry exponentially",
+    "permalink": "/docs/pi-18/webhook-service/refactor-retry-logic"
+  },
+  "next": {
+    "title": "Refunds and Chargebacks",
+    "permalink": "/docs/pi-19/billagain-refund-and-chargeback-feature/chargeback"
+  }
+}

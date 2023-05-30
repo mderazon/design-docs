@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/standalone-page/standalone-page-save-configurations",
+  "id": "pi-21/standalone-page/standalone-page-save-configurations",
+  "title": "As a user, I am able to save the design changes applied on a page and publish/unpublish a page on admin side",
+  "description": "Summary",
+  "source": "@site/../pi-21/standalone-page/standalone-page-save-configurations.md",
+  "sourceDirName": "pi-21/standalone-page",
+  "slug": "/pi-21/standalone-page/standalone-page-save-configurations",
+  "permalink": "/docs/pi-21/standalone-page/standalone-page-save-configurations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/standalone-page/standalone-page-save-configurations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, I will see a new acceleration page option in the main menu and I am able to access the page lobby",
+    "permalink": "/docs/pi-21/standalone-page/standalone-page-menu-and-page-loby"
+  },
+  "next": {
+    "title": "As a user, I am able to validate the app settings on client side for pages",
+    "permalink": "/docs/pi-21/standalone-page/standalone-page-settings"
+  }
+}

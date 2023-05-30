@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-24/ai-qna/setup-services-in-k8s-environment",
+  "id": "pi-24/ai-qna/setup-services-in-k8s-environment",
+  "title": "As a developer I will setup AI service on the team environment",
+  "description": "Summary",
+  "source": "@site/../pi-24/ai-qna/setup-services-in-k8s-environment.md",
+  "sourceDirName": "pi-24/ai-qna",
+  "slug": "/pi-24/ai-qna/setup-services-in-k8s-environment",
+  "permalink": "/docs/pi-24/ai-qna/setup-services-in-k8s-environment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-24/ai-qna/setup-services-in-k8s-environment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can add my website URL for the AI bot to get all my information",
+    "permalink": "/docs/pi-24/ai-qna/scrape-content-url"
+  },
+  "next": {
+    "title": "Show booking-calendar interaction type in page builder",
+    "permalink": "/docs/pi-24/booking-calendar/booking-calendar-in-page-builder"
+  }
+}

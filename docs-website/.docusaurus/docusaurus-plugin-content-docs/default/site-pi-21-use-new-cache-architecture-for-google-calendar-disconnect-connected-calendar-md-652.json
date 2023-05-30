@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/use-new-cache-architecture-for-google-calendar/disconnect-connected-calendar",
+  "id": "pi-21/use-new-cache-architecture-for-google-calendar/disconnect-connected-calendar",
+  "title": "As a User, I will be able to disconnect my Google calendar",
+  "description": "Summary",
+  "source": "@site/../pi-21/use-new-cache-architecture-for-google-calendar/disconnect-connected-calendar.md",
+  "sourceDirName": "pi-21/use-new-cache-architecture-for-google-calendar",
+  "slug": "/pi-21/use-new-cache-architecture-for-google-calendar/disconnect-connected-calendar",
+  "permalink": "/docs/pi-21/use-new-cache-architecture-for-google-calendar/disconnect-connected-calendar",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/use-new-cache-architecture-for-google-calendar/disconnect-connected-calendar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "If a User is removed via Users lobby or if an account is hard deleted, we will delete the Cache for that User or Account",
+    "permalink": "/docs/pi-21/use-new-cache-architecture-for-google-calendar/delete-cache-on-user-or-account-hard-deletion"
+  },
+  "next": {
+    "title": "As a User, I will be able to get correct data in Customer Front when there is a change in the Associated calendar section in Setup page",
+    "permalink": "/docs/pi-21/use-new-cache-architecture-for-google-calendar/rebuild-cache-from-associtedcalendar-read-on"
+  }
+}

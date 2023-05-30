@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/oh-dashboard/empty-dashboard",
+  "id": "pi-19/oh-dashboard/empty-dashboard",
+  "title": "Dashboard",
+  "description": "Summary",
+  "source": "@site/../pi-19/oh-dashboard/empty-dashboard.md",
+  "sourceDirName": "pi-19/oh-dashboard",
+  "slug": "/pi-19/oh-dashboard/empty-dashboard",
+  "permalink": "/docs/pi-19/oh-dashboard/empty-dashboard",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/oh-dashboard/empty-dashboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/docs/pi-19/oh-dashboard/avro-schema-for-conversion-events"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/docs/pi-19/oh-dashboard/filters-dashboard"
+  }
+}

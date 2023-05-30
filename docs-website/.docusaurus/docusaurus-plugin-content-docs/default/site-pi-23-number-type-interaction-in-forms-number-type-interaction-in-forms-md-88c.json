@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/number-type-interaction-in-forms/number-type-interaction-in-forms",
+  "id": "pi-23/number-type-interaction-in-forms/number-type-interaction-in-forms",
+  "title": "Preset default values for all required fields and publish automatically whenever created from a template.",
+  "description": "Summary",
+  "source": "@site/../pi-23/number-type-interaction-in-forms/number-type-interaction-in-forms.md",
+  "sourceDirName": "pi-23/number-type-interaction-in-forms",
+  "slug": "/pi-23/number-type-interaction-in-forms/",
+  "permalink": "/docs/pi-23/number-type-interaction-in-forms/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/number-type-interaction-in-forms/number-type-interaction-in-forms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "While on live chat conversation, break response into multiple lines.",
+    "permalink": "/docs/pi-23/multiple-line-text-area/multiple-lines-text"
+  },
+  "next": {
+    "title": "oh-dashboard performance improvements",
+    "permalink": "/docs/pi-23/oh-dashboard/dashboard-performance-improvement"
+  }
+}

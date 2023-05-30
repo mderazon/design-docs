@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/live-chat/ping-sound",
+  "id": "pi-16/live-chat/ping-sound",
+  "title": "User will hear a Ping sound whenever there is a new live chat request or message",
+  "description": "Summary",
+  "source": "@site/../pi-16/live-chat/ping-sound.md",
+  "sourceDirName": "pi-16/live-chat",
+  "slug": "/pi-16/live-chat/ping-sound",
+  "permalink": "/docs/pi-16/live-chat/ping-sound",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/live-chat/ping-sound.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user,if I logout then I should be considered offline",
+    "permalink": "/docs/pi-16/live-chat/mark-user-offline-when-logout"
+  },
+  "next": {
+    "title": "User will see a see a red-dot message indicator on Live chat for new request and messages.",
+    "permalink": "/docs/pi-16/live-chat/red-dot-message-indicator"
+  }
+}

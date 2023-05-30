@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/standalone-bot-link/oh-customer-front",
+  "id": "pi-16/standalone-bot-link/oh-customer-front",
+  "title": "New endpoint to serve standalone bots",
+  "description": "Summary",
+  "source": "@site/../pi-16/standalone-bot-link/oh-customer-front.md",
+  "sourceDirName": "pi-16/standalone-bot-link",
+  "slug": "/pi-16/standalone-bot-link/oh-customer-front",
+  "permalink": "/docs/pi-16/standalone-bot-link/oh-customer-front",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/standalone-bot-link/oh-customer-front.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UI changes for a standalone bot link",
+    "permalink": "/docs/pi-16/standalone-bot-link/co-widget-ui"
+  },
+  "next": {
+    "title": "Share a standalone bot link",
+    "permalink": "/docs/pi-16/standalone-bot-link/share-standalone-bot-link"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/chatonce-manual-billing/readme",
+  "id": "pi-15/chatonce-manual-billing/readme",
+  "title": "Allowing CS admin to manually billed ChatOnce enabled accounts",
+  "description": "Summary",
+  "source": "@site/../pi-15/chatonce-manual-billing/readme.md",
+  "sourceDirName": "pi-15/chatonce-manual-billing",
+  "slug": "/pi-15/chatonce-manual-billing/",
+  "permalink": "/docs/pi-15/chatonce-manual-billing/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/chatonce-manual-billing/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BillAgain subscription API - instant Downgrade support for active accounts",
+    "permalink": "/docs/pi-15/billagain-subscription-api-instant-downgrade/"
+  },
+  "next": {
+    "title": "Update different number of ScheduleOnce and ChatOnce licenses as account is placed on manual billing using the CS procedure",
+    "permalink": "/docs/pi-15/chatonce-manual-billing/update-diff-so-co-liecences-for-manual-billing"
+  }
+}

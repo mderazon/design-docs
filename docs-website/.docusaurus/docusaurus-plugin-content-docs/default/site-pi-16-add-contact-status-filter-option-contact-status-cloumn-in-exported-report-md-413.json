@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/add-contact-status-filter-option/contact-status-cloumn-in-exported-report",
+  "id": "pi-16/add-contact-status-filter-option/contact-status-cloumn-in-exported-report",
+  "title": "contact-status-cloumn-in-exported-report",
+  "description": "As a user, I can see the status of a contact when exporting data from the Activity stream",
+  "source": "@site/../pi-16/add-contact-status-filter-option/contact-status-cloumn-in-exported-report.md",
+  "sourceDirName": "pi-16/add-contact-status-filter-option",
+  "slug": "/pi-16/add-contact-status-filter-option/contact-status-cloumn-in-exported-report",
+  "permalink": "/docs/pi-16/add-contact-status-filter-option/contact-status-cloumn-in-exported-report",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/add-contact-status-filter-option/contact-status-cloumn-in-exported-report.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User will see the contact status system field with the default statuses",
+    "permalink": "/docs/pi-16/add-contact-status-contact-field/contact-status-contact-field"
+  },
+  "next": {
+    "title": "contact-status-filter-option",
+    "permalink": "/docs/pi-16/add-contact-status-filter-option/contact-status-filter-option"
+  }
+}

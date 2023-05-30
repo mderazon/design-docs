@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/webex-video-conferencing/video-conferencing-refactoring",
+  "id": "pi-15/webex-video-conferencing/video-conferencing-refactoring",
+  "title": "https://scheduleonce.atlassian.net/browse/ONCEHUB-41671",
+  "description": "Summary",
+  "source": "@site/../pi-15/webex-video-conferencing/video-conferencing-refactoring.md",
+  "sourceDirName": "pi-15/webex-video-conferencing",
+  "slug": "/pi-15/webex-video-conferencing/video-conferencing-refactoring",
+  "permalink": "/docs/pi-15/webex-video-conferencing/video-conferencing-refactoring",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/webex-video-conferencing/video-conferencing-refactoring.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "waf-rule",
+    "permalink": "/docs/pi-15/waf-rules/waf-rule"
+  },
+  "next": {
+    "title": "As a user, I should see an error message on WebEx tile in Video conferencing lobby, a notification in notification center and get an email notification for WebEx connection error",
+    "permalink": "/docs/pi-15/webex-video-conferencing/webex-error-message-and-email-notification"
+  }
+}

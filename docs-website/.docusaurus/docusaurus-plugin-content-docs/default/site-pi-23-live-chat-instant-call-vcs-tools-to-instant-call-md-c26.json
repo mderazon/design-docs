@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-23/live-chat-instant-call/vcs-tools-to-instant-call",
+  "id": "pi-23/live-chat-instant-call/vcs-tools-to-instant-call",
+  "title": "Video Conferencing Tools for Instant Call",
+  "description": "Summary",
+  "source": "@site/../pi-23/live-chat-instant-call/vcs-tools-to-instant-call.md",
+  "sourceDirName": "pi-23/live-chat-instant-call",
+  "slug": "/pi-23/live-chat-instant-call/vcs-tools-to-instant-call",
+  "permalink": "/docs/pi-23/live-chat-instant-call/vcs-tools-to-instant-call",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-23/live-chat-instant-call/vcs-tools-to-instant-call.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Live Chat instant call Tracking in mixpanel",
+    "permalink": "/docs/pi-23/live-chat-instant-call/track-instant-call-mixpanel"
+  },
+  "next": {
+    "title": "Migrate pre 2014 professional user with 3 included BPs",
+    "permalink": "/docs/pi-23/migrate-old-professional-account/"
+  }
+}

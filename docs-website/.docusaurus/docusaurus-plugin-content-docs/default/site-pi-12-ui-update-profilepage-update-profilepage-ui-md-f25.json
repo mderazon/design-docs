@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/ui-update-profilepage/update-profilepage-ui",
+  "id": "pi-12/ui-update-profilepage/update-profilepage-ui",
+  "title": "Updating UI and CTA's for all CO product statuses on Profile page",
+  "description": "Summary",
+  "source": "@site/../pi-12/ui-update-profilepage/update-profilepage-ui.md",
+  "sourceDirName": "pi-12/ui-update-profilepage",
+  "slug": "/pi-12/ui-update-profilepage/update-profilepage-ui",
+  "permalink": "/docs/pi-12/ui-update-profilepage/update-profilepage-ui",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/ui-update-profilepage/update-profilepage-ui.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name : Support 2-way sync for calendar events using new Cache event processor[O365 via OAuth]",
+    "permalink": "/docs/pi-12/two-way-sync-api/"
+  },
+  "next": {
+    "title": "Update messaging for SO and CO on Account settings and Product selection page",
+    "permalink": "/docs/pi-12/update-messaging/text-changes-co-and-so"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/live-chat/abandoned-live-chat-conversation-after-10min",
+  "id": "pi-16/live-chat/abandoned-live-chat-conversation-after-10min",
+  "title": "As a User, I can see abandoned conversation in the activity stream after 10 minutes.",
+  "description": "Summary",
+  "source": "@site/../pi-16/live-chat/abandoned-live-chat-conversation-after-10min.md",
+  "sourceDirName": "pi-16/live-chat",
+  "slug": "/pi-16/live-chat/abandoned-live-chat-conversation-after-10min",
+  "permalink": "/docs/pi-16/live-chat/abandoned-live-chat-conversation-after-10min",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/live-chat/abandoned-live-chat-conversation-after-10min.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a invoice reconciliation CRON job",
+    "permalink": "/docs/pi-16/invoice-reconciliation-cron-job/setup-invoice-reconciliation-cron-job"
+  },
+  "next": {
+    "title": "As a user, I can see the incoming request only when I am available and if unavailable then no new request will show up.",
+    "permalink": "/docs/pi-16/live-chat/incoming-requests-to-available-agents"
+  }
+}

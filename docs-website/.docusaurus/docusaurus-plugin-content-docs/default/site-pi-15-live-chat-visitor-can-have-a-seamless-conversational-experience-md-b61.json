@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/live-chat/visitor-can-have-a-seamless-conversational-experience",
+  "id": "pi-15/live-chat/visitor-can-have-a-seamless-conversational-experience",
+  "title": "Visitor can have a seamless conversational experience.",
+  "description": "Summary",
+  "source": "@site/../pi-15/live-chat/visitor-can-have-a-seamless-conversational-experience.md",
+  "sourceDirName": "pi-15/live-chat",
+  "slug": "/pi-15/live-chat/visitor-can-have-a-seamless-conversational-experience",
+  "permalink": "/docs/pi-15/live-chat/visitor-can-have-a-seamless-conversational-experience",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/live-chat/visitor-can-have-a-seamless-conversational-experience.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "View and accept incoming live chat requests.",
+    "permalink": "/docs/pi-15/live-chat/view-and-accept-live-chat-request"
+  },
+  "next": {
+    "title": "Visitor will be able to view agent joined when handed-off .",
+    "permalink": "/docs/pi-15/live-chat/widget-side-livechat-handoff"
+  }
+}

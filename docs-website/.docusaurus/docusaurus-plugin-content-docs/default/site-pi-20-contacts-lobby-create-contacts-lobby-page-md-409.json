@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/contacts-lobby/create-contacts-lobby-page",
+  "id": "pi-20/contacts-lobby/create-contacts-lobby-page",
+  "title": "Create contacts lobby page",
+  "description": "Summary",
+  "source": "@site/../pi-20/contacts-lobby/create-contacts-lobby-page.md",
+  "sourceDirName": "pi-20/contacts-lobby",
+  "slug": "/pi-20/contacts-lobby/create-contacts-lobby-page",
+  "permalink": "/docs/pi-20/contacts-lobby/create-contacts-lobby-page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/contacts-lobby/create-contacts-lobby-page.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create contact overlay pane containg contact details",
+    "permalink": "/docs/pi-20/contacts-lobby/create-contacts-lobby-details-page"
+  },
+  "next": {
+    "title": "Save filters",
+    "permalink": "/docs/pi-20/contacts-lobby/save-contact-filters"
+  }
+}

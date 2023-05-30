@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/live-chat-webhook-notification-url/use-user-profile-availability-for-incoming-live-chats",
+  "id": "pi-19/live-chat-webhook-notification-url/use-user-profile-availability-for-incoming-live-chats",
+  "title": "Use user profile availability for incoming live chats.",
+  "description": "Summary",
+  "source": "@site/../pi-19/live-chat-webhook-notification-url/use-user-profile-availability-for-incoming-live-chats.md",
+  "sourceDirName": "pi-19/live-chat-webhook-notification-url",
+  "slug": "/pi-19/live-chat-webhook-notification-url/use-user-profile-availability-for-incoming-live-chats",
+  "permalink": "/docs/pi-19/live-chat-webhook-notification-url/use-user-profile-availability-for-incoming-live-chats",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/live-chat-webhook-notification-url/use-user-profile-availability-for-incoming-live-chats.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "setup and save the livechat webhook notification url",
+    "permalink": "/docs/pi-19/live-chat-webhook-notification-url/setup-and-save-the-live-chat-webhook-notification-url"
+  },
+  "next": {
+    "title": "user can see the basic details, so that they can click and be taken to the lobby.",
+    "permalink": "/docs/pi-19/live-chat-webhook-notification-url/user-can-see-the-basic-details-so-that-they-can-click-and-be-taken-to-the-lobby"
+  }
+}

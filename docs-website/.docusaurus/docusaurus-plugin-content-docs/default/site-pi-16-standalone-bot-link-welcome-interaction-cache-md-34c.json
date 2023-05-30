@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/standalone-bot-link/welcome-interaction-cache",
+  "id": "pi-16/standalone-bot-link/welcome-interaction-cache",
+  "title": "Cache reaching out interaction on cdn",
+  "description": "Summary",
+  "source": "@site/../pi-16/standalone-bot-link/welcome-interaction-cache.md",
+  "sourceDirName": "pi-16/standalone-bot-link",
+  "slug": "/pi-16/standalone-bot-link/welcome-interaction-cache",
+  "permalink": "/docs/pi-16/standalone-bot-link/welcome-interaction-cache",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/standalone-bot-link/welcome-interaction-cache.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Share a standalone bot link",
+    "permalink": "/docs/pi-16/standalone-bot-link/share-standalone-bot-link"
+  },
+  "next": {
+    "title": "Tracking only booking received events for ScheduleOnce and ChatOnce",
+    "permalink": "/docs/pi-16/tracking-booking-receved-events/tracking-booking-received-events-mixpanel"
+  }
+}

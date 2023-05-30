@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/chatonce-website-level-assignment/chatonce-assignment-default-settings",
+  "id": "pi-11/chatonce-website-level-assignment/chatonce-assignment-default-settings",
+  "title": "Default settings for assignments.",
+  "description": "Summary",
+  "source": "@site/../pi-11/chatonce-website-level-assignment/chatonce-assignment-default-settings.md",
+  "sourceDirName": "pi-11/chatonce-website-level-assignment",
+  "slug": "/pi-11/chatonce-website-level-assignment/chatonce-assignment-default-settings",
+  "permalink": "/docs/pi-11/chatonce-website-level-assignment/chatonce-assignment-default-settings",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/chatonce-website-level-assignment/chatonce-assignment-default-settings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multithreading on customer side",
+    "permalink": "/docs/pi-11/chatonce-multithreading/customer-side-multi-threading"
+  },
+  "next": {
+    "title": "Adding assignment page and navigate",
+    "permalink": "/docs/pi-11/chatonce-website-level-assignment/chatonce-assignment-lobby-navigation"
+  }
+}

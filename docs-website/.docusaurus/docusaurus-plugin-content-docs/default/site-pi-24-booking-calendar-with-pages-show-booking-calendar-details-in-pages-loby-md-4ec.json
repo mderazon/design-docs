@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-24/booking-calendar-with-pages/show-booking-calendar-details-in-pages-loby",
+  "id": "pi-24/booking-calendar-with-pages/show-booking-calendar-details-in-pages-loby",
+  "title": "As a user I can see pages with a booking calendar embedded in them in the Pages lobby",
+  "description": "Summary",
+  "source": "@site/../pi-24/booking-calendar-with-pages/show-booking-calendar-details-in-pages-loby.md",
+  "sourceDirName": "pi-24/booking-calendar-with-pages",
+  "slug": "/pi-24/booking-calendar-with-pages/show-booking-calendar-details-in-pages-loby",
+  "permalink": "/docs/pi-24/booking-calendar-with-pages/show-booking-calendar-details-in-pages-loby",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-24/booking-calendar-with-pages/show-booking-calendar-details-in-pages-loby.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user I can save my Page with a booking calendar embedded in the Classic page",
+    "permalink": "/docs/pi-24/booking-calendar-with-pages/save-booking-calendar-as-engagment-channel-in-pages"
+  },
+  "next": {
+    "title": "As a Visitor, I will see date format in the chatbot based on the browser locale",
+    "permalink": "/docs/pi-24/browser-locale-date-format-display/browser-locale-new-date-format-display-in-chatbot"
+  }
+}

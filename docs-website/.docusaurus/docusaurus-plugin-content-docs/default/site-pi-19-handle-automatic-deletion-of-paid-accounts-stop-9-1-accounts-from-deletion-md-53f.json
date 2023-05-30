@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/handle-automatic-deletion-of-paid-accounts/stop-9.1-accounts-from-deletion",
+  "id": "pi-19/handle-automatic-deletion-of-paid-accounts/stop-9.1-accounts-from-deletion",
+  "title": "Feature name",
+  "description": "HandleAutomaticDeletionOfPaidAccounts",
+  "source": "@site/../pi-19/handle-automatic-deletion-of-paid-accounts/stop-9.1-accounts-from-deletion.md",
+  "sourceDirName": "pi-19/handle-automatic-deletion-of-paid-accounts",
+  "slug": "/pi-19/handle-automatic-deletion-of-paid-accounts/stop-9.1-accounts-from-deletion",
+  "permalink": "/docs/pi-19/handle-automatic-deletion-of-paid-accounts/stop-9.1-accounts-from-deletion",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/handle-automatic-deletion-of-paid-accounts/stop-9.1-accounts-from-deletion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a visitor, I will see the single select options as a list if the user has set them to be so.",
+    "permalink": "/docs/pi-19/formonce/single-select-options-as-a-list-on-visitor-side"
+  },
+  "next": {
+    "title": "Help-Widget",
+    "permalink": "/docs/pi-19/help-widget/"
+  }
+}

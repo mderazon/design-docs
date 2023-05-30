@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/public-events-consumer-error-handling/public-events-consumer-error-handling",
+  "id": "pi-21/public-events-consumer-error-handling/public-events-consumer-error-handling",
+  "title": "Public events consumer error handling for failed messages",
+  "description": "Summary",
+  "source": "@site/../pi-21/public-events-consumer-error-handling/public-events-consumer-error-handling.md",
+  "sourceDirName": "pi-21/public-events-consumer-error-handling",
+  "slug": "/pi-21/public-events-consumer-error-handling/",
+  "permalink": "/docs/pi-21/public-events-consumer-error-handling/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/public-events-consumer-error-handling/public-events-consumer-error-handling.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-21/new-navigation/video-popup-for-explaining-newplatform-structure"
+  },
+  "next": {
+    "title": "As a developer I will make preview page dynamic with embed-setting.",
+    "permalink": "/docs/pi-21/publish-bot-in-different-ways/dynamic-preview-form"
+  }
+}

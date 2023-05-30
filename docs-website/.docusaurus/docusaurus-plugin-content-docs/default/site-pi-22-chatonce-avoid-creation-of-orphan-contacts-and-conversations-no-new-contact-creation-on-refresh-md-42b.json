@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/no-new-contact-creation-on-refresh",
+  "id": "pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/no-new-contact-creation-on-refresh",
+  "title": "As a visitor my contact will not be created again when I refresh page",
+  "description": "Summary",
+  "source": "@site/../pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/no-new-contact-creation-on-refresh.md",
+  "sourceDirName": "pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations",
+  "slug": "/pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/no-new-contact-creation-on-refresh",
+  "permalink": "/docs/pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/no-new-contact-creation-on-refresh",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/no-new-contact-creation-on-refresh.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a new visitor I can see no contact created based on cookies and refresh case will work",
+    "permalink": "/docs/pi-22/chatonce-avoid-creation-of-orphan-contacts-and-conversations/no-contact-cookie-creation-on-bot-open"
+  },
+  "next": {
+    "title": "As a user, busy time configuration in my live chat availability profile will also work for instant meetings.",
+    "permalink": "/docs/pi-22/co-instant-call/instant-call-availability-and-busy-time"
+  }
+}

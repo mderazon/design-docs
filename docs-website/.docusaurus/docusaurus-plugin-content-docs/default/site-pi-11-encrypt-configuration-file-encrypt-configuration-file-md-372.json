@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/encrypt-configuration-file/encrypt-configuration-file",
+  "id": "pi-11/encrypt-configuration-file/encrypt-configuration-file",
+  "title": "Encrypt connection string in configuration file on pci projects",
+  "description": "Summary",
+  "source": "@site/../pi-11/encrypt-configuration-file/encrypt-configuration-file.md",
+  "sourceDirName": "pi-11/encrypt-configuration-file",
+  "slug": "/pi-11/encrypt-configuration-file/",
+  "permalink": "/docs/pi-11/encrypt-configuration-file/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/encrypt-configuration-file/encrypt-configuration-file.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Displaying Enable actions Pop ups like licence assignment, Fair usage policy, buy licence",
+    "permalink": "/docs/pi-11/enable-bp-popups/"
+  },
+  "next": {
+    "title": "As a user, on my monthly micro transaction invoice, I will know if an activity connected to a payment was deleted",
+    "permalink": "/docs/pi-11/monthly-micro-payment-invoice/"
+  }
+}

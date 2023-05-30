@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/oh-dashboard/booking-offered-events",
+  "id": "pi-17/oh-dashboard/booking-offered-events",
+  "title": "Feature name",
+  "description": "Dashboard",
+  "source": "@site/../pi-17/oh-dashboard/booking-offered-events.md",
+  "sourceDirName": "pi-17/oh-dashboard",
+  "slug": "/pi-17/oh-dashboard/booking-offered-events",
+  "permalink": "/docs/pi-17/oh-dashboard/booking-offered-events",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/oh-dashboard/booking-offered-events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-17/oh-dashboard/booking-completed-events"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-17/oh-dashboard/booking-scheduled-events/new-scheduling-engine"
+  }
+}

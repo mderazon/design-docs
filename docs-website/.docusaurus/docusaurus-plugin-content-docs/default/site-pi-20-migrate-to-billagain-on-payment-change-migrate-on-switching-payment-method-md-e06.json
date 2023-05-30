@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-20/migrate-to-billagain-on-payment-change/migrate-on-switching-payment-method",
+  "id": "pi-20/migrate-to-billagain-on-payment-change/migrate-on-switching-payment-method",
+  "title": "As an old billed user, I will be migrated to BillAgain when switching my payment method from PayPal to CreditCard",
+  "description": "Summary",
+  "source": "@site/../pi-20/migrate-to-billagain-on-payment-change/migrate-on-switching-payment-method.md",
+  "sourceDirName": "pi-20/migrate-to-billagain-on-payment-change",
+  "slug": "/pi-20/migrate-to-billagain-on-payment-change/migrate-on-switching-payment-method",
+  "permalink": "/docs/pi-20/migrate-to-billagain-on-payment-change/migrate-on-switching-payment-method",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-20/migrate-to-billagain-on-payment-change/migrate-on-switching-payment-method.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, I can create a standalone form",
+    "permalink": "/docs/pi-20/formonce/standalone-form"
+  },
+  "next": {
+    "title": "As a developer, I will create a new pop-up, Switch to Credit card for old billed accounts",
+    "permalink": "/docs/pi-20/migrate-to-billagain-on-payment-change/popup-switch-paypal-to-cc"
+  }
+}

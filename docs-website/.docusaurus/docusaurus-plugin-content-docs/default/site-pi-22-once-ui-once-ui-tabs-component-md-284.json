@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/once-ui/once-ui-tabs-component",
+  "id": "pi-22/once-ui/once-ui-tabs-component",
+  "title": "Booking Calender",
+  "description": "Summary",
+  "source": "@site/../pi-22/once-ui/once-ui-tabs-component.md",
+  "sourceDirName": "pi-22/once-ui",
+  "slug": "/pi-22/once-ui/once-ui-tabs-component",
+  "permalink": "/docs/pi-22/once-ui/once-ui-tabs-component",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/once-ui/once-ui-tabs-component.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Notification Workflow",
+    "permalink": "/docs/pi-22/notification-template-service/delete-notification-workflow"
+  },
+  "next": {
+    "title": "Add nginx in the entry point to serve Oncehub website and standalone pages",
+    "permalink": "/docs/pi-22/oncehub-proxy/"
+  }
+}

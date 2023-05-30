@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/form-once/formonce-empty-page-and-add-in-menu",
+  "id": "pi-17/form-once/formonce-empty-page-and-add-in-menu",
+  "title": "Create new Forms page",
+  "description": "Summary",
+  "source": "@site/../pi-17/form-once/formonce-empty-page-and-add-in-menu.md",
+  "sourceDirName": "pi-17/form-once",
+  "slug": "/pi-17/form-once/formonce-empty-page-and-add-in-menu",
+  "permalink": "/docs/pi-17/form-once/formonce-empty-page-and-add-in-menu",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/form-once/formonce-empty-page-and-add-in-menu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User can copy the form embed code on the publish page and can publish their forms.",
+    "permalink": "/docs/pi-17/form-once/form-share"
+  },
+  "next": {
+    "title": "Navigate to form builder to create smart forms",
+    "permalink": "/docs/pi-17/form-once/navigate-to-builder-interface"
+  }
+}

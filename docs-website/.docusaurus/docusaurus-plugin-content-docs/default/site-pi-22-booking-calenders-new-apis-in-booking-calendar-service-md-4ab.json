@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/booking-calenders/new-apis-in-booking-calendar-service",
+  "id": "pi-22/booking-calenders/new-apis-in-booking-calendar-service",
+  "title": "Create Get, PUT, PATCH and DELETE APIs in booking calendar service",
+  "description": "Summary",
+  "source": "@site/../pi-22/booking-calenders/new-apis-in-booking-calendar-service.md",
+  "sourceDirName": "pi-22/booking-calenders",
+  "slug": "/pi-22/booking-calenders/new-apis-in-booking-calendar-service",
+  "permalink": "/docs/pi-22/booking-calenders/new-apis-in-booking-calendar-service",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/booking-calenders/new-apis-in-booking-calendar-service.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booking Calender",
+    "permalink": "/docs/pi-22/booking-calenders/duplicate-booking-calendar"
+  },
+  "next": {
+    "title": "Save Customer Notification Workflow For Multiple Booking Calendars",
+    "permalink": "/docs/pi-22/booking-calenders/notification-template-id"
+  }
+}

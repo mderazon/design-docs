@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/booking-calenders/booking-calendar-meeting-owner",
+  "id": "pi-22/booking-calenders/booking-calendar-meeting-owner",
+  "title": "Booking Calender",
+  "description": "Summary",
+  "source": "@site/../pi-22/booking-calenders/booking-calendar-meeting-owner.md",
+  "sourceDirName": "pi-22/booking-calenders",
+  "slug": "/pi-22/booking-calenders/booking-calendar-meeting-owner",
+  "permalink": "/docs/pi-22/booking-calenders/booking-calendar-meeting-owner",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/booking-calenders/booking-calendar-meeting-owner.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booking Calender",
+    "permalink": "/docs/pi-22/booking-calenders/booking-calendar-lobby-filters"
+  },
+  "next": {
+    "title": "Booking Calendar",
+    "permalink": "/docs/pi-22/booking-calenders/booking-calendar-navigation"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/add-contact-status-to-activity-stream/add-contact-status-to-activity-stream",
+  "id": "pi-16/add-contact-status-to-activity-stream/add-contact-status-to-activity-stream",
+  "title": "add-contact-status-to-activity-stream",
+  "description": "Manually updating a contact’s status in the contact pane of the Activity stream",
+  "source": "@site/../pi-16/add-contact-status-to-activity-stream/add-contact-status-to-activity-stream.md",
+  "sourceDirName": "pi-16/add-contact-status-to-activity-stream",
+  "slug": "/pi-16/add-contact-status-to-activity-stream/",
+  "permalink": "/docs/pi-16/add-contact-status-to-activity-stream/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/add-contact-status-to-activity-stream/add-contact-status-to-activity-stream.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contact-status-filter-option",
+    "permalink": "/docs/pi-16/add-contact-status-filter-option/contact-status-filter-option"
+  },
+  "next": {
+    "title": "add-select-status-to-contact-pane",
+    "permalink": "/docs/pi-16/add-contact-status-to-activity-stream/add-select-status-to-contact-pane"
+  }
+}

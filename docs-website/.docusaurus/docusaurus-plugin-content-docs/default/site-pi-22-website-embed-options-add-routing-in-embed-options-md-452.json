@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-22/website-embed-options/add-routing-in-embed-options",
+  "id": "pi-22/website-embed-options/add-routing-in-embed-options",
+  "title": "As a user, when I click the embed options, user has an easy flow from the lobby to the respective section.",
+  "description": "Summary",
+  "source": "@site/../pi-22/website-embed-options/add-routing-in-embed-options.md",
+  "sourceDirName": "pi-22/website-embed-options",
+  "slug": "/pi-22/website-embed-options/add-routing-in-embed-options",
+  "permalink": "/docs/pi-22/website-embed-options/add-routing-in-embed-options",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-22/website-embed-options/add-routing-in-embed-options.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Server side validation to reverify the cloudflare reverification token",
+    "permalink": "/docs/pi-22/use-recaptcha-on-customer-frontend/recaptcha-validation-on-server-side"
+  },
+  "next": {
+    "title": "As a website visitor, I can see new Website-Embed option in main left navigation",
+    "permalink": "/docs/pi-22/website-embed-options/create-new-website-embed-page"
+  }
+}

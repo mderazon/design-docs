@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/user-can-create-pop-up-bots/user-can-duplicate-pop-up-bots",
+  "id": "pi-18/user-can-create-pop-up-bots/user-can-duplicate-pop-up-bots",
+  "title": "As a User, I can duplicate a pop-up bot.",
+  "description": "Summary",
+  "source": "@site/../pi-18/user-can-create-pop-up-bots/user-can-duplicate-pop-up-bots.md",
+  "sourceDirName": "pi-18/user-can-create-pop-up-bots",
+  "slug": "/pi-18/user-can-create-pop-up-bots/user-can-duplicate-pop-up-bots",
+  "permalink": "/docs/pi-18/user-can-create-pop-up-bots/user-can-duplicate-pop-up-bots",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/user-can-create-pop-up-bots/user-can-duplicate-pop-up-bots.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Missing information validation banner",
+    "permalink": "/docs/pi-18/user-can-create-pop-up-bots/update-publish-error-banners"
+  },
+  "next": {
+    "title": "users-cancel-their-subscription-and-still-keep-the-account",
+    "permalink": "/docs/pi-18/users-cancel-their-subscription-and-still-keep-the-account/"
+  }
+}

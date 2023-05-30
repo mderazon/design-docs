@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-13/two-way-sync-for-already-connected-accounts-o365",
+  "id": "pi-13/two-way-sync-for-already-connected-accounts-o365",
+  "title": "Feature name : 2 way sync should work for already connected accounts via O365[OAuth]",
+  "description": "Summary",
+  "source": "@site/../pi-13/two-way-sync-for-already-connected-accounts-o365.md",
+  "sourceDirName": "pi-13",
+  "slug": "/pi-13/two-way-sync-for-already-connected-accounts-o365",
+  "permalink": "/docs/pi-13/two-way-sync-for-already-connected-accounts-o365",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-13/two-way-sync-for-already-connected-accounts-o365.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "meeting-booked-event",
+    "permalink": "/docs/pi-13/tracking-meeting-booked-event/meeting-booked-event"
+  },
+  "next": {
+    "title": "Feature name : User Profile availability",
+    "permalink": "/docs/pi-13/user-profile-availability/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/user-can-create-pop-up-bots/user-can-edit-assignment-settings-under-bot-setting",
+  "id": "pi-17/user-can-create-pop-up-bots/user-can-edit-assignment-settings-under-bot-setting",
+  "title": "As an Admin, I can edit the assignment settings under bot settings.",
+  "description": "Summary",
+  "source": "@site/../pi-17/user-can-create-pop-up-bots/user-can-edit-assignment-settings-under-bot-setting.md",
+  "sourceDirName": "pi-17/user-can-create-pop-up-bots",
+  "slug": "/pi-17/user-can-create-pop-up-bots/user-can-edit-assignment-settings-under-bot-setting",
+  "permalink": "/docs/pi-17/user-can-create-pop-up-bots/user-can-edit-assignment-settings-under-bot-setting",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/user-can-create-pop-up-bots/user-can-edit-assignment-settings-under-bot-setting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I can choose to create a pop-up bot or a targeted bot.",
+    "permalink": "/docs/pi-17/user-can-create-pop-up-bots/user-can-choose-to-create-popup-or-targeted-bot"
+  },
+  "next": {
+    "title": "As an Admin, I can edit the display settings under bot settings.",
+    "permalink": "/docs/pi-17/user-can-create-pop-up-bots/user-can-edit-display-settings-under-bot-setting"
+  }
+}

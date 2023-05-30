@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-15/live-chat/live-chat-icon-in-top-navigation-bar",
+  "id": "pi-15/live-chat/live-chat-icon-in-top-navigation-bar",
+  "title": "Live chat link in top navigation bar",
+  "description": "Summary",
+  "source": "@site/../pi-15/live-chat/live-chat-icon-in-top-navigation-bar.md",
+  "sourceDirName": "pi-15/live-chat",
+  "slug": "/pi-15/live-chat/live-chat-icon-in-top-navigation-bar",
+  "permalink": "/docs/pi-15/live-chat/live-chat-icon-in-top-navigation-bar",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-15/live-chat/live-chat-icon-in-top-navigation-bar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The user will see the closed conversation in activity stream with live chat transcript.",
+    "permalink": "/docs/pi-15/live-chat/live-chat-closed-conv-in-activity-stream"
+  },
+  "next": {
+    "title": "User can see live chat incoming conversation request.",
+    "permalink": "/docs/pi-15/live-chat/live-chat-incoming-conversation-requests"
+  }
+}

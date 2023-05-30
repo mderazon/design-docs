@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/skip-product-selection-and-io-removal/skip-product-selection-and-io-removal",
+  "id": "pi-12/skip-product-selection-and-io-removal/skip-product-selection-and-io-removal",
+  "title": "skip-product-selection-and-io-removal",
+  "description": "Signup of new User will not be able to see IO, and SO trail will be automatically started",
+  "source": "@site/../pi-12/skip-product-selection-and-io-removal/skip-product-selection-and-io-removal.md",
+  "sourceDirName": "pi-12/skip-product-selection-and-io-removal",
+  "slug": "/pi-12/skip-product-selection-and-io-removal/",
+  "permalink": "/docs/pi-12/skip-product-selection-and-io-removal/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/skip-product-selection-and-io-removal/skip-product-selection-and-io-removal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add Schedule action dynamic bookings.",
+    "permalink": "/docs/pi-12/schedule-action-dynamic-bookings-chatonce/schedule-action-dynamic-bookings"
+  },
+  "next": {
+    "title": "New sign up flow for SOLO Plan",
+    "permalink": "/docs/pi-12/solo-plan/"
+  }
+}

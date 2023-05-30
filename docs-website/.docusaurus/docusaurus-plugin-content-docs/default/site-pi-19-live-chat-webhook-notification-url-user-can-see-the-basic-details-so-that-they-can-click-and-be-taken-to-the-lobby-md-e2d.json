@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-19/live-chat-webhook-notification-url/user-can-see-the-basic-details-so-that-they-can-click-and-be-taken-to-the-lobby",
+  "id": "pi-19/live-chat-webhook-notification-url/user-can-see-the-basic-details-so-that-they-can-click-and-be-taken-to-the-lobby",
+  "title": "user can see the basic details, so that they can click and be taken to the lobby.",
+  "description": "Summary",
+  "source": "@site/../pi-19/live-chat-webhook-notification-url/user-can-see-the-basic-details-so-that-they-can-click-and-be-taken-to-the-lobby.md",
+  "sourceDirName": "pi-19/live-chat-webhook-notification-url",
+  "slug": "/pi-19/live-chat-webhook-notification-url/user-can-see-the-basic-details-so-that-they-can-click-and-be-taken-to-the-lobby",
+  "permalink": "/docs/pi-19/live-chat-webhook-notification-url/user-can-see-the-basic-details-so-that-they-can-click-and-be-taken-to-the-lobby",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-19/live-chat-webhook-notification-url/user-can-see-the-basic-details-so-that-they-can-click-and-be-taken-to-the-lobby.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Use user profile availability for incoming live chats.",
+    "permalink": "/docs/pi-19/live-chat-webhook-notification-url/use-user-profile-availability-for-incoming-live-chats"
+  },
+  "next": {
+    "title": "Delete SO/CO/FO meetings after 42 days for Starter plan accounts",
+    "permalink": "/docs/pi-19/mark-activities-to-be-deleted-cronjob/"
+  }
+}

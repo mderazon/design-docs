@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-17/bots-to-account-level/member-cannot-access-chatonce-setup",
+  "id": "pi-17/bots-to-account-level/member-cannot-access-chatonce-setup",
+  "title": "As a Member, I cannot access ChatOnce setup.",
+  "description": "Summary",
+  "source": "@site/../pi-17/bots-to-account-level/member-cannot-access-chatonce-setup.md",
+  "sourceDirName": "pi-17/bots-to-account-level",
+  "slug": "/pi-17/bots-to-account-level/member-cannot-access-chatonce-setup",
+  "permalink": "/docs/pi-17/bots-to-account-level/member-cannot-access-chatonce-setup",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-17/bots-to-account-level/member-cannot-access-chatonce-setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As an admin, I can filter the bots by website in bot lobby.",
+    "permalink": "/docs/pi-17/bots-to-account-level/filter-by-website-name-in-bot-lobby"
+  },
+  "next": {
+    "title": "As a User, I can select a website or create a new one when creating a new bot.",
+    "permalink": "/docs/pi-17/bots-to-account-level/select-or-create-new-website-for-new-bot"
+  }
+}

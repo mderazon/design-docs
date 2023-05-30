@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/add-livechat-to-forms/show-form-live-chat-in-past-chats",
+  "id": "pi-21/add-livechat-to-forms/show-form-live-chat-in-past-chats",
+  "title": "As a User, I will see my form live chat transcript in the past chats",
+  "description": "Summary",
+  "source": "@site/../pi-21/add-livechat-to-forms/show-form-live-chat-in-past-chats.md",
+  "sourceDirName": "pi-21/add-livechat-to-forms",
+  "slug": "/pi-21/add-livechat-to-forms/show-form-live-chat-in-past-chats",
+  "permalink": "/docs/pi-21/add-livechat-to-forms/show-form-live-chat-in-past-chats",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/add-livechat-to-forms/show-form-live-chat-in-past-chats.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a User, I will see an indication of live chat in preview",
+    "permalink": "/docs/pi-21/add-livechat-to-forms/live-chat-preview"
+  },
+  "next": {
+    "title": "As a Visitor, I will see a transition message in the form and the lightbox will open for live chat to start.",
+    "permalink": "/docs/pi-21/add-livechat-to-forms/transition-message-in-differnt-state-of-live-chat"
+  }
+}

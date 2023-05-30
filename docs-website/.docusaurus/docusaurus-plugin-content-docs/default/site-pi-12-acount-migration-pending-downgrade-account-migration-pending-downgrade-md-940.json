@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/acount-migration-pending-downgrade/account-migration-pending-downgrade",
+  "id": "pi-12/acount-migration-pending-downgrade/account-migration-pending-downgrade",
+  "title": "Migrate 7.9/8.9 accounts with pending downgrade or license removal",
+  "description": "Migrate 7.9/8.9 accounts with existing pending downgrade/license removal to new billing system when purchasing ChatOnce in Old billing",
+  "source": "@site/../pi-12/acount-migration-pending-downgrade/account-migration-pending-downgrade.md",
+  "sourceDirName": "pi-12/acount-migration-pending-downgrade",
+  "slug": "/pi-12/acount-migration-pending-downgrade/account-migration-pending-downgrade",
+  "permalink": "/docs/pi-12/acount-migration-pending-downgrade/account-migration-pending-downgrade",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/acount-migration-pending-downgrade/account-migration-pending-downgrade.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrate zapier, webhook and notification queue processing in meeting processor service",
+    "permalink": "/docs/pi-12/3rd-party-integrations-for-co/integrate-zapier-webhook-notification-in-mps/"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-12/add-licence-or-purchase-when-other-product-in-downgrade/"
+  }
+}

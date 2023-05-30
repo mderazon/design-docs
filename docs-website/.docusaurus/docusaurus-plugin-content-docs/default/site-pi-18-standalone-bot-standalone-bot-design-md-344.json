@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-18/standalone-bot/standalone-bot-design",
+  "id": "pi-18/standalone-bot/standalone-bot-design",
+  "title": "User can update the design for a standalone bot.",
+  "description": "Summary",
+  "source": "@site/../pi-18/standalone-bot/standalone-bot-design.md",
+  "sourceDirName": "pi-18/standalone-bot",
+  "slug": "/pi-18/standalone-bot/standalone-bot-design",
+  "permalink": "/docs/pi-18/standalone-bot/standalone-bot-design",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-18/standalone-bot/standalone-bot-design.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User can see the design elements of a standalone bot in dummy preview",
+    "permalink": "/docs/pi-18/standalone-bot/standalone-bot-design-preview"
+  },
+  "next": {
+    "title": "User will be able to see publish section for standalone bots.",
+    "permalink": "/docs/pi-18/standalone-bot/standalone-bot-publish"
+  }
+}

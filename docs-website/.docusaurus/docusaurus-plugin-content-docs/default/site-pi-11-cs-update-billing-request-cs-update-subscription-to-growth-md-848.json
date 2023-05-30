@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-11/cs-update-billing-request/cs-update-subscription-to-growth",
+  "id": "pi-11/cs-update-billing-request/cs-update-subscription-to-growth",
+  "title": "Feature name",
+  "description": "Create backend API that will allow CS to update subscription for Users",
+  "source": "@site/../pi-11/cs-update-billing-request/cs-update-subscription-to-growth.md",
+  "sourceDirName": "pi-11/cs-update-billing-request",
+  "slug": "/pi-11/cs-update-billing-request/cs-update-subscription-to-growth",
+  "permalink": "/docs/pi-11/cs-update-billing-request/cs-update-subscription-to-growth",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-11/cs-update-billing-request/cs-update-subscription-to-growth.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-11/cs-update-billing-request/cs-update-subscription-request"
+  },
+  "next": {
+    "title": "Block meeting time",
+    "permalink": "/docs/pi-11/customer-front-api/block-meeting-time/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-13/chatonce-trial-signup/start-so-co-trials-simultaneously",
+  "id": "pi-13/chatonce-trial-signup/start-so-co-trials-simultaneously",
+  "title": "Feature name",
+  "description": "Start CO trial and SO trial simultaneously and vice-versa",
+  "source": "@site/../pi-13/chatonce-trial-signup/start-so-co-trials-simultaneously.md",
+  "sourceDirName": "pi-13/chatonce-trial-signup",
+  "slug": "/pi-13/chatonce-trial-signup/start-so-co-trials-simultaneously",
+  "permalink": "/docs/pi-13/chatonce-trial-signup/start-so-co-trials-simultaneously",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-13/chatonce-trial-signup/start-so-co-trials-simultaneously.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-13/chatonce-trial-signup/co-trial-signup-flow"
+  },
+  "next": {
+    "title": "Separate Audience identification and Audience targeting",
+    "permalink": "/docs/pi-13/chatonce-website-level-targeting/audience-targeting-details"
+  }
+}

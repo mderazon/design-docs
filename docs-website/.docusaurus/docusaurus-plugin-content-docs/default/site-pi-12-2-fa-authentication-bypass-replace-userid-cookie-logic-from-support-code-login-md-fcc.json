@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/2fa-authentication-bypass/replace-userid-cookie-logic-from-support-code-login",
+  "id": "pi-12/2fa-authentication-bypass/replace-userid-cookie-logic-from-support-code-login",
+  "title": "2 FA Authentication Bypass - Replace user_id cookie logic from support code login",
+  "description": "Summary",
+  "source": "@site/../pi-12/2fa-authentication-bypass/replace-userid-cookie-logic-from-support-code-login.md",
+  "sourceDirName": "pi-12/2fa-authentication-bypass",
+  "slug": "/pi-12/2fa-authentication-bypass/replace-userid-cookie-logic-from-support-code-login",
+  "permalink": "/docs/pi-12/2fa-authentication-bypass/replace-userid-cookie-logic-from-support-code-login",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/2fa-authentication-bypass/replace-userid-cookie-logic-from-support-code-login.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-11/video-conferencing-api/vcs-oauth-signin-webex"
+  },
+  "next": {
+    "title": "Integrate Kafka with Meeting Processing Service and bookings api",
+    "permalink": "/docs/pi-12/3rd-party-integrations-for-co/integrate-kafka/"
+  }
+}

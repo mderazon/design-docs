@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-21/use-new-cache-architecture-for-google-calendar/create-cache-for-first-gam-user-and-invited-user",
+  "id": "pi-21/use-new-cache-architecture-for-google-calendar/create-cache-for-first-gam-user-and-invited-user",
+  "title": "As a G-Suite User, I will be able to toggle my cache on after logging in.",
+  "description": "Summary",
+  "source": "@site/../pi-21/use-new-cache-architecture-for-google-calendar/create-cache-for-first-gam-user-and-invited-user.md",
+  "sourceDirName": "pi-21/use-new-cache-architecture-for-google-calendar",
+  "slug": "/pi-21/use-new-cache-architecture-for-google-calendar/create-cache-for-first-gam-user-and-invited-user",
+  "permalink": "/docs/pi-21/use-new-cache-architecture-for-google-calendar/create-cache-for-first-gam-user-and-invited-user",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-21/use-new-cache-architecture-for-google-calendar/create-cache-for-first-gam-user-and-invited-user.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Standardization of Kafka Topics - Phase-3 (O365-Topics Changes)",
+    "permalink": "/docs/pi-21/standardization-kafka-topics-phase-3/standardization-kafka-topics-o365"
+  },
+  "next": {
+    "title": "If a User is removed via Users lobby or if an account is hard deleted, we will delete the Cache for that User or Account",
+    "permalink": "/docs/pi-21/use-new-cache-architecture-for-google-calendar/delete-cache-on-user-or-account-hard-deletion"
+  }
+}

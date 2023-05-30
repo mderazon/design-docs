@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-12/support-co-recurring/support-co-recurring",
+  "id": "pi-12/support-co-recurring/support-co-recurring",
+  "title": "Feature name",
+  "description": "Support recurring payments for paid ChatOnce",
+  "source": "@site/../pi-12/support-co-recurring/support-co-recurring.md",
+  "sourceDirName": "pi-12/support-co-recurring",
+  "slug": "/pi-12/support-co-recurring/",
+  "permalink": "/docs/pi-12/support-co-recurring/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-12/support-co-recurring/support-co-recurring.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Use Split-io sdk for feature toggle management",
+    "permalink": "/docs/pi-12/splitio/"
+  },
+  "next": {
+    "title": "Feature name",
+    "permalink": "/docs/pi-12/tax-calculation/add-contact-address"
+  }
+}

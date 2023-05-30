@@ -1,0 +1,24 @@
+{
+  "unversionedId": "pi-16/live-chat/instant-scheduling/send-instant-schedule-action-to-visitor",
+  "id": "pi-16/live-chat/instant-scheduling/send-instant-schedule-action-to-visitor",
+  "title": "As a agent, I can send a schedule action in live chat.",
+  "description": "Summary",
+  "source": "@site/../pi-16/live-chat/instant-scheduling/send-instant-schedule-action-to-visitor.md",
+  "sourceDirName": "pi-16/live-chat/instant-scheduling",
+  "slug": "/pi-16/live-chat/instant-scheduling/send-instant-schedule-action-to-visitor",
+  "permalink": "/docs/pi-16/live-chat/instant-scheduling/send-instant-schedule-action-to-visitor",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-16/live-chat/instant-scheduling/send-instant-schedule-action-to-visitor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "As a user, i can select different option for instant schedule.",
+    "permalink": "/docs/pi-16/live-chat/instant-scheduling/selecting-options-for-instant-schedule-message"
+  },
+  "next": {
+    "title": "As a user, if I close the tab/browser then I should be considered offline",
+    "permalink": "/docs/pi-16/live-chat/live-chat-maintain-user-online-status"
+  }
+}
