@@ -11,124 +11,247 @@
           "className": "docs-version-current",
           "path": "/docs",
           "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/..",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/michaeld/github/docs-test/docs-website/sidebars.js",
-          "contentPath": "/home/michaeld/github/docs-test",
-          "contentPathLocalized": "/home/michaeld/github/docs-test/docs-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/michaeld/github/deleteme/design-docs/docs-website/sidebars.js",
+          "contentPath": "/home/michaeld/github/deleteme/design-docs/docs-website/docs",
+          "contentPathLocalized": "/home/michaeld/github/deleteme/design-docs/docs-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "pi-1/feature-1/readme",
-              "id": "pi-1/feature-1/readme",
-              "title": "Feature name",
-              "description": "Playlists",
-              "source": "@site/../pi-1/feature-1/readme.md",
-              "sourceDirName": "pi-1/feature-1",
-              "slug": "/pi-1/feature-1/",
-              "permalink": "/docs/pi-1/feature-1/",
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-1/feature-1/readme.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Feature name",
-                "permalink": "/docs/pi-1/feature-2/"
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
               }
             },
             {
-              "unversionedId": "pi-1/feature-2/readme",
-              "id": "pi-1/feature-2/readme",
-              "title": "Feature name",
-              "description": "Manage photo album",
-              "source": "@site/../pi-1/feature-2/readme.md",
-              "sourceDirName": "pi-1/feature-2",
-              "slug": "/pi-1/feature-2/",
-              "permalink": "/docs/pi-1/feature-2/",
+              "unversionedId": "tutorial-basics/congratulations",
+              "id": "tutorial-basics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/docs/tutorial-basics/congratulations",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-1/feature-2/readme.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Feature name",
-                "permalink": "/docs/pi-1/feature-1/"
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
-                "title": "Feature name",
-                "permalink": "/docs/pi-2/feature-3/part-1"
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
               }
             },
             {
-              "unversionedId": "pi-2/feature-3/part-1",
-              "id": "pi-2/feature-3/part-1",
-              "title": "Feature name",
-              "description": "Give your feature a name",
-              "source": "@site/../pi-2/feature-3/part-1.md",
-              "sourceDirName": "pi-2/feature-3",
-              "slug": "/pi-2/feature-3/part-1",
-              "permalink": "/docs/pi-2/feature-3/part-1",
+              "unversionedId": "tutorial-basics/create-a-blog-post",
+              "id": "tutorial-basics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/docs/tutorial-basics/create-a-blog-post",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-2/feature-3/part-1.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Feature name",
-                "permalink": "/docs/pi-1/feature-2/"
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics/create-a-document"
               },
               "next": {
-                "title": "Feature name",
-                "permalink": "/docs/pi-2/feature-3/part-2"
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
               }
             },
             {
-              "unversionedId": "pi-2/feature-3/part-2",
-              "id": "pi-2/feature-3/part-2",
-              "title": "Feature name",
-              "description": "Give your feature a name",
-              "source": "@site/../pi-2/feature-3/part-2.md",
-              "sourceDirName": "pi-2/feature-3",
-              "slug": "/pi-2/feature-3/part-2",
-              "permalink": "/docs/pi-2/feature-3/part-2",
+              "unversionedId": "tutorial-basics/create-a-document",
+              "id": "tutorial-basics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/docs/tutorial-basics/create-a-document",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-2/feature-3/part-2.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Feature name",
-                "permalink": "/docs/pi-2/feature-3/part-1"
+                "title": "Create a Page",
+                "permalink": "/docs/tutorial-basics/create-a-page"
               },
               "next": {
-                "title": "Feature name",
-                "permalink": "/docs/pi-2/feature-4/feature"
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
-              "unversionedId": "pi-2/feature-4/feature",
-              "id": "pi-2/feature-4/feature",
-              "title": "Feature name",
-              "description": "Give your feature a name",
-              "source": "@site/../pi-2/feature-4/feature.md",
-              "sourceDirName": "pi-2/feature-4",
-              "slug": "/pi-2/feature-4/feature",
-              "permalink": "/docs/pi-2/feature-4/feature",
+              "unversionedId": "tutorial-basics/create-a-page",
+              "id": "tutorial-basics/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/docs/tutorial-basics/create-a-page",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/../pi-2/feature-4/feature.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Feature name",
-                "permalink": "/docs/pi-2/feature-3/part-2"
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/deploy-your-site",
+              "id": "tutorial-basics/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/markdown-features",
+              "id": "tutorial-basics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/docs/tutorial-basics/markdown-features",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/tutorial-extras/manage-docs-versions"
               }
             }
           ],
@@ -136,58 +259,67 @@
           "sidebars": {
             "tutorialSidebar": [
               {
-                "type": "category",
-                "label": "pi-1",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Feature name",
-                    "id": "pi-1/feature-1/readme"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Feature name",
-                    "id": "pi-1/feature-2/readme"
-                  }
-                ]
+                "type": "doc",
+                "id": "intro"
               },
               {
                 "type": "category",
-                "label": "pi-2",
+                "label": "Tutorial - Basics",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
-                    "type": "category",
-                    "label": "feature-3",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "pi-2/feature-3/part-1"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "pi-2/feature-3/part-2"
-                      }
-                    ]
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-page"
                   },
                   {
-                    "type": "category",
-                    "label": "feature-4",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "pi-2/feature-4/feature"
-                      }
-                    ]
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/tutorial---basics",
+                  "permalink": "/docs/category/tutorial---basics"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---extras",
+                  "permalink": "/docs/category/tutorial---extras"
+                }
               }
             ]
           }
@@ -203,6 +335,7 @@
           "id": "welcome",
           "metadata": {
             "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -264,6 +397,7 @@
           "id": "mdx-blog-post",
           "metadata": {
             "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -311,6 +445,7 @@
           "id": "long-blog-post",
           "metadata": {
             "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -361,6 +496,7 @@
           "id": "first-blog-post",
           "metadata": {
             "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",

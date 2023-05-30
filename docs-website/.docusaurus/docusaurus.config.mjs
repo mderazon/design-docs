@@ -26,15 +26,15 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/michaeld/github/docs-test/docs-website/sidebars.js",
-          "path": "..",
-          "include": [
-            "pi-*/**/*.{md,mdx}"
-          ],
+          "sidebarPath": "/home/michaeld/github/deleteme/design-docs/docs-website/sidebars.js",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+        },
+        "blog": {
+          "showReadingTime": true,
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/home/michaeld/github/docs-test/docs-website/src/css/custom.css"
+          "customCss": "/home/michaeld/github/deleteme/design-docs/docs-website/src/css/custom.css"
         }
       }
     ]
