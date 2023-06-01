@@ -39,8 +39,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          path: "..",
-          include: ["pi-*/**/*.{md,mdx}"],
+          path: "../docs",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
